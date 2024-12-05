@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241124T080000.000Z",
+    "endTime": "20241125T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000132,
+      "mode": "brawlBall",
+      "map": "Center Stage"
+    }
+  },
+  {
+    "startTime": "20241123T200000.000Z",
+    "endTime": "20241124T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000101,
+      "mode": "soloShowdown",
+      "map": "Dark Passage"
+    }
+  },
+  {
+    "startTime": "20241124T020000.000Z",
+    "endTime": "20241125T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000843,
+      "mode": "gemGrab",
+      "map": "Corkscrew"
+    }
+  },
+  {
+    "startTime": "20241123T140000.000Z",
+    "endTime": "20241124T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20241123T200000.000Z",
+    "endTime": "20241124T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000102,
+      "mode": "duoShowdown",
+      "map": "Dark Passage"
+    }
+  },
+  {
+    "startTime": "20241123T140000.000Z",
+    "endTime": "20241124T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000733,
+      "mode": "knockout",
+      "map": "Between the Rivers"
+    }
+  },
+  {
+    "startTime": "20241122T080000.000Z",
+    "endTime": "20241125T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000849,
+      "mode": "trioShowdown",
+      "map": "Dark Passage",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241122T080000.000Z",
+    "endTime": "20241125T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000828,
+      "mode": "unknown",
+      "map": "Celestial Crusade",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241124T020000.000Z",
+    "endTime": "20241125T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000837,
+      "mode": "duels",
+      "map": "Mantis Claw"
+    }
+  },
+  {
+    "startTime": "20241124T080000.000Z",
+    "endTime": "20241125T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000719,
+      "mode": "brawlBall5V5",
+      "map": "Suspenders"
+    }
+  }
+]

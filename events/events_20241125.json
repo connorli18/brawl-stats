@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241126T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20241124T200000.000Z",
+    "endTime": "20241125T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000043,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241125T020000.000Z",
+    "endTime": "20241126T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000842,
+      "mode": "gemGrab",
+      "map": "Pineapple Plaza"
+    }
+  },
+  {
+    "startTime": "20241125T140000.000Z",
+    "endTime": "20241126T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000841,
+      "mode": "hotZone",
+      "map": "From Dusk till Dawn"
+    }
+  },
+  {
+    "startTime": "20241124T200000.000Z",
+    "endTime": "20241125T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000028,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241125T140000.000Z",
+    "endTime": "20241126T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000816,
+      "mode": "knockout",
+      "map": "Sunset Spar"
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000831,
+      "mode": "unknown",
+      "map": "Underworld Uprising",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000822,
+      "mode": "unknown",
+      "map": "Kooky Gates",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241125T020000.000Z",
+    "endTime": "20241126T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000838,
+      "mode": "duels",
+      "map": "Line of Defense"
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241126T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000747,
+      "mode": "knockout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]

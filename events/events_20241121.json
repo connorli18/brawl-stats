@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241121T080000.000Z",
+    "endTime": "20241122T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000051,
+      "mode": "brawlBall",
+      "map": "Super Beach"
+    }
+  },
+  {
+    "startTime": "20241120T200000.000Z",
+    "endTime": "20241121T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000013,
+      "mode": "soloShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20241121T020000.000Z",
+    "endTime": "20241122T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000764,
+      "mode": "gemGrab",
+      "map": "Sneaky Sneak"
+    }
+  },
+  {
+    "startTime": "20241121T140000.000Z",
+    "endTime": "20241122T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000300,
+      "mode": "hotZone",
+      "map": "Ring of Fire"
+    }
+  },
+  {
+    "startTime": "20241120T200000.000Z",
+    "endTime": "20241121T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000034,
+      "mode": "duoShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20241121T140000.000Z",
+    "endTime": "20241122T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000771,
+      "mode": "knockout",
+      "map": "Twilight Passage"
+    }
+  },
+  {
+    "startTime": "20241119T080000.000Z",
+    "endTime": "20241122T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000820,
+      "mode": "unknown",
+      "map": "Broiler Room",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241119T080000.000Z",
+    "endTime": "20241122T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000795,
+      "mode": "trioShowdown",
+      "map": "Thousand Jellies",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241121T020000.000Z",
+    "endTime": "20241122T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000834,
+      "mode": "duels",
+      "map": "Tangled Shrubs"
+    }
+  },
+  {
+    "startTime": "20241121T080000.000Z",
+    "endTime": "20241122T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000728,
+      "mode": "knockout5V5",
+      "map": "Crispy Crypt"
+    }
+  }
+]

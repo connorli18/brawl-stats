@@ -1,0 +1,82 @@
+[
+  {
+    "startTime": "20241205T080000.000Z",
+    "endTime": "20241206T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000143,
+      "mode": "brawlBall",
+      "map": "Beach Ball"
+    }
+  },
+  {
+    "startTime": "20241204T200000.000Z",
+    "endTime": "20241205T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000033,
+      "mode": "soloShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20241205T020000.000Z",
+    "endTime": "20241206T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000147,
+      "mode": "gemGrab",
+      "map": "Acute Angle"
+    }
+  },
+  {
+    "startTime": "20241204T140000.000Z",
+    "endTime": "20241205T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000847,
+      "mode": "heist",
+      "map": "Electric Storm"
+    }
+  },
+  {
+    "startTime": "20241204T200000.000Z",
+    "endTime": "20241205T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000044,
+      "mode": "duoShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20241204T140000.000Z",
+    "endTime": "20241205T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20241205T020000.000Z",
+    "endTime": "20241206T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
+    }
+  },
+  {
+    "startTime": "20241205T080000.000Z",
+    "endTime": "20241206T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000700,
+      "mode": "knockout5V5",
+      "map": "Sizzling Chambers"
+    }
+  }
+]

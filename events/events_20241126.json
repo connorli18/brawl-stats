@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241126T080000.000Z",
+    "endTime": "20241127T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000846,
+      "mode": "brawlBall",
+      "map": "Razzle Dazzle"
+    }
+  },
+  {
+    "startTime": "20241125T200000.000Z",
+    "endTime": "20241126T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000016,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20241126T020000.000Z",
+    "endTime": "20241127T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20241125T140000.000Z",
+    "endTime": "20241126T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000841,
+      "mode": "hotZone",
+      "map": "From Dusk till Dawn"
+    }
+  },
+  {
+    "startTime": "20241125T200000.000Z",
+    "endTime": "20241126T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000037,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20241125T140000.000Z",
+    "endTime": "20241126T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000816,
+      "mode": "knockout",
+      "map": "Sunset Spar"
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000831,
+      "mode": "unknown",
+      "map": "Underworld Uprising",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000822,
+      "mode": "unknown",
+      "map": "Kooky Gates",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241126T020000.000Z",
+    "endTime": "20241127T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000839,
+      "mode": "duels",
+      "map": "Too cool for Summer"
+    }
+  },
+  {
+    "startTime": "20241126T080000.000Z",
+    "endTime": "20241127T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000638,
+      "mode": "brawlBall5V5",
+      "map": "Freezing ripples"
+    }
+  }
+]

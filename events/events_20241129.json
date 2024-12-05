@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241129T080000.000Z",
+    "endTime": "20241130T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000845,
+      "mode": "brawlBall",
+      "map": "Weak Foot"
+    }
+  },
+  {
+    "startTime": "20241128T200000.000Z",
+    "endTime": "20241129T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000123,
+      "mode": "soloShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20241129T020000.000Z",
+    "endTime": "20241130T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20241129T140000.000Z",
+    "endTime": "20241130T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000293,
+      "mode": "hotZone",
+      "map": "Parallel Plays"
+    }
+  },
+  {
+    "startTime": "20241128T200000.000Z",
+    "endTime": "20241129T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000124,
+      "mode": "duoShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20241129T140000.000Z",
+    "endTime": "20241130T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000772,
+      "mode": "knockout",
+      "map": "Hard Lane"
+    }
+  },
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241201T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000823,
+      "mode": "unknown",
+      "map": "Afterpiece Arena",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241201T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000798,
+      "mode": "trioShowdown",
+      "map": "Starr Fish",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241129T020000.000Z",
+    "endTime": "20241130T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000834,
+      "mode": "duels",
+      "map": "Tangled Shrubs"
+    }
+  },
+  {
+    "startTime": "20241129T080000.000Z",
+    "endTime": "20241130T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000728,
+      "mode": "knockout5V5",
+      "map": "Crispy Crypt"
+    }
+  }
+]

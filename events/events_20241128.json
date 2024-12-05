@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241129T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000118,
+      "mode": "brawlBall",
+      "map": "Pinball Dreams"
+    }
+  },
+  {
+    "startTime": "20241127T200000.000Z",
+    "endTime": "20241128T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000032,
+      "mode": "soloShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20241128T020000.000Z",
+    "endTime": "20241129T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20241127T140000.000Z",
+    "endTime": "20241128T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20241127T200000.000Z",
+    "endTime": "20241128T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000038,
+      "mode": "duoShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20241127T140000.000Z",
+    "endTime": "20241128T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241201T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000823,
+      "mode": "unknown",
+      "map": "Afterpiece Arena",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241201T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000798,
+      "mode": "trioShowdown",
+      "map": "Starr Fish",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241128T020000.000Z",
+    "endTime": "20241129T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000833,
+      "mode": "duels",
+      "map": "Swimming Skills"
+    }
+  },
+  {
+    "startTime": "20241128T080000.000Z",
+    "endTime": "20241129T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000639,
+      "mode": "brawlBall5V5",
+      "map": "Great waves"
+    }
+  }
+]

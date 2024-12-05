@@ -1,0 +1,82 @@
+[
+  {
+    "startTime": "20241204T080000.000Z",
+    "endTime": "20241205T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000024,
+      "mode": "brawlBall",
+      "map": "Backyard Bowl"
+    }
+  },
+  {
+    "startTime": "20241204T200000.000Z",
+    "endTime": "20241205T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000033,
+      "mode": "soloShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20241204T020000.000Z",
+    "endTime": "20241205T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000011,
+      "mode": "gemGrab",
+      "map": "Undermine"
+    }
+  },
+  {
+    "startTime": "20241204T140000.000Z",
+    "endTime": "20241205T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000847,
+      "mode": "heist",
+      "map": "Electric Storm"
+    }
+  },
+  {
+    "startTime": "20241204T200000.000Z",
+    "endTime": "20241205T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000044,
+      "mode": "duoShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20241204T140000.000Z",
+    "endTime": "20241205T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20241204T020000.000Z",
+    "endTime": "20241205T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000839,
+      "mode": "duels",
+      "map": "Too cool for Summer"
+    }
+  },
+  {
+    "startTime": "20241204T080000.000Z",
+    "endTime": "20241205T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000638,
+      "mode": "brawlBall5V5",
+      "map": "Freezing ripples"
+    }
+  }
+]

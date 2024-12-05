@@ -1,0 +1,108 @@
+[
+  {
+    "startTime": "20241127T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000238,
+      "mode": "brawlBall",
+      "map": "Penalty Kick"
+    }
+  },
+  {
+    "startTime": "20241127T200000.000Z",
+    "endTime": "20241128T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000032,
+      "mode": "soloShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20241127T020000.000Z",
+    "endTime": "20241128T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20241127T140000.000Z",
+    "endTime": "20241128T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20241127T200000.000Z",
+    "endTime": "20241128T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000038,
+      "mode": "duoShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20241127T140000.000Z",
+    "endTime": "20241128T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000831,
+      "mode": "unknown",
+      "map": "Underworld Uprising",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241125T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000822,
+      "mode": "unknown",
+      "map": "Kooky Gates",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "startTime": "20241127T020000.000Z",
+    "endTime": "20241128T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
+    }
+  },
+  {
+    "startTime": "20241127T080000.000Z",
+    "endTime": "20241128T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000700,
+      "mode": "knockout5V5",
+      "map": "Sizzling Chambers"
+    }
+  }
+]
