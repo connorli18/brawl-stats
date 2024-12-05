@@ -5,12 +5,12 @@
   "icon": {
     "id": 28000156
   },
-  "trophies": 41543,
-  "highestTrophies": 41545,
+  "trophies": 41549,
+  "highestTrophies": 41549,
   "expLevel": 257,
-  "expPoints": 337160,
+  "expPoints": 337186,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 14456,
+  "3vs3Victories": 14458,
   "soloVictories": 1766,
   "duoVictories": 2583,
   "bestRoboRumbleTime": 7,
@@ -430,7 +430,7 @@
       "name": "EL PRIMO",
       "power": 11,
       "rank": 51,
-      "trophies": 1003,
+      "trophies": 1000,
       "highestTrophies": 1011,
       "gears": [
         {
@@ -470,7 +470,7 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 51,
-      "trophies": 1008,
+      "trophies": 1000,
       "highestTrophies": 1008,
       "gears": [
         {
@@ -1044,8 +1044,8 @@
       "name": "BIBI",
       "power": 11,
       "rank": 34,
-      "trophies": 660,
-      "highestTrophies": 674,
+      "trophies": 677,
+      "highestTrophies": 677,
       "gears": [
         {
           "id": 62000000,
@@ -2476,6 +2476,10 @@
         {
           "id": 23000637,
           "name": "MONKEY BUSINESS"
+        },
+        {
+          "id": 23000638,
+          "name": "RECORD SMASH"
         }
       ],
       "gadgets": [
