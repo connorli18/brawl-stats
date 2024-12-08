@@ -1,0 +1,82 @@
+[
+  {
+    "startTime": "20241207T080000.000Z",
+    "endTime": "20241208T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20241206T200000.000Z",
+    "endTime": "20241207T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000043,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241207T020000.000Z",
+    "endTime": "20241208T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000842,
+      "mode": "gemGrab",
+      "map": "Pineapple Plaza"
+    }
+  },
+  {
+    "startTime": "20241206T140000.000Z",
+    "endTime": "20241207T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000813,
+      "mode": "heist",
+      "map": "Secret or Mystery"
+    }
+  },
+  {
+    "startTime": "20241206T200000.000Z",
+    "endTime": "20241207T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000028,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241206T140000.000Z",
+    "endTime": "20241207T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000844,
+      "mode": "knockout",
+      "map": "Gratitude"
+    }
+  },
+  {
+    "startTime": "20241207T020000.000Z",
+    "endTime": "20241208T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000834,
+      "mode": "duels",
+      "map": "Tangled Shrubs"
+    }
+  },
+  {
+    "startTime": "20241207T080000.000Z",
+    "endTime": "20241208T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000728,
+      "mode": "knockout5V5",
+      "map": "Crispy Crypt"
+    }
+  }
+]
