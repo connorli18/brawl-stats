@@ -1,0 +1,85 @@
+[
+  {
+    "startTime": "20241211T080000.000Z",
+    "endTime": "20241212T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20241210T200000.000Z",
+    "endTime": "20241211T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000123,
+      "mode": "soloShowdown",
+      "map": "Flying Fantasies",
+      "modifiers": [
+        "healingMushrooms"
+      ]
+    }
+  },
+  {
+    "startTime": "20241211T020000.000Z",
+    "endTime": "20241212T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20241210T140000.000Z",
+    "endTime": "20241211T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000019,
+      "mode": "heist",
+      "map": "Safe Zone"
+    }
+  },
+  {
+    "startTime": "20241210T200000.000Z",
+    "endTime": "20241211T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000124,
+      "mode": "duoShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20241210T140000.000Z",
+    "endTime": "20241211T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000005,
+      "mode": "bounty",
+      "map": "Shooting Star"
+    }
+  },
+  {
+    "startTime": "20241211T020000.000Z",
+    "endTime": "20241212T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000703,
+      "mode": "knockout",
+      "map": "New Horizons"
+    }
+  },
+  {
+    "startTime": "20241211T080000.000Z",
+    "endTime": "20241212T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]
