@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000500
   },
-  "trophies": 30863,
-  "highestTrophies": 30864,
+  "trophies": 30905,
+  "highestTrophies": 30875,
   "expLevel": 138,
-  "expPoints": 99893,
+  "expPoints": 99963,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 5530,
+  "3vs3Victories": 5532,
   "soloVictories": 570,
-  "duoVictories": 408,
+  "duoVictories": 411,
   "bestRoboRumbleTime": 6,
   "bestTimeAsBigBrawler": 0,
   "club": {
@@ -1737,11 +1737,40 @@
       "name": "BERRY",
       "power": 9,
       "rank": 6,
-      "trophies": 106,
-      "highestTrophies": 106,
+      "trophies": 118,
+      "highestTrophies": 118,
       "gears": [],
       "starPowers": [],
       "gadgets": []
+    },
+    {
+      "id": 16000088,
+      "name": "BUZZ LIGHTYEAR",
+      "power": 11,
+      "rank": 2,
+      "trophies": 30,
+      "highestTrophies": 30,
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23000866,
+          "name": "LASER MODE"
+        },
+        {
+          "id": 23000867,
+          "name": "SABER MODE"
+        },
+        {
+          "id": 23000868,
+          "name": "WING MODE"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23000869,
+          "name": "TURBO BOOSTERS"
+        }
+      ]
     }
   ]
 }
