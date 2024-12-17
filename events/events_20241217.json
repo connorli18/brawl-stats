@@ -33,13 +33,13 @@
     }
   },
   {
-    "startTime": "20241216T140000.000Z",
-    "endTime": "20241217T140000.000Z",
+    "startTime": "20241217T140000.000Z",
+    "endTime": "20241218T140000.000Z",
     "slotId": 4,
     "event": {
-      "id": 15000900,
-      "mode": "heist",
-      "map": "GG 2.0"
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
     }
   },
   {
@@ -53,13 +53,13 @@
     }
   },
   {
-    "startTime": "20241216T140000.000Z",
-    "endTime": "20241217T140000.000Z",
+    "startTime": "20241217T140000.000Z",
+    "endTime": "20241218T140000.000Z",
     "slotId": 6,
     "event": {
-      "id": 15000054,
-      "mode": "bounty",
-      "map": "Canal Grande"
+      "id": 15000468,
+      "mode": "duels",
+      "map": "Monkey Maze"
     }
   },
   {
