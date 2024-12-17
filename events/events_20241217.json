@@ -1,0 +1,85 @@
+[
+  {
+    "startTime": "20241217T080000.000Z",
+    "endTime": "20241218T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000143,
+      "mode": "brawlBall",
+      "map": "Beach Ball"
+    }
+  },
+  {
+    "startTime": "20241216T200000.000Z",
+    "endTime": "20241217T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000032,
+      "mode": "soloShowdown",
+      "map": "Acid Lakes",
+      "modifiers": [
+        "healingMushrooms"
+      ]
+    }
+  },
+  {
+    "startTime": "20241217T020000.000Z",
+    "endTime": "20241218T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000008,
+      "mode": "gemGrab",
+      "map": "Crystal Arcade"
+    }
+  },
+  {
+    "startTime": "20241216T140000.000Z",
+    "endTime": "20241217T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000900,
+      "mode": "heist",
+      "map": "GG 2.0"
+    }
+  },
+  {
+    "startTime": "20241216T200000.000Z",
+    "endTime": "20241217T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000038,
+      "mode": "duoShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20241216T140000.000Z",
+    "endTime": "20241217T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000054,
+      "mode": "bounty",
+      "map": "Canal Grande"
+    }
+  },
+  {
+    "startTime": "20241217T020000.000Z",
+    "endTime": "20241218T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20241217T080000.000Z",
+    "endTime": "20241218T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000647,
+      "mode": "wipeout5V5",
+      "map": "Frosty tracks"
+    }
+  }
+]
