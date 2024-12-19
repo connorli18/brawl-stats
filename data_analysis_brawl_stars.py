@@ -34,17 +34,12 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
     for battle in data["items"]:
         
         # player info
-        player_info = {}
         players = battle.get("battle", {}).get("players", [])
+        player_brawler_name = None
         for curr_player in players:
             if "#"+player_id == curr_player.get('tag',""):
-                player_info[f"player_tag"] = player_id
-                player_info[f"player_name"] = curr_player.get('name',"")
-                if curr_player.get("brawler", {}):
-                    player_info[f"player_brawler_id"] = curr_player["brawler"].get("id", None)
-                    player_info[f"player_brawler_name"] = curr_player["brawler"].get("name", None)
-                    player_info[f"player_brawler_power"] = curr_player["brawler"].get("power", None)
-                    player_info[f"player_brawler_trophies"] = curr_player["brawler"].get("trophies", None)
+                if curr_player.get("brawler", None):
+                    player_brawler_name = curr_player["brawler"].get("name", None)
 
         # event stats
         battle_time = battle.get("battleTime", None)
@@ -85,6 +80,8 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
         for team in _teams:
             if player_id in str(team):
                 for i in range(0,5):
+                    
+
 
                     if i >= len(team):
                         teammate_info[f"teammate_{i+1}_tag"] = None
@@ -93,8 +90,9 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
                         teammate_info[f"teammate_{i+1}_brawler_name"] = None
                         teammate_info[f"teammate_{i+1}_brawler_power"] = None
                         teammate_info[f"teammate_{i+1}_brawler_trophies"] = None
-
                     else:
+                        if "#"+player_id == team[i].get('tag',None):
+                            player_brawler_name = team[i]["brawler"].get("name", None)
                         teammate_info[f"teammate_{i+1}_tag"] = team[i].get("tag", None)
                         teammate_info[f"teammate_{i+1}_name"] = team[i].get("name", None)
                         _teammate_brawler = team[i].get("brawler", {})
@@ -111,6 +109,7 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
         processed_data.append({
             "battle_time": battle_time,
             "event_id": event_id,
+            "player_brawler_name":player_brawler_name,
             "event_mode": event_mode,
             "event_map": event_map,
             "battle_type": battle_type,
@@ -125,7 +124,6 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
             "star_player_brawler_name": star_player_brawler_name,
             "star_player_brawler_power": star_player_brawler_power,
             "star_player_brawler_trophies": star_player_brawler_trophies,
-            **player_info,
             **teammate_info
         }
         )
