@@ -32,6 +32,19 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
     processed_data = []
 
     for battle in data["items"]:
+        
+        # player info
+        player_info = {}
+        players = battle.get("battle", {}).get("players", [])
+        for curr_player in players:
+            if "#"+player_id == curr_player.get('tag',""):
+                player_info[f"player_tag"] = player_id
+                player_info[f"player_name"] = curr_player.get('name',"")
+                if curr_player.get("brawler", {}):
+                    player_info[f"player_brawler_id"] = curr_player["brawler"].get("id", None)
+                    player_info[f"player_brawler_name"] = curr_player["brawler"].get("name", None)
+                    player_info[f"player_brawler_power"] = curr_player["brawler"].get("power", None)
+                    player_info[f"player_brawler_trophies"] = curr_player["brawler"].get("trophies", None)
 
         # event stats
         battle_time = battle.get("battleTime", None)
@@ -95,7 +108,6 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
                             teammate_info[f"teammate_{i+1}_brawler_name"] = _teammate_brawler.get("name", None)
                             teammate_info[f"teammate_{i+1}_brawler_power"] = _teammate_brawler.get("power", None)
                             teammate_info[f"teammate_{i+1}_brawler_trophies"] = _teammate_brawler.get("trophies", None)
-
         processed_data.append({
             "battle_time": battle_time,
             "event_id": event_id,
@@ -113,6 +125,7 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
             "star_player_brawler_name": star_player_brawler_name,
             "star_player_brawler_power": star_player_brawler_power,
             "star_player_brawler_trophies": star_player_brawler_trophies,
+            **player_info,
             **teammate_info
         }
         )
