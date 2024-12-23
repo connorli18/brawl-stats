@@ -1,0 +1,85 @@
+[
+  {
+    "startTime": "20241223T080000.000Z",
+    "endTime": "20241224T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20241222T200000.000Z",
+    "endTime": "20241223T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000123,
+      "mode": "soloShowdown",
+      "map": "Flying Fantasies",
+      "modifiers": [
+        "healingMushrooms"
+      ]
+    }
+  },
+  {
+    "startTime": "20241223T020000.000Z",
+    "endTime": "20241224T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20241223T140000.000Z",
+    "endTime": "20241224T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000293,
+      "mode": "hotZone",
+      "map": "Parallel Plays"
+    }
+  },
+  {
+    "startTime": "20241222T200000.000Z",
+    "endTime": "20241223T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000124,
+      "mode": "duoShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20241223T140000.000Z",
+    "endTime": "20241224T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000571,
+      "mode": "duels",
+      "map": "Petticoat Duel"
+    }
+  },
+  {
+    "startTime": "20241223T020000.000Z",
+    "endTime": "20241224T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000703,
+      "mode": "knockout",
+      "map": "New Horizons"
+    }
+  },
+  {
+    "startTime": "20241223T080000.000Z",
+    "endTime": "20241224T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000646,
+      "mode": "wipeout5V5",
+      "map": "Icy ice park"
+    }
+  }
+]

@@ -88,7 +88,8 @@ def get_public_ip_to_config() -> str:
         "193.54.67.91": "sciences_po_2",
         "193.54.67.92": "sciences_po",
         "193.54.67.93": "sciences_po_3",
-        "176.57.33.226": "reid_hall_classroom"
+        "176.57.33.226": "reid_hall_classroom",
+        "172.58.1.111": "nad_ned"
     }
 
     try:
