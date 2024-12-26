@@ -190,6 +190,64 @@ def get_all_player_battles() -> None:
         df_final.to_csv(write_path, index=False)
 
         print(f"Player {id} battle log saved to {write_path}")
+        
+        
+def process_player_info(data:dict):
+    processed_data = [{
+            "trophies": data.get('trophies',None),
+            "3vs3Victories": data.get('3vs3Victories',None),
+            "soloVictories": data.get('soloVictories',None),
+            "duoVictories": data.get('duoVictories',None),
+            "bestRoboRumbleTime": data.get('bestRoboRumbleTime',None),
+    }]
+    
+    return pd.DataFrame(processed_data)
+
+    
+    
+
+    
+        
+def get_player_info(player_id:str)-> None:
+    
+    df_list = []
+
+    for file in os.listdir('player-info'):
+        if player_id in file:
+            with open(f'player-info/{file}', 'r') as file:
+                data = json.load(file)
+                processed_data = process_player_info(data)
+
+                # Only append valid, non-empty DataFrames
+                if not processed_data.empty:
+                    df_list.append(processed_data)
+    
+    # Concatenate only if there are valid DataFrames in the list
+    if df_list:
+        df = pd.concat(df_list, ignore_index=True)
+    else:
+        df = pd.DataFrame()  # Return an empty DataFrame if no data to concatenate
+
+    return df.drop_duplicates()
+
+def get_all_player_info():
+    
+    all_player_ids = get_unique_ids()
+    
+    for player_id in all_player_ids:
+        df_old = pd.DataFrame()
+
+        if os.path.exists(f"created-player-info-log/{player_id}-player-log-custom.csv"):
+            df_old = pd.read_csv(f"created-player-info-log/{player_id}-player-log-custom.csv")
+        
+        df_new = get_player_info(player_id)
+
+        df_final = pd.concat([df_old, df_new], ignore_index=True).drop_duplicates()
+        
+        write_path = f"created-player-info-log/{player_id}-player-log-custom.csv"
+        df_final.to_csv(write_path, index=False)
+
+        print(f"Player {player_id} battle log saved to {write_path}")
 
 
 ###################################################
@@ -211,4 +269,6 @@ if __name__ == "__main__":
     #print("\n\n\n\n")
 
     get_all_player_battles()
+    get_all_player_info()
+    
     print("\n\n\n\n")
