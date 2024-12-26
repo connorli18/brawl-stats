@@ -157,4 +157,4 @@ if __name__ == '__main__':
     
     main_events()
     main_brawlers()
-    main_player_test(player_tags)
+    main_player_test()
