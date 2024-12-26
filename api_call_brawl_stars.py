@@ -88,15 +88,20 @@ def get_public_ip_to_config() -> str:
         "193.54.67.91": "sciences_po_2",
         "193.54.67.92": "sciences_po",
         "193.54.67.93": "sciences_po_3",
-        "176.57.33.226": "reid_hall_classroom"
-    }
+        "176.57.33.226": "reid_hall_classroom",
+        "69.116.168.102":"default",
+        "67.87.118.131":"default"
+     }
 
     try:
         response = requests.get('https://api.ipify.org?format=json')
         response.raise_for_status()  
         ip_data = response.json()
+        
+
 
         if ip_data['ip'] in ip_address_to_config:
+            
             return ip_address_to_config[ip_data['ip']]
         else:
             raise ValueError(f"IP Address {ip_data['ip']} not found in config file, please create a new key here: \n https://developer.brawlstars.com/#/account")
@@ -115,7 +120,8 @@ def get_public_ip_to_config() -> str:
 def main_player_test():
     # NOTE: watch out for the player-tag, most start with a # --> converted to a %23 in the API endpoint call
     # NOTE: space sensitive, make sure to not have trailing spaces
-    player_tag = {
+    
+    player_tags = {
         'nguyen': '2LV0PLP8G',
         'ranger': '8LQCJPGR',
         'colin': 'LQQYGCV29',
@@ -125,10 +131,11 @@ def main_player_test():
         'bolu': 'JJVGPCLP',
         'aaron': 'QJ092J8CU',
         'jackson': '8JYJY298', 
-        'rishi': 'V2LLC89Q'
+        'rishi': 'V2LLC89Q',
+        'fettuccine':'2GL8YLVPGY'
     }
 
-    for player_tag in player_tag.values(): 
+    for player_tag in player_tags.values(): 
         example_player_desc = get_player_info(player_tag=player_tag)
         print(str(example_player_desc)[0:90])
         example_battle_log = get_player_battle_log(player_tag=player_tag)
@@ -142,10 +149,12 @@ def main_brawlers():
 def main_events():
     get_event_rotation()
 
-if __name__ == "__main__":
     
-    config_section = 'cite_uni'
+if __name__ == '__main__':
+    config_section = 'default'
+    
+    # get_public_ip_to_config()
     
     main_events()
     main_brawlers()
-    main_player_test()
+    main_player_test(player_tags)
