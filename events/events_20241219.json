@@ -1,0 +1,85 @@
+[
+  {
+    "startTime": "20241219T080000.000Z",
+    "endTime": "20241220T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000238,
+      "mode": "brawlBall",
+      "map": "Penalty Kick"
+    }
+  },
+  {
+    "startTime": "20241218T200000.000Z",
+    "endTime": "20241219T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000101,
+      "mode": "soloShowdown",
+      "map": "Dark Passage",
+      "modifiers": [
+        "meteorShower"
+      ]
+    }
+  },
+  {
+    "startTime": "20241219T020000.000Z",
+    "endTime": "20241220T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20241219T140000.000Z",
+    "endTime": "20241220T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000879,
+      "mode": "hotZone",
+      "map": "Noisy Neighbors"
+    }
+  },
+  {
+    "startTime": "20241218T200000.000Z",
+    "endTime": "20241219T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000102,
+      "mode": "duoShowdown",
+      "map": "Dark Passage"
+    }
+  },
+  {
+    "startTime": "20241219T140000.000Z",
+    "endTime": "20241220T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000022,
+      "mode": "bounty",
+      "map": "Hideout"
+    }
+  },
+  {
+    "startTime": "20241219T020000.000Z",
+    "endTime": "20241220T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000440,
+      "mode": "knockout",
+      "map": "Flaring Phoenix"
+    }
+  },
+  {
+    "startTime": "20241219T080000.000Z",
+    "endTime": "20241220T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]
