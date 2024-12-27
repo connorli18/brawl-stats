@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20241227T080000.000Z",
+    "endTime": "20241228T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20241226T200000.000Z",
+    "endTime": "20241227T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000228,
+      "mode": "soloShowdown",
+      "map": "Safety Center",
+      "modifiers": [
+        "angryRobo"
+      ]
+    }
+  },
+  {
+    "startTime": "20241227T020000.000Z",
+    "endTime": "20241228T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000881,
+      "mode": "gemGrab",
+      "map": "The cooler Hard Rock"
+    }
+  },
+  {
+    "startTime": "20241227T140000.000Z",
+    "endTime": "20241228T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000878,
+      "mode": "hotZone",
+      "map": "Watersport"
+    }
+  },
+  {
+    "startTime": "20241226T200000.000Z",
+    "endTime": "20241227T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000229,
+      "mode": "duoShowdown",
+      "map": "Safety Center"
+    }
+  },
+  {
+    "startTime": "20241227T140000.000Z",
+    "endTime": "20241228T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000479,
+      "mode": "wipeout",
+      "map": "Slayer's Paradise"
+    }
+  },
+  {
+    "startTime": "20241227T080000.000Z",
+    "endTime": "20241229T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000514,
+      "mode": "botDrop",
+      "map": "Quadrants"
+    }
+  },
+  {
+    "startTime": "20241227T080000.000Z",
+    "endTime": "20241229T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000827,
+      "mode": "unknown",
+      "map": "Infernal Invasion"
+    }
+  },
+  {
+    "startTime": "20241227T020000.000Z",
+    "endTime": "20241228T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000897,
+      "mode": "knockout",
+      "map": "Tiny Islands"
+    }
+  },
+  {
+    "startTime": "20241227T080000.000Z",
+    "endTime": "20241228T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]
