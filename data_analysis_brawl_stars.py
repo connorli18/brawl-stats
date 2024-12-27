@@ -29,6 +29,7 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
     """
     Processes individual player battle log and returns a list of dictionaries
     """
+    
     processed_data = []
 
     for battle in data["items"]:
@@ -132,8 +133,9 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
 
 def get_player_battles_one_player(player_id: str) -> pd.DataFrame:
     """
-    Logs player battles for a specific player and returns a DataFrame.
+    Logs player battles for a specific player and returns a DataFrame
     """
+    
     df_list = []
 
     for file in os.listdir('player-battle-log'):
@@ -158,6 +160,7 @@ def get_unique_ids() -> set:
     """
     Extracts unique IDs from filenames in the specified directory
     """
+    
     unique_ids = set()
     pattern = re.compile(r'^(.*?)_battle_log')  # Regex to match the part before '_battle_log'
 
@@ -193,6 +196,10 @@ def get_all_player_battles() -> None:
         
         
 def process_player_info(data:dict):
+    """
+    Processes individual player info and returns a list of dictionaries
+    """
+    
     processed_data = [{
             "trophies": data.get('trophies',None),
             "3vs3Victories": data.get('3vs3Victories',None),
@@ -209,6 +216,9 @@ def process_player_info(data:dict):
     
         
 def get_player_info(player_id:str)-> None:
+    """
+    Logs player info for a specific player and returns a DataFrame.
+    """
     
     df_list = []
 
@@ -231,6 +241,9 @@ def get_player_info(player_id:str)-> None:
     return df.drop_duplicates()
 
 def get_all_player_info():
+    """
+    All metrics for all players are saved to a CSV file
+    """
     
     all_player_ids = get_unique_ids()
     
