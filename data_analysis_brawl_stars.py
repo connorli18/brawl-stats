@@ -190,6 +190,9 @@ def get_all_player_battles() -> None:
         df_final = pd.concat([df_old, df_new], ignore_index=True).drop_duplicates()
         
         write_path = f"created-logs-per-player/{id}-battle-log-custom.csv"
+        
+        df_final.sort_values(by='battle_time',inplace=True)
+        
         df_final.to_csv(write_path, index=False)
 
         print(f"Player {id} battle log saved to {write_path}")
