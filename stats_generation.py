@@ -1,4 +1,3 @@
-
 # TO-DO: track player stats over time / brawler usage
 # TO-DO: track various player things (e.g. brawlers used, star players, favorite events, etc.)
 # TO-DO: teammate comparisons
@@ -14,7 +13,6 @@ import os
 #     event_modes = set(df["event_mode"])
     
 #     print(df.groupby('event_mode').agg({'battle_rank':'mean','battle_trophy_change':'mean'}))
-    
     
 #     print(df.groupby('battle_result').count())
 
@@ -54,12 +52,28 @@ def get_win_rates(df):
 
 def get_battle_stats(df):
     '''
-    TODO: Avg. Trophy gain/loss
     TODO: Win Streak
-    TODO: Most used brawler 
     '''
     
     get_win_rates(df)
+    
+    # Most Used Brawler
+    print("Main Brawler:",df['player_brawler_name'].value_counts().idxmax())
+    
+    # Avg Trophy gain/loss
+    print("Avg. trophy change", round(df.battle_trophy_change.mean(),2))
+    df.plot(x='date_formatted',y='battle_trophy_change')
+    plt.show()
+    
+
+    
+    
+
+    
+    
+    
+    
+    
     
 
     
@@ -68,6 +82,7 @@ def stat_gen(player_tag):
     
     try:
         battle_logs_df = pd.read_csv(f'created-logs-per-player/{player_tag}-battle-log-custom.csv')
+        battle_logs_df['date_formatted'] = pd.to_datetime(battle_logs_df['battle_time']).dt.strftime('%Y-%m-%d')
     except FileNotFoundError:
         print(f"Couldn't find file at: created-logs-per-player/{player_tag}-battle-log-custom.csv")
         
