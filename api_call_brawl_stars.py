@@ -89,6 +89,8 @@ def get_public_ip_to_config() -> str:
         "193.54.67.92": "sciences_po",
         "193.54.67.93": "sciences_po_3",
         "176.57.33.226": "reid_hall_classroom",
+        "172.58.1.111": "nad_ned",
+        "172.56.70.145": "minecraft_wool",
         "69.116.168.102":"default",
         "67.87.118.131":"default"
      }

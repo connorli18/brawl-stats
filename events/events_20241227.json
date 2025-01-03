@@ -10,13 +10,16 @@
     }
   },
   {
-    "startTime": "20241227T200000.000Z",
-    "endTime": "20241228T200000.000Z",
+    "startTime": "20241226T200000.000Z",
+    "endTime": "20241227T200000.000Z",
     "slotId": 2,
     "event": {
-      "id": 15000013,
+      "id": 15000228,
       "mode": "soloShowdown",
-      "map": "Skull Creek"
+      "map": "Safety Center",
+      "modifiers": [
+        "angryRobo"
+      ]
     }
   },
   {
@@ -40,13 +43,13 @@
     }
   },
   {
-    "startTime": "20241227T200000.000Z",
-    "endTime": "20241228T200000.000Z",
+    "startTime": "20241226T200000.000Z",
+    "endTime": "20241227T200000.000Z",
     "slotId": 5,
     "event": {
-      "id": 15000034,
+      "id": 15000229,
       "mode": "duoShowdown",
-      "map": "Skull Creek"
+      "map": "Safety Center"
     }
   },
   {

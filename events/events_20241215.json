@@ -10,13 +10,16 @@
     }
   },
   {
-    "startTime": "20241215T200000.000Z",
-    "endTime": "20241216T200000.000Z",
+    "startTime": "20241214T200000.000Z",
+    "endTime": "20241215T200000.000Z",
     "slotId": 2,
     "event": {
-      "id": 15000013,
+      "id": 15000228,
       "mode": "soloShowdown",
-      "map": "Skull Creek"
+      "map": "Safety Center",
+      "modifiers": [
+        "angryRobo"
+      ]
     }
   },
   {
@@ -30,33 +33,33 @@
     }
   },
   {
-    "startTime": "20241215T140000.000Z",
-    "endTime": "20241216T140000.000Z",
+    "startTime": "20241214T140000.000Z",
+    "endTime": "20241215T140000.000Z",
     "slotId": 4,
     "event": {
-      "id": 15000878,
-      "mode": "hotZone",
-      "map": "Watersport"
+      "id": 15000887,
+      "mode": "heist",
+      "map": "The Great Lake"
     }
   },
   {
-    "startTime": "20241215T200000.000Z",
-    "endTime": "20241216T200000.000Z",
+    "startTime": "20241214T200000.000Z",
+    "endTime": "20241215T200000.000Z",
     "slotId": 5,
     "event": {
-      "id": 15000034,
+      "id": 15000229,
       "mode": "duoShowdown",
-      "map": "Skull Creek"
+      "map": "Safety Center"
     }
   },
   {
-    "startTime": "20241215T140000.000Z",
-    "endTime": "20241216T140000.000Z",
+    "startTime": "20241214T140000.000Z",
+    "endTime": "20241215T140000.000Z",
     "slotId": 6,
     "event": {
-      "id": 15000682,
-      "mode": "wipeout",
-      "map": "The Great Open"
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
     }
   },
   {

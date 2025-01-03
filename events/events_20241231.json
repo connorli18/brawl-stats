@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20241231T080000.000Z",
+    "endTime": "20250101T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000238,
+      "mode": "brawlBall",
+      "map": "Penalty Kick"
+    }
+  },
+  {
+    "startTime": "20241231T200000.000Z",
+    "endTime": "20250101T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000043,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241231T020000.000Z",
+    "endTime": "20250101T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20241231T140000.000Z",
+    "endTime": "20250101T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000879,
+      "mode": "hotZone",
+      "map": "Noisy Neighbors"
+    }
+  },
+  {
+    "startTime": "20241231T200000.000Z",
+    "endTime": "20250101T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000028,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20241231T140000.000Z",
+    "endTime": "20250101T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000004,
+      "mode": "bounty",
+      "map": "Snake Prairie"
+    }
+  },
+  {
+    "startTime": "20241231T080000.000Z",
+    "endTime": "20250102T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000824,
+      "mode": "unknown",
+      "map": "Divine Descent"
+    }
+  },
+  {
+    "startTime": "20241231T080000.000Z",
+    "endTime": "20250102T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000518,
+      "mode": "botDrop",
+      "map": "Peekaboo"
+    }
+  },
+  {
+    "startTime": "20241231T020000.000Z",
+    "endTime": "20250101T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000440,
+      "mode": "knockout",
+      "map": "Flaring Phoenix"
+    }
+  },
+  {
+    "startTime": "20241231T080000.000Z",
+    "endTime": "20250101T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000646,
+      "mode": "wipeout5V5",
+      "map": "Icy ice park"
+    }
+  }
+]
