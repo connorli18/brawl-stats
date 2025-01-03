@@ -32,7 +32,7 @@ def get_win_rates(df) -> dict:
         return round((w / (w+l) if (w+l) else 0),2)
     
     for gamemode in gamemodes:
-        win_rates[gamemode+"_win_rate"] = _calc_win_rate(gamemode,showdown_places.get(gamemode,None))
+        win_rates[gamemode + "_win_rate"] = _calc_win_rate(gamemode,showdown_places.get(gamemode,None))
     
     return win_rates
 
@@ -43,23 +43,28 @@ def get_battle_stats(df,stats):
     TODO: Win Streak
     '''
     
+    # Avg Trophy gain/loss
+    stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
     
-    get_win_rates(df)
+    # Most Used Brawler
+    stats["main_brawler"] = df['player_brawler_name'].value_counts().idxmax()
+    
+    # Win Rates
+    stats['win_rates'] = get_win_rates(df)
     
     # Calculate Win Streaks
     # gay = df[df['event_mode'] == ('soloShowdown')]
     # print(gay)
     
+    return stats
 
+def plot_trends(df):
     
-    # Most Used Brawler
-    stats["Main_Brawler"] = df['player_brawler_name'].value_counts().idxmax()
+    # Trophy Gain/Loss
+    df.plot(x='date_formatted',y='battle_trophy_change')
+    plt.show()
+    
 
-    
-    # Avg Trophy gain/loss
-    stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
-    # df.plot(x='date_formatted',y='battle_trophy_change')
-    # plt.show()
     
 
 def stat_gen(player_tag):
