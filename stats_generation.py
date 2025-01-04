@@ -7,16 +7,28 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def get_streaks(df:pd.DataFrame,gamemodes:set,showdown_places:dict):
+def get_best_win_streaks(df:pd.DataFrame,gamemodes:set,showdown_places:dict)->dict:
     
     streaks = {}
-    
 
-    for mode in gamemodes:
-        print(mode.upper())
-        print(df[(df['event_mode'] == mode)].head(10)['battle_result'])
+    for gamemode in gamemodes:
+        
+        gamemode_df = df[(df['event_mode'] == gamemode)]    
+        
+        place = showdown_places.get(gamemode,0)
+        
+        if place: 
+            streaked_df = gamemode_df.assign(streak_id = (gamemode_df['battle_rank'] >= place).cumsum())
+            streaks[gamemode] = streaked_df[(streaked_df['battle_rank'] <= place)]['streak_id'].value_counts().max()
+        else:
+            streaked_df = gamemode_df.assign(streak_id = (gamemode_df['battle_result'] != gamemode_df['battle_result'].shift()).cumsum())
+
+            streaks[gamemode] = streaked_df[(streaked_df['battle_result'] == 'victory')]['streak_id'].value_counts().max()
     
-    # df.assign(streak=(df['battle_result'] != df['WL'].shift()).cumsum())
+    return streaks
+
+     
+  
 
     
 def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_places:dict) -> dict:
@@ -57,33 +69,22 @@ def get_battle_stats(df,stats):
     '''
     TODO: Win Streak
     '''
-        
+    showdown_places = {'soloShowdown':4,'duoShowdown':2,'trioShowdown':2}
     gamemodes = set(df.event_mode)
+        
     gamemodes.difference_update({'unknown',np.nan})
     
-    print(gamemodes)
-    
-    
-    showdown_places = {'soloShowdown':4,'duoShowdown':2,'trioShowdown':2}
-    
-    
-    
     # Avg Trophy gain/loss
-    # stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
+    stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
     
     # Most Used Brawler
-    # stats["main_brawler"] = df['player_brawler_name'].value_counts().idxmax()
+    stats["main_brawler"] = df['player_brawler_name'].value_counts().idxmax()
     
     # Win Rates
     stats['win_rates'] = get_win_rates(df,gamemodes,showdown_places)
     
-    # Calculate Win Streaks
-    # get_streaks(df,gamemodes,showdown_places)
-    
-    for k,v in stats['win_rates'].items():
-        print(k,v)
-    
-
+    # Win Streaks
+    stats['win_streaks'] = get_best_win_streaks(df,gamemodes,showdown_places)
     
     return stats
 
