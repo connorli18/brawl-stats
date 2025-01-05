@@ -25,26 +25,28 @@ def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
     def _calc_win_rate(gamemode:str,rank=None) -> float:
         w = l = 0
         if rank:
-            w = df[(df['event_mode'] == gamemode) & (df['battle_rank'] <= rank)]['battle_rank'].count()
-            l = df[(df['event_mode'] == gamemode) & (df['battle_rank'] > rank)]['battle_rank'].count()
+            w = gamemode_df[(['battle_rank'] <= rank)]['battle_rank'].count()
+            l = gamemode_df[(['battle_rank'] > rank)]['battle_rank'].count()
         else:
-            try:
-                w = df[(df['event_mode'] == gamemode)]['battle_result'].value_counts()['victory']
-                l = df[(df['event_mode'] == gamemode)]['battle_result'].value_counts()['defeat']
-            except KeyError:
-                print("Zero Wins or Zero Losses in ",gamemode)
+            w_l_counts = df[(df['event_mode'] == gamemode)]['battle_result'].value_counts()
+            w = w_l_counts.get('victory',0)
+            l = w_l_counts.get('defeat',0)
         return (round((w / (w+l) if (w+l) else 0),2),w,l)
-    win_rates = {}
+    
     w_total = l_total = 0
+    win_rates = {}
+    
+    filtered_df = df[df['event_mode'].isin(gamemodes)]
+    grouped = filtered_df.groupby('event_mode')
     
     for gamemode in gamemodes:
+        gamemode_df = grouped.get(gamemode)
         (rate,curr_w,curr_l) = _calc_win_rate(gamemode,showdown_ranks.get(gamemode,None))
         win_rates[gamemode] = rate
         w_total += curr_w
         l_total += curr_l
     
     win_rates['overall'] = ((w_total / (w_total+l_total) if (w_total+l_total) else 0))
-    
     return win_rates
 
     
@@ -57,14 +59,19 @@ def get_battle_stats(df,stats):
     # Avg Trophy gain/loss
     stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
     
-    # Most Used Brawler
-    stats["main_brawler"] = df['player_brawler_name'].value_counts().idxmax()
-    
     # Win Rates
     stats['win_rates'] = get_win_rates(df,gamemodes,showdown_ranks)
     
     # Win Streaks
     stats['win_streaks'] = get_best_win_streaks(df,gamemodes,showdown_ranks)
+    
+    # Main Brawler 
+    stats["most_played_event"] = df['player_brawler_name'].value_counts().idxmax()
+    
+    # Favoirte Event
+    stats["most_played_event"] = df['event_mode'].value_counts().idxmax()
+    
+    
     
     return stats
 
