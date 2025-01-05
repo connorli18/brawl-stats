@@ -22,13 +22,13 @@ def get_best_win_streaks(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict)->dic
 
      
 def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
-    def _calc_win_rate(gamemode:str,rank=None) -> float:
+    def _calc_win_rate(gamemode_df:pd.DataFrame,rank=None) -> float:
         w = l = 0
         if rank:
-            w = gamemode_df[(['battle_rank'] <= rank)]['battle_rank'].count()
-            l = gamemode_df[(['battle_rank'] > rank)]['battle_rank'].count()
+            w = gamemode_df[gamemode_df['battle_rank'] <= rank]['battle_rank'].count()
+            l = gamemode_df[gamemode_df['battle_rank'] > rank]['battle_rank'].count()
         else:
-            w_l_counts = df[(df['event_mode'] == gamemode)]['battle_result'].value_counts()
+            w_l_counts = gamemode_df[gamemode_df['event_mode'] == gamemode]['battle_result'].value_counts()
             w = w_l_counts.get('victory',0)
             l = w_l_counts.get('defeat',0)
         return (round((w / (w+l) if (w+l) else 0),2),w,l)
@@ -40,8 +40,8 @@ def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
     grouped = filtered_df.groupby('event_mode')
     
     for gamemode in gamemodes:
-        gamemode_df = grouped.get(gamemode)
-        (rate,curr_w,curr_l) = _calc_win_rate(gamemode,showdown_ranks.get(gamemode,None))
+        gamemode_df = grouped.get_group(gamemode)
+        (rate,curr_w,curr_l) = _calc_win_rate(gamemode_df,showdown_ranks.get(gamemode,None))
         win_rates[gamemode] = rate
         w_total += curr_w
         l_total += curr_l
@@ -50,7 +50,7 @@ def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
     return win_rates
 
     
-def get_battle_stats(df,stats):
+def get_battle_stats(df,stats,player_tag):
     showdown_ranks = {'soloShowdown':4,'duoShowdown':2,'trioShowdown':2}
     gamemodes = set(df.event_mode)
         
@@ -64,6 +64,8 @@ def get_battle_stats(df,stats):
     
     # Win Streaks
     stats['win_streaks'] = get_best_win_streaks(df,gamemodes,showdown_ranks)
+    print(stats['win_streaks'])
+    
     
     # Main Brawler 
     stats["most_played_event"] = df['player_brawler_name'].value_counts().idxmax()
@@ -71,8 +73,10 @@ def get_battle_stats(df,stats):
     # Favoirte Event
     stats["most_played_event"] = df['event_mode'].value_counts().idxmax()
     
+    stats['star_player_count'] = df[(df['star_player_tag'] == player_tag)].count()
     
-    
+    # print(stats['star_player_count'])
+
     return stats
 
 
@@ -95,7 +99,7 @@ def stat_gen(player_tag):
     except FileNotFoundError:
         print(f"Couldn't find file at: created-player-info-log/{player_tag}-player-log-custom.csv")
         
-    get_battle_stats(battle_logs_df,stats)
+    get_battle_stats(battle_logs_df,stats,player_tag)
 
 
 if __name__ == "__main__":
