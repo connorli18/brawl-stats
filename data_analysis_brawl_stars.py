@@ -131,6 +131,7 @@ def process_individual_battle_log(player_id: str, data: dict) -> list:
 
     return pd.DataFrame(processed_data)
 
+
 def get_player_battles_one_player(player_id: str) -> pd.DataFrame:
     """
     Logs player battles for a specific player and returns a DataFrame
@@ -156,6 +157,7 @@ def get_player_battles_one_player(player_id: str) -> pd.DataFrame:
 
     return df.drop_duplicates()
 
+
 def get_unique_ids() -> set:
     """
     Extracts unique IDs from filenames in the specified directory
@@ -170,6 +172,7 @@ def get_unique_ids() -> set:
             unique_ids.add(match.group(1))  # Extract the part before '_battle_log'
 
     return unique_ids
+
 
 def get_all_player_battles() -> None:
     """
@@ -213,10 +216,6 @@ def process_player_info(data:dict):
     
     return pd.DataFrame(processed_data)
 
-    
-    
-
-    
         
 def get_player_info(player_id:str)-> None:
     """
@@ -242,6 +241,7 @@ def get_player_info(player_id:str)-> None:
         df = pd.DataFrame()  # Return an empty DataFrame if no data to concatenate
 
     return df.drop_duplicates()
+
 
 def get_all_player_info():
     """
