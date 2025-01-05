@@ -56,26 +56,12 @@ def get_battle_stats(df,stats,player_tag):
         
     gamemodes.difference_update({'unknown',np.nan})
     
-    # Avg Trophy gain/loss
     stats["avg_trophy_change"] = round(df.battle_trophy_change.mean(),2)
-    
-    # Win Rates
     stats['win_rates'] = get_win_rates(df,gamemodes,showdown_ranks)
-    
-    # Win Streaks
     stats['win_streaks'] = get_best_win_streaks(df,gamemodes,showdown_ranks)
-    print(stats['win_streaks'])
-    
-    
-    # Main Brawler 
-    stats["most_played_event"] = df['player_brawler_name'].value_counts().idxmax()
-    
-    # Favoirte Event
+    stats["most_played_brawler"] = df['player_brawler_name'].value_counts().idxmax()
     stats["most_played_event"] = df['event_mode'].value_counts().idxmax()
-    
-    stats['star_player_count'] = df[(df['star_player_tag'] == player_tag)].count()
-    
-    # print(stats['star_player_count'])
+    stats['star_player_count'] = df[(df['star_player_tag'] == "#"+player_tag)]['star_player_tag'].count()
 
     return stats
 
@@ -103,4 +89,4 @@ def stat_gen(player_tag):
 
 
 if __name__ == "__main__":
-    stat_gen('2GL8YLVPGY')
+    stat_gen('8JYJY298')
