@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250104T080000.000Z",
+    "endTime": "20250105T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20250104T200000.000Z",
+    "endTime": "20250105T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000045,
+      "mode": "soloShowdown",
+      "map": "Island Invasion"
+    }
+  },
+  {
+    "startTime": "20250104T020000.000Z",
+    "endTime": "20250105T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20250104T140000.000Z",
+    "endTime": "20250105T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000293,
+      "mode": "hotZone",
+      "map": "Parallel Plays"
+    }
+  },
+  {
+    "startTime": "20250104T200000.000Z",
+    "endTime": "20250105T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000046,
+      "mode": "duoShowdown",
+      "map": "Island Invasion"
+    }
+  },
+  {
+    "startTime": "20250104T140000.000Z",
+    "endTime": "20250105T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000468,
+      "mode": "duels",
+      "map": "Monkey Maze"
+    }
+  },
+  {
+    "startTime": "20250102T080000.000Z",
+    "endTime": "20250105T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000901,
+      "mode": "unknown",
+      "map": "We Messed Up"
+    }
+  },
+  {
+    "startTime": "20250102T080000.000Z",
+    "endTime": "20250105T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000905,
+      "mode": "unknown",
+      "map": "Air Sports Arena"
+    }
+  },
+  {
+    "startTime": "20250104T020000.000Z",
+    "endTime": "20250105T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000703,
+      "mode": "knockout",
+      "map": "New Horizons"
+    }
+  },
+  {
+    "startTime": "20250104T080000.000Z",
+    "endTime": "20250105T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]
