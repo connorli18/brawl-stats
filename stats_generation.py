@@ -24,7 +24,6 @@ def get_best_win_streaks(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict)->dic
 def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
     def _calc_win_rate(gamemode:str,rank=None) -> float:
         w = l = 0
-        
         if rank:
             w = df[(df['event_mode'] == gamemode) & (df['battle_rank'] <= rank)]['battle_rank'].count()
             l = df[(df['event_mode'] == gamemode) & (df['battle_rank'] > rank)]['battle_rank'].count()
@@ -35,13 +34,12 @@ def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
             except KeyError:
                 print("Zero Wins or Zero Losses in ",gamemode)
         return (round((w / (w+l) if (w+l) else 0),2),w,l)
-    
     win_rates = {}
     w_total = l_total = 0
     
     for gamemode in gamemodes:
         (rate,curr_w,curr_l) = _calc_win_rate(gamemode,showdown_ranks.get(gamemode,None))
-        win_rates[gamemode + "_win_rate"] = rate
+        win_rates[gamemode] = rate
         w_total += curr_w
         l_total += curr_l
     
@@ -49,10 +47,8 @@ def get_win_rates(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict) -> dict:
     
     return win_rates
 
-        
-
+    
 def get_battle_stats(df,stats):
-
     showdown_ranks = {'soloShowdown':4,'duoShowdown':2,'trioShowdown':2}
     gamemodes = set(df.event_mode)
         
@@ -72,19 +68,15 @@ def get_battle_stats(df,stats):
     
     return stats
 
+
 def plot_trends(df):
-    
     # Trophy Gain/Loss
     df.plot(x='date_formatted',y='battle_trophy_change')
     plt.show()
     
 
-    
-
 def stat_gen(player_tag):
-    
     stats = {}
-    
     try:
         battle_logs_df = pd.read_csv(f'created-logs-per-player/{player_tag}-battle-log-custom.csv')
         # battle_logs_df['date_formatted'] = pd.to_datetime(battle_logs_df['battle_time']).dt.strftime('%Y-%m-%d')
