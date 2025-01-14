@@ -1,0 +1,43 @@
+{
+    "avg_trophy_change": 1.4, 
+    "most_played_brawler": "SPIKE", 
+    "most_played_event": "knockout", 
+    "star_player_count": 117, 
+    "win_rates": {
+        "botDrop": 0.27, 
+        "bounty": 0.41, 
+        "brawlBall": 0.5, 
+        "brawlBall5V5": 0.5, 
+        "duels": 0.5, 
+        "duoShowdown": 0.4, 
+        "gemGrab": 0.51, 
+        "heist": 0.26, 
+        "hotZone": 0.47, 
+        "knockout": 0.49, 
+        "knockout5V5": 1.0, 
+        "overall": 0.44109055501460565, 
+        "paintBrawl": 0.56, 
+        "soloShowdown": 0.05, 
+        "trioShowdown": 0.48, 
+        "wipeout": 0.2, 
+        "wipeout5V5": 0.64
+    }, 
+    "win_streaks": {
+        "botDrop": 2, 
+        "bounty": 6, 
+        "brawlBall": 16, 
+        "brawlBall5V5": 2, 
+        "duels": 1, 
+        "duoShowdown": 6, 
+        "gemGrab": 14, 
+        "heist": 4, 
+        "hotZone": 16, 
+        "knockout": 10, 
+        "knockout5V5": 2, 
+        "paintBrawl": 6, 
+        "soloShowdown": 2, 
+        "trioShowdown": 4, 
+        "wipeout": 1, 
+        "wipeout5V5": 3
+    }
+}
