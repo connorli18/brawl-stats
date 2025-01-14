@@ -5,6 +5,18 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import datetime
+import json
+
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NpEncoder, self).default(obj)
 
 
 def get_best_win_streaks(df:pd.DataFrame,gamemodes:set,showdown_ranks:dict)->dict:
@@ -63,17 +75,17 @@ def get_battle_stats(df,stats,player_tag):
     stats["most_played_event"] = df['event_mode'].value_counts().idxmax()
     stats['star_player_count'] = df[(df['star_player_tag'] == "#"+player_tag)]['star_player_tag'].count()
 
-    return stats
-
 
 def plot_trends(df):
     # Trophy Gain/Loss
-    df.plot(x='date_formatted',y='battle_trophy_change')
+    df.plot(x='battle_time',y='battle_trophy_change')
     plt.show()
     
 
 def stat_gen(player_tag):
+    date_str = datetime.datetime.now().strftime("%Y%m%d")
     stats = {}
+    
     try:
         battle_logs_df = pd.read_csv(f'created-logs-per-player/{player_tag}-battle-log-custom.csv')
         # battle_logs_df['date_formatted'] = pd.to_datetime(battle_logs_df['battle_time']).dt.strftime('%Y-%m-%d')
@@ -86,7 +98,28 @@ def stat_gen(player_tag):
         print(f"Couldn't find file at: created-player-info-log/{player_tag}-player-log-custom.csv")
         
     get_battle_stats(battle_logs_df,stats,player_tag)
+    # plot_trends(battle_logs_df)
+    
 
+    
+    with open(f'./created-player-stats/{player_tag}_stats_{date_str}','w') as outfile:
+        json.dump(stats,outfile,indent=4, sort_keys=True,
+              separators=(', ', ': '), ensure_ascii=False,
+              cls=NpEncoder)
 
 if __name__ == "__main__":
-    stat_gen('8JYJY298')
+    player_tags = {
+    '2LV0PLP8G',
+    '8LQCJPGR',
+        'LQQYGCV29',
+        '2898CGQUU', 
+        'LV9QQLR08',
+        '89RPYYQJG',
+        'JJVGPCLP',
+        'QJ092J8CU',
+        '8JYJY298', 
+        'V2LLC89Q',
+        '2GL8YLVPGY'
+    }
+    for tag in player_tags:
+        stat_gen(tag)
