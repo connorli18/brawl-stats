@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250115T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250114T200000.000Z",
+    "endTime": "20250115T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000016,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250114T020000.000Z",
+    "endTime": "20250115T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250114T140000.000Z",
+    "endTime": "20250115T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250114T200000.000Z",
+    "endTime": "20250115T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000037,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250114T140000.000Z",
+    "endTime": "20250115T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000479,
+      "mode": "wipeout",
+      "map": "Slayer's Paradise"
+    }
+  },
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250117T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000858,
+      "mode": "unknown",
+      "map": "Cooperative Chaos"
+    }
+  },
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250117T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000863,
+      "mode": "unknown",
+      "map": "Double Play Palace"
+    }
+  },
+  {
+    "startTime": "20250114T020000.000Z",
+    "endTime": "20250115T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250115T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000645,
+      "mode": "wipeout5V5",
+      "map": "Slippery road"
+    }
+  }
+]
