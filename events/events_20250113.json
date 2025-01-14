@@ -10,23 +10,26 @@
     }
   },
   {
-    "startTime": "20250112T200000.000Z",
-    "endTime": "20250113T200000.000Z",
+    "startTime": "20250113T200000.000Z",
+    "endTime": "20250114T200000.000Z",
     "slotId": 2,
     "event": {
-      "id": 15000043,
+      "id": 15000430,
       "mode": "soloShowdown",
-      "map": "Double Trouble"
+      "map": "Dried Up River",
+      "modifiers": [
+        "angryRobo"
+      ]
     }
   },
   {
-    "startTime": "20250113T020000.000Z",
-    "endTime": "20250114T020000.000Z",
+    "startTime": "20250114T020000.000Z",
+    "endTime": "20250115T020000.000Z",
     "slotId": 3,
     "event": {
-      "id": 15000880,
+      "id": 15000010,
       "mode": "gemGrab",
-      "map": "Forest Clearing"
+      "map": "Gem Fort"
     }
   },
   {
@@ -40,13 +43,13 @@
     }
   },
   {
-    "startTime": "20250112T200000.000Z",
-    "endTime": "20250113T200000.000Z",
+    "startTime": "20250113T200000.000Z",
+    "endTime": "20250114T200000.000Z",
     "slotId": 5,
     "event": {
-      "id": 15000028,
+      "id": 15000431,
       "mode": "duoShowdown",
-      "map": "Double Trouble"
+      "map": "Dried Up River"
     }
   },
   {
@@ -80,13 +83,13 @@
     }
   },
   {
-    "startTime": "20250113T020000.000Z",
-    "endTime": "20250114T020000.000Z",
+    "startTime": "20250114T020000.000Z",
+    "endTime": "20250115T020000.000Z",
     "slotId": 15,
     "event": {
-      "id": 15000734,
+      "id": 15000367,
       "mode": "knockout",
-      "map": "Four Levels"
+      "map": "Goldarm Gulch"
     }
   },
   {
