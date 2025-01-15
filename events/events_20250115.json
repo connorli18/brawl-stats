@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250115T080000.000Z",
+    "endTime": "20250116T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000884,
+      "mode": "brawlBall",
+      "map": "Second Try"
+    }
+  },
+  {
+    "startTime": "20250114T200000.000Z",
+    "endTime": "20250115T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000016,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250115T020000.000Z",
+    "endTime": "20250116T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250115T140000.000Z",
+    "endTime": "20250116T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000019,
+      "mode": "heist",
+      "map": "Safe Zone"
+    }
+  },
+  {
+    "startTime": "20250114T200000.000Z",
+    "endTime": "20250115T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000037,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250115T140000.000Z",
+    "endTime": "20250116T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000005,
+      "mode": "bounty",
+      "map": "Shooting Star"
+    }
+  },
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250117T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000858,
+      "mode": "unknown",
+      "map": "Cooperative Chaos"
+    }
+  },
+  {
+    "startTime": "20250114T080000.000Z",
+    "endTime": "20250117T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000863,
+      "mode": "unknown",
+      "map": "Double Play Palace"
+    }
+  },
+  {
+    "startTime": "20250115T020000.000Z",
+    "endTime": "20250116T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000882,
+      "mode": "knockout",
+      "map": "H for..."
+    }
+  },
+  {
+    "startTime": "20250115T080000.000Z",
+    "endTime": "20250116T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000639,
+      "mode": "brawlBall5V5",
+      "map": "Great waves"
+    }
+  }
+]
