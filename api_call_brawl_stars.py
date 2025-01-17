@@ -92,7 +92,8 @@ def get_public_ip_to_config() -> str:
         "172.58.1.111": "nad_ned",
         "172.56.70.145": "minecraft_wool",
         "172.56.69.11": "minecraft_iron",
-        "172.56.71.116": "skibidi"
+        "172.56.71.116": "skibidi",
+        "172.58.1.76": "balls"
     }
 
     try:
