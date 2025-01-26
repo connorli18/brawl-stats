@@ -1,0 +1,162 @@
+[
+  {
+    "startTime": "20250126T080000.000Z",
+    "endTime": "20250127T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250126T200000.000Z",
+    "endTime": "20250127T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000016,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250126T020000.000Z",
+    "endTime": "20250127T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250126T140000.000Z",
+    "endTime": "20250127T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250126T200000.000Z",
+    "endTime": "20250127T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000037,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250126T140000.000Z",
+    "endTime": "20250127T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000634,
+      "mode": "wipeout",
+      "map": "Layer Bake"
+    }
+  },
+  {
+    "startTime": "20250124T080000.000Z",
+    "endTime": "20250128T080000.000Z",
+    "slotId": 7,
+    "event": {
+      "id": 15000039,
+      "mode": "roboRumble",
+      "map": "Keep Safe"
+    }
+  },
+  {
+    "startTime": "20250126T080000.000Z",
+    "endTime": "20250129T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000904,
+      "mode": "unknown",
+      "map": "Slapshot Stadium"
+    }
+  },
+  {
+    "startTime": "20250126T080000.000Z",
+    "endTime": "20250129T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000889,
+      "mode": "unknown",
+      "map": "Raven's Pass"
+    }
+  },
+  {
+    "startTime": "20250126T020000.000Z",
+    "endTime": "20250127T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250124T070000.000Z",
+    "endTime": "20250129T070000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250124T070000.000Z",
+    "endTime": "20250129T070000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000024,
+      "mode": "brawlBall",
+      "map": "Backyard Bowl"
+    }
+  },
+  {
+    "startTime": "20250124T070000.000Z",
+    "endTime": "20250129T070000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000019,
+      "mode": "heist",
+      "map": "Safe Zone"
+    }
+  },
+  {
+    "startTime": "20250124T070000.000Z",
+    "endTime": "20250129T070000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000548,
+      "mode": "knockout",
+      "map": "Out in the Open"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 24,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20250126T080000.000Z",
+    "endTime": "20250127T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000647,
+      "mode": "wipeout5V5",
+      "map": "Frosty tracks"
+    }
+  }
+]
