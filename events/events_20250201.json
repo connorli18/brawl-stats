@@ -1,0 +1,155 @@
+[
+  {
+    "startTime": "20250201T080000.000Z",
+    "endTime": "20250202T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250131T200000.000Z",
+    "endTime": "20250201T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000228,
+      "mode": "soloShowdown",
+      "map": "Safety Center",
+      "modifiers": [
+        "angryRobo"
+      ]
+    }
+  },
+  {
+    "startTime": "20250201T020000.000Z",
+    "endTime": "20250202T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000881,
+      "mode": "gemGrab",
+      "map": "The cooler Hard Rock"
+    }
+  },
+  {
+    "startTime": "20250201T140000.000Z",
+    "endTime": "20250202T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000878,
+      "mode": "hotZone",
+      "map": "Watersport"
+    }
+  },
+  {
+    "startTime": "20250131T200000.000Z",
+    "endTime": "20250201T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000229,
+      "mode": "duoShowdown",
+      "map": "Safety Center"
+    }
+  },
+  {
+    "startTime": "20250201T140000.000Z",
+    "endTime": "20250202T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000479,
+      "mode": "wipeout",
+      "map": "Slayer's Paradise"
+    }
+  },
+  {
+    "startTime": "20250130T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000891,
+      "mode": "unknown",
+      "map": "Pitch Perfect"
+    }
+  },
+  {
+    "startTime": "20250201T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000888,
+      "mode": "unknown",
+      "map": "Blocky Blockade"
+    }
+  },
+  {
+    "startTime": "20250201T020000.000Z",
+    "endTime": "20250202T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000897,
+      "mode": "knockout",
+      "map": "Tiny Islands"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000019,
+      "mode": "heist",
+      "map": "Safe Zone"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250131T070000.000Z",
+    "endTime": "20250203T070000.000Z",
+    "slotId": 24,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20250201T080000.000Z",
+    "endTime": "20250202T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000646,
+      "mode": "wipeout5V5",
+      "map": "Icy ice park"
+    }
+  }
+]
