@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250204T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000132,
+      "mode": "brawlBall",
+      "map": "Center Stage"
+    }
+  },
+  {
+    "startTime": "20250203T200000.000Z",
+    "endTime": "20250204T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000033,
+      "mode": "soloShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20250204T020000.000Z",
+    "endTime": "20250205T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000009,
+      "mode": "gemGrab",
+      "map": "Deathcap Trap"
+    }
+  },
+  {
+    "startTime": "20250204T140000.000Z",
+    "endTime": "20250205T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000053,
+      "mode": "heist",
+      "map": "Hot Potato"
+    }
+  },
+  {
+    "startTime": "20250203T200000.000Z",
+    "endTime": "20250204T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000044,
+      "mode": "duoShowdown",
+      "map": "Cavern Churn"
+    }
+  },
+  {
+    "startTime": "20250204T140000.000Z",
+    "endTime": "20250205T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000778,
+      "mode": "wipeout",
+      "map": "Spice Production"
+    }
+  },
+  {
+    "startTime": "20250130T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000891,
+      "mode": "unknown",
+      "map": "Pitch Perfect"
+    }
+  },
+  {
+    "startTime": "20250201T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000888,
+      "mode": "unknown",
+      "map": "Blocky Blockade"
+    }
+  },
+  {
+    "startTime": "20250204T020000.000Z",
+    "endTime": "20250205T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000896,
+      "mode": "knockout",
+      "map": "Deep Forest"
+    }
+  },
+  {
+    "startTime": "20250204T080000.000Z",
+    "endTime": "20250205T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000719,
+      "mode": "brawlBall5V5",
+      "map": "Suspenders"
+    }
+  }
+]
