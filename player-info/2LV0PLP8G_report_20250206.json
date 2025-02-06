@@ -5,12 +5,12 @@
   "icon": {
     "id": 28000156
   },
-  "trophies": 44382,
-  "highestTrophies": 44293,
+  "trophies": 44433,
+  "highestTrophies": 44317,
   "expLevel": 260,
-  "expPoints": 346640,
+  "expPoints": 346834,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 15052,
+  "3vs3Victories": 15067,
   "soloVictories": 1769,
   "duoVictories": 2614,
   "bestRoboRumbleTime": 7,
@@ -390,7 +390,7 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 49,
-      "trophies": 930,
+      "trophies": 925,
       "highestTrophies": 963,
       "gears": [
         {
@@ -809,7 +809,7 @@
       "name": "FRANK",
       "power": 11,
       "rank": 51,
-      "trophies": 950,
+      "trophies": 955,
       "highestTrophies": 1000,
       "gears": [
         {
@@ -1044,7 +1044,7 @@
       "name": "BIBI",
       "power": 11,
       "rank": 51,
-      "trophies": 964,
+      "trophies": 1016,
       "highestTrophies": 1017,
       "gears": [
         {
@@ -1871,7 +1871,7 @@
       "name": "BUZZ",
       "power": 11,
       "rank": 51,
-      "trophies": 1001,
+      "trophies": 1000,
       "highestTrophies": 1001,
       "gears": [
         {
@@ -2713,6 +2713,17 @@
           "name": "TURBO BOOSTERS"
         }
       ]
+    },
+    {
+      "id": 16000089,
+      "name": "MEEPLE",
+      "power": 1,
+      "rank": 1,
+      "trophies": 0,
+      "highestTrophies": 0,
+      "gears": [],
+      "starPowers": [],
+      "gadgets": []
     }
   ]
 }

@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250206T080000.000Z",
+    "endTime": "20250207T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000118,
+      "mode": "brawlBall",
+      "map": "Pinball Dreams"
+    }
+  },
+  {
+    "startTime": "20250206T200000.000Z",
+    "endTime": "20250207T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000430,
+      "mode": "soloShowdown",
+      "map": "Dried Up River",
+      "modifiers": [
+        "angryRobo"
+      ]
+    }
+  },
+  {
+    "startTime": "20250206T020000.000Z",
+    "endTime": "20250207T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000880,
+      "mode": "gemGrab",
+      "map": "Forest Clearing"
+    }
+  },
+  {
+    "startTime": "20250206T140000.000Z",
+    "endTime": "20250207T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000018,
+      "mode": "heist",
+      "map": "Kaboom Canyon"
+    }
+  },
+  {
+    "startTime": "20250206T200000.000Z",
+    "endTime": "20250207T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000431,
+      "mode": "duoShowdown",
+      "map": "Dried Up River"
+    }
+  },
+  {
+    "startTime": "20250206T140000.000Z",
+    "endTime": "20250207T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
+    }
+  },
+  {
+    "startTime": "20250205T080000.000Z",
+    "endTime": "20250207T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000875,
+      "mode": "unknown",
+      "map": "Instant Delivery"
+    }
+  },
+  {
+    "startTime": "20250205T080000.000Z",
+    "endTime": "20250207T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000850,
+      "mode": "unknown",
+      "map": "Super Center"
+    }
+  },
+  {
+    "startTime": "20250206T020000.000Z",
+    "endTime": "20250207T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20250206T080000.000Z",
+    "endTime": "20250207T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000638,
+      "mode": "brawlBall5V5",
+      "map": "Freezing ripples"
+    }
+  }
+]
