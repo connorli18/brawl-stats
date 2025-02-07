@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250207T080000.000Z",
+    "endTime": "20250208T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250206T200000.000Z",
+    "endTime": "20250207T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000430,
+      "mode": "soloShowdown",
+      "map": "Dried Up River",
+      "modifiers": [
+        "angryRobo"
+      ]
+    }
+  },
+  {
+    "startTime": "20250207T020000.000Z",
+    "endTime": "20250208T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250207T140000.000Z",
+    "endTime": "20250208T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250206T200000.000Z",
+    "endTime": "20250207T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000431,
+      "mode": "duoShowdown",
+      "map": "Dried Up River"
+    }
+  },
+  {
+    "startTime": "20250207T140000.000Z",
+    "endTime": "20250208T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000682,
+      "mode": "wipeout",
+      "map": "The Great Open"
+    }
+  },
+  {
+    "startTime": "20250207T080000.000Z",
+    "endTime": "20250208T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000876,
+      "mode": "unknown",
+      "map": "Triple Cheese"
+    }
+  },
+  {
+    "startTime": "20250207T080000.000Z",
+    "endTime": "20250208T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000851,
+      "mode": "unknown",
+      "map": "Slippery Slap"
+    }
+  },
+  {
+    "startTime": "20250207T020000.000Z",
+    "endTime": "20250208T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250207T080000.000Z",
+    "endTime": "20250208T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000645,
+      "mode": "wipeout5V5",
+      "map": "Slippery road"
+    }
+  }
+]
