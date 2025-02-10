@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250211T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000144,
+      "mode": "brawlBall",
+      "map": "Sunny Soccer"
+    }
+  },
+  {
+    "startTime": "20250209T200000.000Z",
+    "endTime": "20250210T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000045,
+      "mode": "soloShowdown",
+      "map": "Island Invasion"
+    }
+  },
+  {
+    "startTime": "20250210T020000.000Z",
+    "endTime": "20250211T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000122,
+      "mode": "gemGrab",
+      "map": "Minecart Madness"
+    }
+  },
+  {
+    "startTime": "20250210T140000.000Z",
+    "endTime": "20250211T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000886,
+      "mode": "heist",
+      "map": "Safe(r) Zone"
+    }
+  },
+  {
+    "startTime": "20250209T200000.000Z",
+    "endTime": "20250210T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000046,
+      "mode": "duoShowdown",
+      "map": "Island Invasion"
+    }
+  },
+  {
+    "startTime": "20250210T140000.000Z",
+    "endTime": "20250211T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000471,
+      "mode": "wipeout",
+      "map": "Infinite Doom"
+    }
+  },
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250213T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000895,
+      "mode": "unknown",
+      "map": "Off the Charts"
+    }
+  },
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250212T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000891,
+      "mode": "unknown",
+      "map": "Pitch Perfect"
+    }
+  },
+  {
+    "startTime": "20250210T020000.000Z",
+    "endTime": "20250211T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000548,
+      "mode": "knockout",
+      "map": "Out in the Open"
+    }
+  },
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250211T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000640,
+      "mode": "brawlBall5V5",
+      "map": "Cool shapes"
+    }
+  }
+]
