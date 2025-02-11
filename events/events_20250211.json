@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250211T080000.000Z",
+    "endTime": "20250212T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000051,
+      "mode": "brawlBall",
+      "map": "Super Beach"
+    }
+  },
+  {
+    "startTime": "20250210T200000.000Z",
+    "endTime": "20250211T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000701,
+      "mode": "soloShowdown",
+      "map": "Marksman's Paradise",
+      "modifiers": [
+        "meteorShower"
+      ]
+    }
+  },
+  {
+    "startTime": "20250211T020000.000Z",
+    "endTime": "20250212T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000499,
+      "mode": "gemGrab",
+      "map": "Open Space"
+    }
+  },
+  {
+    "startTime": "20250210T140000.000Z",
+    "endTime": "20250211T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000886,
+      "mode": "heist",
+      "map": "Safe(r) Zone"
+    }
+  },
+  {
+    "startTime": "20250210T200000.000Z",
+    "endTime": "20250211T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000702,
+      "mode": "duoShowdown",
+      "map": "Marksman's Paradise"
+    }
+  },
+  {
+    "startTime": "20250210T140000.000Z",
+    "endTime": "20250211T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000471,
+      "mode": "wipeout",
+      "map": "Infinite Doom"
+    }
+  },
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250213T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000895,
+      "mode": "unknown",
+      "map": "Off the Charts"
+    }
+  },
+  {
+    "startTime": "20250210T080000.000Z",
+    "endTime": "20250212T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000891,
+      "mode": "unknown",
+      "map": "Pitch Perfect"
+    }
+  },
+  {
+    "startTime": "20250211T020000.000Z",
+    "endTime": "20250212T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000899,
+      "mode": "knockout",
+      "map": "Overgrown Ruins"
+    }
+  },
+  {
+    "startTime": "20250211T080000.000Z",
+    "endTime": "20250212T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000647,
+      "mode": "wipeout5V5",
+      "map": "Frosty tracks"
+    }
+  }
+]
