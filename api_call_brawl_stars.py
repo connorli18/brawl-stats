@@ -98,6 +98,7 @@ def get_public_ip_to_config() -> str:
         "128.59.177.135": "brodway_street",
         "128.59.176.37": "board_way2",
         "128.59.178.38": "bway3",
+        "128.59.176.253": "bway4"
     }
 
     try:

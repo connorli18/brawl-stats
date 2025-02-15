@@ -1,0 +1,145 @@
+[
+  {
+    "startTime": "20250215T080000.000Z",
+    "endTime": "20250216T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000143,
+      "mode": "brawlBall",
+      "map": "Beach Ball"
+    }
+  },
+  {
+    "startTime": "20250214T200000.000Z",
+    "endTime": "20250215T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000032,
+      "mode": "soloShowdown",
+      "map": "Acid Lakes",
+      "modifiers": [
+        "healingMushrooms"
+      ]
+    }
+  },
+  {
+    "startTime": "20250215T020000.000Z",
+    "endTime": "20250216T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000008,
+      "mode": "gemGrab",
+      "map": "Crystal Arcade"
+    }
+  },
+  {
+    "startTime": "20250215T140000.000Z",
+    "endTime": "20250216T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250214T200000.000Z",
+    "endTime": "20250215T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000038,
+      "mode": "duoShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20250215T140000.000Z",
+    "endTime": "20250216T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000571,
+      "mode": "duels",
+      "map": "Petticoat Duel"
+    }
+  },
+  {
+    "startTime": "20250215T080000.000Z",
+    "endTime": "20250217T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000860,
+      "mode": "unknown",
+      "map": "Double Dribble"
+    }
+  },
+  {
+    "startTime": "20250214T080000.000Z",
+    "endTime": "20250216T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000867,
+      "mode": "unknown",
+      "map": "Dorky Dunkin"
+    }
+  },
+  {
+    "startTime": "20250215T020000.000Z",
+    "endTime": "20250216T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000872,
+      "mode": "unknown",
+      "map": "Field Frenzy"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000889,
+      "mode": "unknown",
+      "map": "Raven's Pass"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000866,
+      "mode": "unknown",
+      "map": "Basket Case"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000908,
+      "mode": "unknown",
+      "map": "Puck Man"
+    }
+  },
+  {
+    "startTime": "20250215T080000.000Z",
+    "endTime": "20250216T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000645,
+      "mode": "wipeout5V5",
+      "map": "Slippery road"
+    }
+  }
+]
