@@ -1,32 +1,8 @@
 {
-  "tag": "#LQQYGCV29",
-  "name": "colin",
-  "icon": {
-    "id": 28000399
-  },
-  "trophies": 34817,
-  "highestTrophies": 34817,
-  "expLevel": 163,
-  "expPoints": 137009,
-  "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 7015,
-  "soloVictories": 489,
-  "duoVictories": 739,
-  "bestRoboRumbleTime": 5,
-  "bestTimeAsBigBrawler": 0,
-  "club": {
-    "tag": "#2UL8QP0G",
-    "name": "The North Pole"
-  },
-  "brawlers": [
+  "items": [
     {
       "id": 16000000,
       "name": "SHELLY",
-      "power": 9,
-      "rank": 21,
-      "trophies": 398,
-      "highestTrophies": 409,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000076,
@@ -51,12 +27,11 @@
     {
       "id": 16000001,
       "name": "COLT",
-      "power": 9,
-      "rank": 25,
-      "trophies": 487,
-      "highestTrophies": 492,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000077,
+          "name": "SLICK BOOTS"
+        },
         {
           "id": 23000138,
           "name": "MAGNUM SPECIAL"
@@ -76,18 +51,21 @@
     {
       "id": 16000002,
       "name": "BULL",
-      "power": 9,
-      "rank": 24,
-      "trophies": 460,
-      "highestTrophies": 469,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000078,
           "name": "BERSERKER"
+        },
+        {
+          "id": 23000137,
+          "name": "TOUGH GUY"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000272,
+          "name": "T-BONE INJECTOR"
+        },
         {
           "id": 23000310,
           "name": "STOMPER"
@@ -97,12 +75,11 @@
     {
       "id": 16000003,
       "name": "BROCK",
-      "power": 9,
-      "rank": 25,
-      "trophies": 488,
-      "highestTrophies": 495,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000079,
+          "name": "MORE ROCKETS!"
+        },
         {
           "id": 23000150,
           "name": "ROCKET NO. 4"
@@ -122,11 +99,6 @@
     {
       "id": 16000004,
       "name": "RICO",
-      "power": 9,
-      "rank": 21,
-      "trophies": 398,
-      "highestTrophies": 409,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000080,
@@ -151,22 +123,6 @@
     {
       "id": 16000005,
       "name": "SPIKE",
-      "power": 11,
-      "rank": 51,
-      "trophies": 1010,
-      "highestTrophies": 1012,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000010,
-          "name": "STICKY SPIKES",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000081,
@@ -191,12 +147,11 @@
     {
       "id": 16000006,
       "name": "BARLEY",
-      "power": 9,
-      "rank": 20,
-      "trophies": 389,
-      "highestTrophies": 389,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000082,
+          "name": "MEDICAL USE"
+        },
         {
           "id": 23000158,
           "name": "EXTRA NOXIOUS"
@@ -216,17 +171,6 @@
     {
       "id": 16000007,
       "name": "JESSIE",
-      "power": 9,
-      "rank": 26,
-      "trophies": 500,
-      "highestTrophies": 517,
-      "gears": [
-        {
-          "id": 62000014,
-          "name": "PET POWER",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000083,
@@ -251,11 +195,6 @@
     {
       "id": 16000008,
       "name": "NITA",
-      "power": 9,
-      "rank": 27,
-      "trophies": 500,
-      "highestTrophies": 527,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000084,
@@ -280,18 +219,11 @@
     {
       "id": 16000009,
       "name": "DYNAMIKE",
-      "power": 9,
-      "rank": 22,
-      "trophies": 439,
-      "highestTrophies": 439,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000085,
+          "name": "DYNA-JUMP"
+        },
         {
           "id": 23000155,
           "name": "DEMOLITION"
@@ -311,15 +243,14 @@
     {
       "id": 16000010,
       "name": "EL PRIMO",
-      "power": 9,
-      "rank": 22,
-      "trophies": 437,
-      "highestTrophies": 437,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000086,
           "name": "EL FUEGO"
+        },
+        {
+          "id": 23000140,
+          "name": "METEOR RUSH"
         }
       ],
       "gadgets": [
@@ -336,12 +267,11 @@
     {
       "id": 16000011,
       "name": "MORTIS",
-      "power": 9,
-      "rank": 16,
-      "trophies": 311,
-      "highestTrophies": 311,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000087,
+          "name": "CREEPY HARVEST"
+        },
         {
           "id": 23000154,
           "name": "COILED SNAKE"
@@ -351,21 +281,24 @@
         {
           "id": 23000265,
           "name": "COMBO SPINNER"
+        },
+        {
+          "id": 23000290,
+          "name": "SURVIVAL SHOVEL"
         }
       ]
     },
     {
       "id": 16000012,
       "name": "CROW",
-      "power": 9,
-      "rank": 23,
-      "trophies": 443,
-      "highestTrophies": 443,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000088,
           "name": "EXTRA TOXIC"
+        },
+        {
+          "id": 23000143,
+          "name": "CARRION CROW"
         }
       ],
       "gadgets": [
@@ -382,44 +315,35 @@
     {
       "id": 16000013,
       "name": "POCO",
-      "power": 10,
-      "rank": 25,
-      "trophies": 495,
-      "highestTrophies": 495,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000089,
           "name": "DA CAPO!"
+        },
+        {
+          "id": 23000144,
+          "name": "SCREECHING SOLO"
         }
       ],
       "gadgets": [
         {
           "id": 23000267,
           "name": "TUNING FORK"
+        },
+        {
+          "id": 23000350,
+          "name": "PROTECTIVE TUNES"
         }
       ]
     },
     {
       "id": 16000014,
       "name": "BO",
-      "power": 10,
-      "rank": 42,
-      "trophies": 831,
-      "highestTrophies": 834,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000005,
-          "name": "RELOAD SPEED",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000090,
+          "name": "CIRCLING EAGLE"
+        },
         {
           "id": 23000148,
           "name": "SNARE A BEAR"
@@ -439,12 +363,11 @@
     {
       "id": 16000015,
       "name": "PIPER",
-      "power": 9,
-      "rank": 20,
-      "trophies": 392,
-      "highestTrophies": 396,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000091,
+          "name": "AMBUSH"
+        },
         {
           "id": 23000152,
           "name": "SNAPPY SNIPING"
@@ -464,11 +387,6 @@
     {
       "id": 16000016,
       "name": "PAM",
-      "power": 9,
-      "rank": 24,
-      "trophies": 469,
-      "highestTrophies": 478,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000092,
@@ -483,23 +401,16 @@
         {
           "id": 23000257,
           "name": "PULSE MODULATOR"
+        },
+        {
+          "id": 23000404,
+          "name": "SCRAPSUCKER"
         }
       ]
     },
     {
       "id": 16000017,
       "name": "TARA",
-      "power": 9,
-      "rank": 25,
-      "trophies": 487,
-      "highestTrophies": 487,
-      "gears": [
-        {
-          "id": 62000014,
-          "name": "PET POWER",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000093,
@@ -524,12 +435,11 @@
     {
       "id": 16000018,
       "name": "DARRYL",
-      "power": 9,
-      "rank": 26,
-      "trophies": 497,
-      "highestTrophies": 509,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000094,
+          "name": "STEEL HOOPS"
+        },
         {
           "id": 23000157,
           "name": "ROLLING RELOAD"
@@ -549,21 +459,14 @@
     {
       "id": 16000019,
       "name": "PENNY",
-      "power": 9,
-      "rank": 25,
-      "trophies": 491,
-      "highestTrophies": 491,
-      "gears": [
-        {
-          "id": 62000014,
-          "name": "PET POWER",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000099,
           "name": "HEAVY COFFERS"
+        },
+        {
+          "id": 23000142,
+          "name": "MASTER BLASTER"
         }
       ],
       "gadgets": [
@@ -580,17 +483,6 @@
     {
       "id": 16000020,
       "name": "FRANK",
-      "power": 11,
-      "rank": 25,
-      "trophies": 485,
-      "highestTrophies": 491,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000104,
@@ -615,24 +507,21 @@
     {
       "id": 16000021,
       "name": "GENE",
-      "power": 9,
-      "rank": 20,
-      "trophies": 395,
-      "highestTrophies": 397,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000109,
+          "name": "MAGIC PUFFS"
+        },
         {
           "id": 23000159,
           "name": "SPIRIT SLAP"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000252,
+          "name": "LAMP BLOWOUT"
+        },
         {
           "id": 23000352,
           "name": "VENGEFUL SPIRITS"
@@ -642,11 +531,6 @@
     {
       "id": 16000022,
       "name": "TICK",
-      "power": 11,
-      "rank": 25,
-      "trophies": 495,
-      "highestTrophies": 497,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000114,
@@ -671,12 +555,11 @@
     {
       "id": 16000023,
       "name": "LEON",
-      "power": 9,
-      "rank": 26,
-      "trophies": 486,
-      "highestTrophies": 502,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000119,
+          "name": "SMOKE TRAILS"
+        },
         {
           "id": 23000141,
           "name": "INVISIHEAL"
@@ -696,22 +579,6 @@
     {
       "id": 16000024,
       "name": "ROSA",
-      "power": 11,
-      "rank": 31,
-      "trophies": 526,
-      "highestTrophies": 617,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000001,
-          "name": "HEALTH",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000124,
@@ -736,15 +603,14 @@
     {
       "id": 16000025,
       "name": "CARL",
-      "power": 9,
-      "rank": 27,
-      "trophies": 500,
-      "highestTrophies": 526,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000129,
           "name": "POWER THROW"
+        },
+        {
+          "id": 23000145,
+          "name": "PROTECTIVE PIROUETTE"
         }
       ],
       "gadgets": [
@@ -761,12 +627,11 @@
     {
       "id": 16000026,
       "name": "BIBI",
-      "power": 9,
-      "rank": 16,
-      "trophies": 307,
-      "highestTrophies": 309,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000134,
+          "name": "HOME RUN"
+        },
         {
           "id": 23000146,
           "name": "BATTING STANCE"
@@ -786,11 +651,6 @@
     {
       "id": 16000027,
       "name": "8-BIT",
-      "power": 9,
-      "rank": 24,
-      "trophies": 475,
-      "highestTrophies": 475,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000168,
@@ -815,18 +675,21 @@
     {
       "id": 16000028,
       "name": "SANDY",
-      "power": 10,
-      "rank": 15,
-      "trophies": 295,
-      "highestTrophies": 295,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000186,
           "name": "RUDE SANDS"
+        },
+        {
+          "id": 23000187,
+          "name": "HEALING WINDS"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000270,
+          "name": "SLEEP STIMULATOR"
+        },
         {
           "id": 23000405,
           "name": "SWEET DREAMS"
@@ -836,18 +699,21 @@
     {
       "id": 16000029,
       "name": "BEA",
-      "power": 9,
-      "rank": 20,
-      "trophies": 397,
-      "highestTrophies": 397,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000192,
+          "name": "INSTA BEALOAD"
+        },
         {
           "id": 23000193,
           "name": "HONEYCOMB"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000271,
+          "name": "HONEY MOLASSES"
+        },
         {
           "id": 23000312,
           "name": "RATTLED HIVE"
@@ -857,11 +723,6 @@
     {
       "id": 16000030,
       "name": "EMZ",
-      "power": 10,
-      "rank": 30,
-      "trophies": 508,
-      "highestTrophies": 598,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000198,
@@ -876,24 +737,21 @@
         {
           "id": 23000274,
           "name": "FRIENDZONER"
+        },
+        {
+          "id": 23000459,
+          "name": "ACID SPRAY"
         }
       ]
     },
     {
       "id": 16000031,
       "name": "MR. P",
-      "power": 10,
-      "rank": 23,
-      "trophies": 443,
-      "highestTrophies": 443,
-      "gears": [
-        {
-          "id": 62000014,
-          "name": "PET POWER",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000204,
+          "name": "HANDLE WITH CARE"
+        },
         {
           "id": 23000205,
           "name": "REVOLVING DOOR"
@@ -913,11 +771,6 @@
     {
       "id": 16000032,
       "name": "MAX",
-      "power": 11,
-      "rank": 18,
-      "trophies": 357,
-      "highestTrophies": 357,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000210,
@@ -930,6 +783,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000254,
+          "name": "PHASE SHIFTER"
+        },
+        {
           "id": 23000311,
           "name": "SNEAKY SNEAKERS"
         }
@@ -938,15 +795,14 @@
     {
       "id": 16000034,
       "name": "JACKY",
-      "power": 9,
-      "rank": 26,
-      "trophies": 507,
-      "highestTrophies": 516,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000222,
           "name": "COUNTER CRUSH"
+        },
+        {
+          "id": 23000223,
+          "name": "HARDY HARD HAT"
         }
       ],
       "gadgets": [
@@ -963,17 +819,6 @@
     {
       "id": 16000035,
       "name": "GALE",
-      "power": 9,
-      "rank": 27,
-      "trophies": 500,
-      "highestTrophies": 529,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000228,
@@ -986,6 +831,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000277,
+          "name": "SPRING EJECTOR"
+        },
+        {
           "id": 23000407,
           "name": "TWISTER"
         }
@@ -994,13 +843,21 @@
     {
       "id": 16000036,
       "name": "NANI",
-      "power": 7,
-      "rank": 19,
-      "trophies": 356,
-      "highestTrophies": 364,
-      "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000234,
+          "name": "AUTOFOCUS"
+        },
+        {
+          "id": 23000235,
+          "name": "TEMPERED STEEL"
+        }
+      ],
       "gadgets": [
+        {
+          "id": 23000278,
+          "name": "WARPIN' TIME"
+        },
         {
           "id": 23000353,
           "name": "RETURN TO SENDER"
@@ -1010,39 +867,45 @@
     {
       "id": 16000037,
       "name": "SPROUT",
-      "power": 9,
-      "rank": 20,
-      "trophies": 389,
-      "highestTrophies": 393,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000240,
           "name": "OVERGROWTH"
+        },
+        {
+          "id": 23000241,
+          "name": "PHOTOSYNTHESIS"
         }
       ],
       "gadgets": [
         {
           "id": 23000244,
           "name": "GARDEN MULCHER"
+        },
+        {
+          "id": 23000315,
+          "name": "TRANSPLANT"
         }
       ]
     },
     {
       "id": 16000038,
       "name": "SURGE",
-      "power": 9,
-      "rank": 18,
-      "trophies": 331,
-      "highestTrophies": 357,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000283,
           "name": "TO THE MAX!"
+        },
+        {
+          "id": 23000284,
+          "name": "SERVE ICE COLD"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000285,
+          "name": "POWER SURGE"
+        },
         {
           "id": 23000485,
           "name": "POWER SHIELD"
@@ -1052,18 +915,21 @@
     {
       "id": 16000039,
       "name": "COLETTE",
-      "power": 9,
-      "rank": 20,
-      "trophies": 374,
-      "highestTrophies": 382,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000300,
           "name": "PUSH IT"
+        },
+        {
+          "id": 23000301,
+          "name": "MASS TAX"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000302,
+          "name": "NA-AH!"
+        },
         {
           "id": 23000457,
           "name": "GOTCHA!"
@@ -1073,12 +939,11 @@
     {
       "id": 16000040,
       "name": "AMBER",
-      "power": 9,
-      "rank": 20,
-      "trophies": 366,
-      "highestTrophies": 386,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000307,
+          "name": "WILD FLAMES"
+        },
         {
           "id": 23000308,
           "name": "SCORCHIN' SIPHON"
@@ -1088,17 +953,16 @@
         {
           "id": 23000309,
           "name": "FIRE STARTERS"
+        },
+        {
+          "id": 23000488,
+          "name": "DANCING FLAMES"
         }
       ]
     },
     {
       "id": 16000041,
       "name": "LOU",
-      "power": 11,
-      "rank": 27,
-      "trophies": 500,
-      "highestTrophies": 520,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000324,
@@ -1123,39 +987,35 @@
     {
       "id": 16000042,
       "name": "BYRON",
-      "power": 9,
-      "rank": 17,
-      "trophies": 311,
-      "highestTrophies": 328,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000331,
           "name": "MALAISE"
+        },
+        {
+          "id": 23000332,
+          "name": "INJECTION"
         }
       ],
       "gadgets": [
         {
           "id": 23000333,
           "name": "SHOT IN THE ARM"
+        },
+        {
+          "id": 23000461,
+          "name": "BOOSTER SHOTS"
         }
       ]
     },
     {
       "id": 16000043,
       "name": "EDGAR",
-      "power": 9,
-      "rank": 27,
-      "trophies": 505,
-      "highestTrophies": 528,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000338,
+          "name": "HARD LANDING"
+        },
         {
           "id": 23000339,
           "name": "FISTICUFFS"
@@ -1165,17 +1025,16 @@
         {
           "id": 23000340,
           "name": "LET'S FLY"
+        },
+        {
+          "id": 23000403,
+          "name": "HARDCORE"
         }
       ]
     },
     {
       "id": 16000044,
       "name": "RUFFS",
-      "power": 9,
-      "rank": 18,
-      "trophies": 354,
-      "highestTrophies": 354,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000345,
@@ -1188,6 +1047,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000347,
+          "name": "TAKE COVER"
+        },
+        {
           "id": 23000402,
           "name": "AIR SUPPORT"
         }
@@ -1196,11 +1059,6 @@
     {
       "id": 16000045,
       "name": "STU",
-      "power": 9,
-      "rank": 20,
-      "trophies": 392,
-      "highestTrophies": 399,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000362,
@@ -1213,6 +1071,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000364,
+          "name": "SPEED ZONE"
+        },
+        {
           "id": 23000401,
           "name": "BREAKTHROUGH"
         }
@@ -1221,11 +1083,6 @@
     {
       "id": 16000046,
       "name": "BELLE",
-      "power": 9,
-      "rank": 28,
-      "trophies": 532,
-      "highestTrophies": 541,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000369,
@@ -1250,11 +1107,6 @@
     {
       "id": 16000047,
       "name": "SQUEAK",
-      "power": 9,
-      "rank": 22,
-      "trophies": 421,
-      "highestTrophies": 421,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000376,
@@ -1267,6 +1119,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000378,
+          "name": "WINDUP"
+        },
+        {
           "id": 23000462,
           "name": "RESIDUE"
         }
@@ -1275,23 +1131,11 @@
     {
       "id": 16000048,
       "name": "GROM",
-      "power": 11,
-      "rank": 51,
-      "trophies": 1000,
-      "highestTrophies": 1117,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000017,
-          "name": "GADGET CHARGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000383,
+          "name": "FOOT PATROL"
+        },
         {
           "id": 23000384,
           "name": "X-FACTOR"
@@ -1311,11 +1155,6 @@
     {
       "id": 16000049,
       "name": "BUZZ",
-      "power": 10,
-      "rank": 21,
-      "trophies": 403,
-      "highestTrophies": 403,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000390,
@@ -1330,28 +1169,16 @@
         {
           "id": 23000392,
           "name": "RESERVE BUOY"
+        },
+        {
+          "id": 23000490,
+          "name": "X-RAY-SHADES"
         }
       ]
     },
     {
       "id": 16000050,
       "name": "GRIFF",
-      "power": 10,
-      "rank": 27,
-      "trophies": 498,
-      "highestTrophies": 525,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000005,
-          "name": "RELOAD SPEED",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000397,
@@ -1364,6 +1191,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000399,
+          "name": "PIGGY BANK"
+        },
+        {
           "id": 23000487,
           "name": "COIN SHOWER"
         }
@@ -1372,11 +1203,6 @@
     {
       "id": 16000051,
       "name": "ASH",
-      "power": 9,
-      "rank": 16,
-      "trophies": 307,
-      "highestTrophies": 309,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000414,
@@ -1401,11 +1227,6 @@
     {
       "id": 16000052,
       "name": "MEG",
-      "power": 10,
-      "rank": 17,
-      "trophies": 336,
-      "highestTrophies": 336,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000421,
@@ -1430,18 +1251,21 @@
     {
       "id": 16000053,
       "name": "LOLA",
-      "power": 9,
-      "rank": 20,
-      "trophies": 392,
-      "highestTrophies": 392,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000431,
           "name": "IMPROVISE"
+        },
+        {
+          "id": 23000432,
+          "name": "SEALED WITH A KISS"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000433,
+          "name": "FREEZE FRAME"
+        },
         {
           "id": 23000456,
           "name": "STUNT DOUBLE"
@@ -1451,15 +1275,14 @@
     {
       "id": 16000054,
       "name": "FANG",
-      "power": 9,
-      "rank": 26,
-      "trophies": 505,
-      "highestTrophies": 509,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000438,
           "name": "FRESH KICKS"
+        },
+        {
+          "id": 23000439,
+          "name": "DIVINE SOLES"
         }
       ],
       "gadgets": [
@@ -1476,12 +1299,11 @@
     {
       "id": 16000056,
       "name": "EVE",
-      "power": 9,
-      "rank": 20,
-      "trophies": 386,
-      "highestTrophies": 390,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000452,
+          "name": "UNNATURAL ORDER"
+        },
         {
           "id": 23000453,
           "name": "HAPPY SURPRISE"
@@ -1491,17 +1313,16 @@
         {
           "id": 23000454,
           "name": "GOTTA GO!"
+        },
+        {
+          "id": 23000455,
+          "name": "MOTHERLY LOVE"
         }
       ]
     },
     {
       "id": 16000057,
       "name": "JANET",
-      "power": 9,
-      "rank": 15,
-      "trophies": 282,
-      "highestTrophies": 288,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000470,
@@ -1512,20 +1333,28 @@
           "name": "VOCAL WARM UP"
         }
       ],
-      "gadgets": []
+      "gadgets": [
+        {
+          "id": 23000472,
+          "name": "DROP THE BASS"
+        },
+        {
+          "id": 23000473,
+          "name": "BACKSTAGE PASS"
+        }
+      ]
     },
     {
       "id": 16000058,
       "name": "BONNIE",
-      "power": 9,
-      "rank": 22,
-      "trophies": 430,
-      "highestTrophies": 436,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000478,
           "name": "BLACK POWDER"
+        },
+        {
+          "id": 23000479,
+          "name": "WISDOM TOOTH"
         }
       ],
       "gadgets": [
@@ -1542,12 +1371,11 @@
     {
       "id": 16000059,
       "name": "OTIS",
-      "power": 9,
-      "rank": 19,
-      "trophies": 370,
-      "highestTrophies": 370,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000495,
+          "name": "STENCIL GLUE"
+        },
         {
           "id": 23000496,
           "name": "INK REFILLS"
@@ -1557,18 +1385,21 @@
         {
           "id": 23000497,
           "name": "DORMANT STAR"
+        },
+        {
+          "id": 23000498,
+          "name": "PHAT SPLATTER"
         }
       ]
     },
     {
       "id": 16000060,
       "name": "SAM",
-      "power": 9,
-      "rank": 19,
-      "trophies": 370,
-      "highestTrophies": 374,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000503,
+          "name": "HEARTY RECOVERY"
+        },
         {
           "id": 23000504,
           "name": "REMOTE RECHARGE"
@@ -1578,40 +1409,55 @@
         {
           "id": 23000505,
           "name": "MAGNETIC FIELD"
+        },
+        {
+          "id": 23000506,
+          "name": "PULSE REPELLENT"
         }
       ]
     },
     {
       "id": 16000061,
       "name": "GUS",
-      "power": 9,
-      "rank": 22,
-      "trophies": 416,
-      "highestTrophies": 421,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000511,
           "name": "HEALTH BONANZA"
+        },
+        {
+          "id": 23000512,
+          "name": "SPIRIT ANIMAL"
         }
       ],
       "gadgets": [
         {
           "id": 23000513,
           "name": "KOOKY POPPER"
+        },
+        {
+          "id": 23000514,
+          "name": "SOUL SWITCHER"
         }
       ]
     },
     {
       "id": 16000062,
       "name": "BUSTER",
-      "power": 9,
-      "rank": 17,
-      "trophies": 329,
-      "highestTrophies": 329,
-      "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000519,
+          "name": "BLOCKBUSTER"
+        },
+        {
+          "id": 23000520,
+          "name": "KEVLAR VEST"
+        }
+      ],
       "gadgets": [
+        {
+          "id": 23000521,
+          "name": "UTILITY BELT"
+        },
         {
           "id": 23000522,
           "name": "SLO-MO REPLAY"
@@ -1621,11 +1467,6 @@
     {
       "id": 16000063,
       "name": "CHESTER",
-      "power": 9,
-      "rank": 19,
-      "trophies": 361,
-      "highestTrophies": 365,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000527,
@@ -1638,6 +1479,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000529,
+          "name": "SPICY DICE"
+        },
+        {
           "id": 23000530,
           "name": "CANDY BEANS"
         }
@@ -1646,26 +1491,38 @@
     {
       "id": 16000064,
       "name": "GRAY",
-      "power": 8,
-      "rank": 17,
-      "trophies": 325,
-      "highestTrophies": 327,
-      "gears": [],
-      "starPowers": [],
-      "gadgets": []
+      "starPowers": [
+        {
+          "id": 23000535,
+          "name": "FAKE INJURY"
+        },
+        {
+          "id": 23000536,
+          "name": "NEW PERSPECTIVE"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23000537,
+          "name": "WALKING CANE"
+        },
+        {
+          "id": 23000538,
+          "name": "GRAND PIANO"
+        }
+      ]
     },
     {
       "id": 16000065,
       "name": "MANDY",
-      "power": 9,
-      "rank": 22,
-      "trophies": 414,
-      "highestTrophies": 427,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000543,
           "name": "IN MY SIGHTS"
+        },
+        {
+          "id": 23000544,
+          "name": "HARD CANDY"
         }
       ],
       "gadgets": [
@@ -1682,11 +1539,6 @@
     {
       "id": 16000066,
       "name": "R-T",
-      "power": 9,
-      "rank": 20,
-      "trophies": 382,
-      "highestTrophies": 386,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000553,
@@ -1711,32 +1563,30 @@
     {
       "id": 16000067,
       "name": "WILLOW",
-      "power": 9,
-      "rank": 16,
-      "trophies": 317,
-      "highestTrophies": 317,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000561,
           "name": "LOVE IS BLIND"
+        },
+        {
+          "id": 23000562,
+          "name": "OBSESSION"
         }
       ],
       "gadgets": [
         {
           "id": 23000563,
           "name": "SPELLBOUND"
+        },
+        {
+          "id": 23000564,
+          "name": "DIVE"
         }
       ]
     },
     {
       "id": 16000068,
       "name": "MAISIE",
-      "power": 10,
-      "rank": 16,
-      "trophies": 300,
-      "highestTrophies": 306,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000569,
@@ -1751,42 +1601,48 @@
         {
           "id": 23000571,
           "name": "DISENGAGE!"
+        },
+        {
+          "id": 23000572,
+          "name": "FINISH THEM!"
         }
       ]
     },
     {
       "id": 16000069,
       "name": "HANK",
-      "power": 9,
-      "rank": 17,
-      "trophies": 323,
-      "highestTrophies": 326,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000577,
           "name": "IT'S GONNA BLOW"
+        },
+        {
+          "id": 23000578,
+          "name": "TAKE COVER!"
         }
       ],
       "gadgets": [
         {
           "id": 23000579,
           "name": "WATER BALLOONS"
+        },
+        {
+          "id": 23000580,
+          "name": "BARRICADE"
         }
       ]
     },
     {
       "id": 16000070,
       "name": "CORDELIUS",
-      "power": 9,
-      "rank": 16,
-      "trophies": 319,
-      "highestTrophies": 319,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000585,
           "name": "COMBOSHROOMS"
+        },
+        {
+          "id": 23000586,
+          "name": "MUSHROOM KINGDOM"
         }
       ],
       "gadgets": [
@@ -1803,11 +1659,6 @@
     {
       "id": 16000071,
       "name": "DOUG",
-      "power": 10,
-      "rank": 19,
-      "trophies": 372,
-      "highestTrophies": 372,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000593,
@@ -1832,12 +1683,11 @@
     {
       "id": 16000072,
       "name": "PEARL",
-      "power": 9,
-      "rank": 18,
-      "trophies": 351,
-      "highestTrophies": 351,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000601,
+          "name": "HEAT RETENTION"
+        },
         {
           "id": 23000602,
           "name": "HEAT SHIELD"
@@ -1847,24 +1697,21 @@
         {
           "id": 23000603,
           "name": "OVERCOOKED"
+        },
+        {
+          "id": 23000604,
+          "name": "MADE WITH LOVE"
         }
       ]
     },
     {
       "id": 16000073,
       "name": "CHUCK",
-      "power": 10,
-      "rank": 13,
-      "trophies": 255,
-      "highestTrophies": 255,
-      "gears": [
-        {
-          "id": 62000017,
-          "name": "GADGET CHARGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000609,
+          "name": "PIT STOP"
+        },
         {
           "id": 23000610,
           "name": "TICKETS PLEASE!"
@@ -1884,15 +1731,14 @@
     {
       "id": 16000074,
       "name": "CHARLIE",
-      "power": 10,
-      "rank": 20,
-      "trophies": 378,
-      "highestTrophies": 386,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000623,
           "name": "DIGESTIVE"
+        },
+        {
+          "id": 23000624,
+          "name": "SLIMY"
         }
       ],
       "gadgets": [
@@ -1909,11 +1755,6 @@
     {
       "id": 16000075,
       "name": "MICO",
-      "power": 9,
-      "rank": 15,
-      "trophies": 296,
-      "highestTrophies": 296,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000637,
@@ -1926,6 +1767,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000639,
+          "name": "CLIPPING SCREAM"
+        },
+        {
           "id": 23000640,
           "name": "PRESTO"
         }
@@ -1934,39 +1779,45 @@
     {
       "id": 16000076,
       "name": "KIT",
-      "power": 9,
-      "rank": 13,
-      "trophies": 246,
-      "highestTrophies": 246,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000646,
           "name": "POWER HUNGRY"
+        },
+        {
+          "id": 23000647,
+          "name": "OVERLY ATTACHED"
         }
       ],
       "gadgets": [
         {
           "id": 23000648,
           "name": "CARDBOARD BOX"
+        },
+        {
+          "id": 23000649,
+          "name": "CHEESEBURGER"
         }
       ]
     },
     {
       "id": 16000077,
       "name": "LARRY & LAWRIE",
-      "power": 9,
-      "rank": 23,
-      "trophies": 450,
-      "highestTrophies": 450,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000659,
+          "name": "PROTOCOL: PROTECT"
+        },
         {
           "id": 23000660,
           "name": "PROTOCOL: ASSIST"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000661,
+          "name": "ORDER: SWAP"
+        },
         {
           "id": 23000662,
           "name": "ORDER: FALL BACK"
@@ -1976,12 +1827,11 @@
     {
       "id": 16000078,
       "name": "MELODIE",
-      "power": 9,
-      "rank": 14,
-      "trophies": 265,
-      "highestTrophies": 265,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000667,
+          "name": "FAST BEATS"
+        },
         {
           "id": 23000668,
           "name": "EXTENDED MIX"
@@ -2001,18 +1851,21 @@
     {
       "id": 16000079,
       "name": "ANGELO",
-      "power": 9,
-      "rank": 8,
-      "trophies": 154,
-      "highestTrophies": 154,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000675,
           "name": "EMPOWER"
+        },
+        {
+          "id": 23000676,
+          "name": "FLOW"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000677,
+          "name": "STINGING FLIGHT"
+        },
         {
           "id": 23000678,
           "name": "MASTER FLETCHER"
@@ -2022,11 +1875,6 @@
     {
       "id": 16000080,
       "name": "DRACO",
-      "power": 9,
-      "rank": 19,
-      "trophies": 366,
-      "highestTrophies": 366,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000734,
@@ -2039,6 +1887,10 @@
       ],
       "gadgets": [
         {
+          "id": 23000736,
+          "name": "UPPER CUT"
+        },
+        {
           "id": 23000737,
           "name": "LAST STAND"
         }
@@ -2047,21 +1899,14 @@
     {
       "id": 16000081,
       "name": "LILY",
-      "power": 9,
-      "rank": 20,
-      "trophies": 384,
-      "highestTrophies": 384,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
         {
           "id": 23000752,
           "name": "SPIKY"
+        },
+        {
+          "id": 23000753,
+          "name": "VIGILANCE"
         }
       ],
       "gadgets": [
@@ -2078,18 +1923,11 @@
     {
       "id": 16000082,
       "name": "BERRY",
-      "power": 10,
-      "rank": 12,
-      "trophies": 221,
-      "highestTrophies": 221,
-      "gears": [
-        {
-          "id": 62000002,
-          "name": "DAMAGE",
-          "level": 3
-        }
-      ],
       "starPowers": [
+        {
+          "id": 23000764,
+          "name": "FLOOR IS FINE"
+        },
         {
           "id": 23000765,
           "name": "MAKING A MESS"
@@ -2109,15 +1947,14 @@
     {
       "id": 16000083,
       "name": "CLANCY",
-      "power": 9,
-      "rank": 7,
-      "trophies": 132,
-      "highestTrophies": 132,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000772,
           "name": "RECON"
+        },
+        {
+          "id": 23000773,
+          "name": "PUMPING UP"
         }
       ],
       "gadgets": [
@@ -2134,18 +1971,21 @@
     {
       "id": 16000084,
       "name": "MOE",
-      "power": 9,
-      "rank": 9,
-      "trophies": 169,
-      "highestTrophies": 169,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000804,
           "name": "SKIPPING STONES"
+        },
+        {
+          "id": 23000805,
+          "name": "SPEEDING TICKET"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000806,
+          "name": "DODGY DIGGING"
+        },
         {
           "id": 23000807,
           "name": "RAT RACE"
@@ -2155,18 +1995,21 @@
     {
       "id": 16000085,
       "name": "KENJI",
-      "power": 9,
-      "rank": 12,
-      "trophies": 232,
-      "highestTrophies": 232,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000815,
           "name": "STUDIED THE BLADE"
+        },
+        {
+          "id": 23000816,
+          "name": "NIGIRI NEMESIS"
         }
       ],
       "gadgets": [
+        {
+          "id": 23000817,
+          "name": "DASHI DASH"
+        },
         {
           "id": 23000818,
           "name": "HOSOMAKI HEALING"
@@ -2176,12 +2019,11 @@
     {
       "id": 16000086,
       "name": "SHADE",
-      "power": 9,
-      "rank": 8,
-      "trophies": 158,
-      "highestTrophies": 158,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000832,
+          "name": "SPOOKY SPEEDSTER"
+        },
         {
           "id": 23000833,
           "name": "HARDENED HOODIE"
@@ -2191,39 +2033,69 @@
         {
           "id": 23000834,
           "name": "LONGARMS"
+        },
+        {
+          "id": 23000835,
+          "name": "JUMP SCARE"
         }
       ]
     },
     {
       "id": 16000087,
       "name": "JUJU",
-      "power": 9,
-      "rank": 4,
-      "trophies": 76,
-      "highestTrophies": 76,
-      "gears": [],
       "starPowers": [
         {
           "id": 23000848,
           "name": "GUARDED GRIS-GRIS"
+        },
+        {
+          "id": 23000849,
+          "name": "NUMBING NEEDLES"
         }
       ],
       "gadgets": [
         {
           "id": 23000850,
           "name": "VOODOO CHILE"
+        },
+        {
+          "id": 23000851,
+          "name": "ELEMENTALIST"
+        }
+      ]
+    },
+    {
+      "id": 16000088,
+      "name": "BUZZ LIGHTYEAR",
+      "starPowers": [
+        {
+          "id": 23000866,
+          "name": "LASER MODE"
+        },
+        {
+          "id": 23000867,
+          "name": "SABER MODE"
+        },
+        {
+          "id": 23000868,
+          "name": "WING MODE"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23000869,
+          "name": "TURBO BOOSTERS"
         }
       ]
     },
     {
       "id": 16000089,
       "name": "MEEPLE",
-      "power": 9,
-      "rank": 6,
-      "trophies": 118,
-      "highestTrophies": 118,
-      "gears": [],
       "starPowers": [
+        {
+          "id": 23000875,
+          "name": "DO NOT PASS GO"
+        },
         {
           "id": 23000876,
           "name": "RULE BENDING"
@@ -2233,8 +2105,39 @@
         {
           "id": 23000877,
           "name": "MANSIONS OF MEEPLE"
+        },
+        {
+          "id": 23000878,
+          "name": "RAGEQUIT"
+        }
+      ]
+    },
+    {
+      "id": 16000090,
+      "name": "OLLIE",
+      "starPowers": [
+        {
+          "id": 23000883,
+          "name": "KICK, PUSH"
+        },
+        {
+          "id": 23000884,
+          "name": "RENEGADE"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23000885,
+          "name": "REGULATE"
+        },
+        {
+          "id": 23000886,
+          "name": "ALL EYEZ ON ME"
         }
       ]
     }
-  ]
+  ],
+  "paging": {
+    "cursors": {}
+  }
 }

@@ -1,12 +1,12 @@
 [
   {
-    "startTime": "20250216T080000.000Z",
-    "endTime": "20250217T080000.000Z",
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250218T080000.000Z",
     "slotId": 1,
     "event": {
-      "id": 15000132,
+      "id": 15000238,
       "mode": "brawlBall",
-      "map": "Center Stage"
+      "map": "Penalty Kick"
     }
   },
   {
@@ -33,13 +33,13 @@
     }
   },
   {
-    "startTime": "20250216T140000.000Z",
-    "endTime": "20250217T140000.000Z",
+    "startTime": "20250217T140000.000Z",
+    "endTime": "20250218T140000.000Z",
     "slotId": 4,
     "event": {
-      "id": 15000053,
-      "mode": "heist",
-      "map": "Hot Potato"
+      "id": 15000879,
+      "mode": "hotZone",
+      "map": "Noisy Neighbors"
     }
   },
   {
@@ -53,23 +53,23 @@
     }
   },
   {
-    "startTime": "20250216T140000.000Z",
-    "endTime": "20250217T140000.000Z",
+    "startTime": "20250217T140000.000Z",
+    "endTime": "20250218T140000.000Z",
     "slotId": 6,
     "event": {
-      "id": 15000481,
-      "mode": "wipeout",
-      "map": "Quad Damage"
+      "id": 15000295,
+      "mode": "bounty",
+      "map": "No Excuses"
     }
   },
   {
-    "startTime": "20250215T080000.000Z",
-    "endTime": "20250217T080000.000Z",
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250219T080000.000Z",
     "slotId": 8,
     "event": {
-      "id": 15000860,
+      "id": 15000864,
       "mode": "unknown",
-      "map": "Double Dribble"
+      "map": "Grassy Grave"
     }
   },
   {
@@ -133,13 +133,13 @@
     }
   },
   {
-    "startTime": "20250216T080000.000Z",
-    "endTime": "20250217T080000.000Z",
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250218T080000.000Z",
     "slotId": 33,
     "event": {
-      "id": 15000639,
-      "mode": "brawlBall5V5",
-      "map": "Great waves"
+      "id": 15000646,
+      "mode": "wipeout5V5",
+      "map": "Icy ice park"
     }
   }
 ]

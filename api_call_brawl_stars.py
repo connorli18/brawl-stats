@@ -1,4 +1,5 @@
 import requests
+print(requests.__file__)
 import json
 import configparser
 import datetime
