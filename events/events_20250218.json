@@ -1,0 +1,142 @@
+[
+  {
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250218T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000238,
+      "mode": "brawlBall",
+      "map": "Penalty Kick"
+    }
+  },
+  {
+    "startTime": "20250217T200000.000Z",
+    "endTime": "20250218T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000043,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250218T020000.000Z",
+    "endTime": "20250219T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000880,
+      "mode": "gemGrab",
+      "map": "Forest Clearing"
+    }
+  },
+  {
+    "startTime": "20250217T140000.000Z",
+    "endTime": "20250218T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000879,
+      "mode": "hotZone",
+      "map": "Noisy Neighbors"
+    }
+  },
+  {
+    "startTime": "20250217T200000.000Z",
+    "endTime": "20250218T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000028,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250217T140000.000Z",
+    "endTime": "20250218T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000295,
+      "mode": "bounty",
+      "map": "No Excuses"
+    }
+  },
+  {
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250219T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000864,
+      "mode": "unknown",
+      "map": "Grassy Grave"
+    }
+  },
+  {
+    "startTime": "20250216T080000.000Z",
+    "endTime": "20250218T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000905,
+      "mode": "unknown",
+      "map": "Air Sports Arena"
+    }
+  },
+  {
+    "startTime": "20250218T020000.000Z",
+    "endTime": "20250219T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000872,
+      "mode": "unknown",
+      "map": "Field Frenzy"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000889,
+      "mode": "unknown",
+      "map": "Raven's Pass"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000866,
+      "mode": "unknown",
+      "map": "Basket Case"
+    }
+  },
+  {
+    "startTime": "20250214T090000.000Z",
+    "endTime": "20250218T090000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000908,
+      "mode": "unknown",
+      "map": "Puck Man"
+    }
+  },
+  {
+    "startTime": "20250217T080000.000Z",
+    "endTime": "20250218T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000646,
+      "mode": "wipeout5V5",
+      "map": "Icy ice park"
+    }
+  }
+]
