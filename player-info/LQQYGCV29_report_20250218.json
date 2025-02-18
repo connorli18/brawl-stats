@@ -4,14 +4,14 @@
   "icon": {
     "id": 28000399
   },
-  "trophies": 34856,
-  "highestTrophies": 34856,
+  "trophies": 34865,
+  "highestTrophies": 34865,
   "expLevel": 163,
-  "expPoints": 137075,
+  "expPoints": 137191,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 7020,
+  "3vs3Victories": 7028,
   "soloVictories": 489,
-  "duoVictories": 739,
+  "duoVictories": 740,
   "bestRoboRumbleTime": 5,
   "bestTimeAsBigBrawler": 0,
   "club": {
@@ -2235,6 +2235,17 @@
           "name": "MANSIONS OF MEEPLE"
         }
       ]
+    },
+    {
+      "id": 16000090,
+      "name": "OLLIE",
+      "power": 9,
+      "rank": 1,
+      "trophies": 9,
+      "highestTrophies": 9,
+      "gears": [],
+      "starPowers": [],
+      "gadgets": []
     }
   ]
 }
