@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250219T080000.000Z",
+    "endTime": "20250220T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250218T200000.000Z",
+    "endTime": "20250219T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000430,
+      "mode": "soloShowdown",
+      "map": "Dried Up River",
+      "modifiers": [
+        "angryRobo"
+      ]
+    }
+  },
+  {
+    "startTime": "20250219T020000.000Z",
+    "endTime": "20250220T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250219T140000.000Z",
+    "endTime": "20250220T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250218T200000.000Z",
+    "endTime": "20250219T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000431,
+      "mode": "duoShowdown",
+      "map": "Dried Up River"
+    }
+  },
+  {
+    "startTime": "20250219T140000.000Z",
+    "endTime": "20250220T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000479,
+      "mode": "wipeout",
+      "map": "Slayer's Paradise"
+    }
+  },
+  {
+    "startTime": "20250219T080000.000Z",
+    "endTime": "20250221T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000866,
+      "mode": "unknown",
+      "map": "Basket Case"
+    }
+  },
+  {
+    "startTime": "20250218T080000.000Z",
+    "endTime": "20250220T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000861,
+      "mode": "unknown",
+      "map": "Lines of Play"
+    }
+  },
+  {
+    "startTime": "20250219T020000.000Z",
+    "endTime": "20250220T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250219T080000.000Z",
+    "endTime": "20250220T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000647,
+      "mode": "wipeout5V5",
+      "map": "Frosty tracks"
+    }
+  }
+]
