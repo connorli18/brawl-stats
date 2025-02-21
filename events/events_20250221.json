@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250221T080000.000Z",
+    "endTime": "20250222T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20250220T200000.000Z",
+    "endTime": "20250221T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000123,
+      "mode": "soloShowdown",
+      "map": "Flying Fantasies",
+      "modifiers": [
+        "healingMushrooms"
+      ]
+    }
+  },
+  {
+    "startTime": "20250221T020000.000Z",
+    "endTime": "20250222T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20250221T140000.000Z",
+    "endTime": "20250222T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000293,
+      "mode": "hotZone",
+      "map": "Parallel Plays"
+    }
+  },
+  {
+    "startTime": "20250220T200000.000Z",
+    "endTime": "20250221T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000124,
+      "mode": "duoShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20250221T140000.000Z",
+    "endTime": "20250222T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000463,
+      "mode": "duels",
+      "map": "Warrior's Way"
+    }
+  },
+  {
+    "startTime": "20250221T080000.000Z",
+    "endTime": "20250224T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000904,
+      "mode": "unknown",
+      "map": "Slapshot Stadium"
+    }
+  },
+  {
+    "startTime": "20250220T080000.000Z",
+    "endTime": "20250222T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000888,
+      "mode": "unknown",
+      "map": "Blocky Blockade"
+    }
+  },
+  {
+    "startTime": "20250221T020000.000Z",
+    "endTime": "20250222T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000703,
+      "mode": "knockout",
+      "map": "New Horizons"
+    }
+  },
+  {
+    "startTime": "20250221T080000.000Z",
+    "endTime": "20250222T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  }
+]
