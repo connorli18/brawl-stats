@@ -1,0 +1,105 @@
+[
+  {
+    "startTime": "20250222T080000.000Z",
+    "endTime": "20250223T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000144,
+      "mode": "brawlBall",
+      "map": "Sunny Soccer"
+    }
+  },
+  {
+    "startTime": "20250222T200000.000Z",
+    "endTime": "20250223T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000701,
+      "mode": "soloShowdown",
+      "map": "Marksman's Paradise",
+      "modifiers": [
+        "meteorShower"
+      ]
+    }
+  },
+  {
+    "startTime": "20250222T020000.000Z",
+    "endTime": "20250223T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000122,
+      "mode": "gemGrab",
+      "map": "Minecart Madness"
+    }
+  },
+  {
+    "startTime": "20250222T140000.000Z",
+    "endTime": "20250223T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000886,
+      "mode": "heist",
+      "map": "Safe(r) Zone"
+    }
+  },
+  {
+    "startTime": "20250222T200000.000Z",
+    "endTime": "20250223T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000702,
+      "mode": "duoShowdown",
+      "map": "Marksman's Paradise"
+    }
+  },
+  {
+    "startTime": "20250222T140000.000Z",
+    "endTime": "20250223T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000778,
+      "mode": "wipeout",
+      "map": "Spice Production"
+    }
+  },
+  {
+    "startTime": "20250221T080000.000Z",
+    "endTime": "20250224T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000904,
+      "mode": "unknown",
+      "map": "Slapshot Stadium"
+    }
+  },
+  {
+    "startTime": "20250222T080000.000Z",
+    "endTime": "20250224T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000894,
+      "mode": "unknown",
+      "map": "Buzzer Beater"
+    }
+  },
+  {
+    "startTime": "20250222T020000.000Z",
+    "endTime": "20250223T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000548,
+      "mode": "knockout",
+      "map": "Out in the Open"
+    }
+  },
+  {
+    "startTime": "20250222T080000.000Z",
+    "endTime": "20250223T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000638,
+      "mode": "brawlBall5V5",
+      "map": "Freezing ripples"
+    }
+  }
+]
