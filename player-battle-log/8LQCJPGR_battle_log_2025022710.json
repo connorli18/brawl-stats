@@ -1,0 +1,1821 @@
+{
+  "items": [
+    {
+      "battleTime": "20250227T073014.000Z",
+      "event": {
+        "id": 15000118,
+        "mode": "brawlBall",
+        "map": "Pinball Dreams"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 100,
+        "starPlayer": {
+          "tag": "#GJVQGV9RR",
+          "name": "FirstAv3nger1",
+          "brawler": {
+            "id": 16000047,
+            "name": "SQUEAK",
+            "power": 11,
+            "trophies": 1
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#GJVQGV9RR",
+              "name": "FirstAv3nger1",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 1
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 1
+              }
+            },
+            {
+              "tag": "#28QPQPQ8U8",
+              "name": "Ricebowl",
+              "brawler": {
+                "id": 16000085,
+                "name": "KENJI",
+                "power": 11,
+                "trophies": 1
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#U2PR2VLU9",
+              "name": "abi",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 10,
+                "trophies": 594
+              }
+            },
+            {
+              "tag": "#CVRQ9VPJQ",
+              "name": "Chubakka",
+              "brawler": {
+                "id": 16000024,
+                "name": "ROSA",
+                "power": 11,
+                "trophies": 589
+              }
+            },
+            {
+              "tag": "#CVVGVGCYR",
+              "name": "t\u0131rol",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 10,
+                "trophies": 585
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250227T072502.000Z",
+      "event": {
+        "id": 15000024,
+        "mode": "brawlBall",
+        "map": "Backyard Bowl"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 52,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#LVU80J82C",
+          "name": "Faker",
+          "brawler": {
+            "id": 16000070,
+            "name": "CORDELIUS",
+            "power": 9,
+            "trophies": 498
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#PLP98UVUR",
+              "name": "bot giovanni",
+              "brawler": {
+                "id": 16000087,
+                "name": "JUJU",
+                "power": 9,
+                "trophies": 497
+              }
+            },
+            {
+              "tag": "#28LQV2UUL",
+              "name": "EL GENIO",
+              "brawler": {
+                "id": 16000036,
+                "name": "NANI",
+                "power": 11,
+                "trophies": 468
+              }
+            },
+            {
+              "tag": "#GYGV208JR",
+              "name": "farmer old",
+              "brawler": {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 11,
+                "trophies": 480
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2QQRUV80J8",
+              "name": "\ud83c\udf29El King C\u2620\ufe0f\ud83d\udc7a",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 472
+              }
+            },
+            {
+              "tag": "#LVU80J82C",
+              "name": "Faker",
+              "brawler": {
+                "id": 16000070,
+                "name": "CORDELIUS",
+                "power": 9,
+                "trophies": 498
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 11,
+                "trophies": 502
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T043054.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 59,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#PRJCG8PGL",
+          "name": "BAnditO",
+          "brawler": {
+            "id": 16000029,
+            "name": "BEA",
+            "power": 10,
+            "trophies": 748
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2Y09P229VR",
+              "name": "turtle",
+              "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 11,
+                "trophies": 742
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 760
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2GLCLPVYJG",
+              "name": "miguel",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 9,
+                "trophies": 752
+              }
+            },
+            {
+              "tag": "#PRJCG8PGL",
+              "name": "BAnditO",
+              "brawler": {
+                "id": 16000029,
+                "name": "BEA",
+                "power": 10,
+                "trophies": 748
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T042914.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 120,
+        "trophyChange": 9,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 751
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 751
+              }
+            },
+            {
+              "tag": "#2Y09P229VR",
+              "name": "turtle",
+              "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 11,
+                "trophies": 729
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#QCR2Q2LCR",
+              "name": "Brawler",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 747
+              }
+            },
+            {
+              "tag": "#2Q8GQGGQL9",
+              "name": "ajolotesiman",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 9,
+                "trophies": 720
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T042640.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 128,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 743
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#VQRUGGGGG",
+              "name": "Canserbero",
+              "brawler": {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 11,
+                "trophies": 751
+              }
+            },
+            {
+              "tag": "#2QGGPURU92",
+              "name": "queso",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 9,
+                "trophies": 726
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 743
+              }
+            },
+            {
+              "tag": "#L9UYJ8CCC",
+              "name": "C$Russ",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 11,
+                "trophies": 755
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T042355.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 96,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#GUR8YRYQY",
+          "name": "leon12",
+          "brawler": {
+            "id": 16000063,
+            "name": "CHESTER",
+            "power": 11,
+            "trophies": 748
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#PVR82VG08",
+              "name": "TITAN S",
+              "brawler": {
+                "id": 16000039,
+                "name": "COLETTE",
+                "power": 10,
+                "trophies": 727
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 748
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#GUR8YRYQY",
+              "name": "leon12",
+              "brawler": {
+                "id": 16000063,
+                "name": "CHESTER",
+                "power": 11,
+                "trophies": 748
+              }
+            },
+            {
+              "tag": "#L99YRQGVQ",
+              "name": "SKIDIBI TOILET",
+              "brawler": {
+                "id": 16000085,
+                "name": "KENJI",
+                "power": 11,
+                "trophies": 752
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T042151.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 133,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#2GPY8YGQU9",
+          "name": "Gerardo",
+          "brawler": {
+            "id": 16000027,
+            "name": "8-BIT",
+            "power": 11,
+            "trophies": 799
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 740
+              }
+            },
+            {
+              "tag": "#2GPY8YGQU9",
+              "name": "Gerardo",
+              "brawler": {
+                "id": 16000027,
+                "name": "8-BIT",
+                "power": 11,
+                "trophies": 799
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#C2GJYYY0V",
+              "name": "raffa",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 10,
+                "trophies": 768
+              }
+            },
+            {
+              "tag": "#C88G0Y299",
+              "name": "M1\u2022_\u2022",
+              "brawler": {
+                "id": 16000042,
+                "name": "BYRON",
+                "power": 11,
+                "trophies": 772
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T041911.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 33,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#8GCGLCV22",
+          "name": "wabbit",
+          "brawler": {
+            "id": 16000080,
+            "name": "DRACO",
+            "power": 9,
+            "trophies": 743
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#992JYY0U9",
+              "name": "The Tank",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 747
+              }
+            },
+            {
+              "tag": "#8GCGLCV22",
+              "name": "wabbit",
+              "brawler": {
+                "id": 16000080,
+                "name": "DRACO",
+                "power": 9,
+                "trophies": 743
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 745
+              }
+            },
+            {
+              "tag": "#R2U2JUPQG",
+              "name": "Paul",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 738
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T041805.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 177,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 750
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 750
+              }
+            },
+            {
+              "tag": "#8QP92UJRV",
+              "name": "Dinosaur07",
+              "brawler": {
+                "id": 16000070,
+                "name": "CORDELIUS",
+                "power": 11,
+                "trophies": 736
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#YG9GQ9899",
+              "name": "\u26e9\ufe0f|Dgn\u1dab\u1d52\u1d5b\u1d49\u1d67\u2092\u1d64\ud83c\udf20",
+              "brawler": {
+                "id": 16000035,
+                "name": "GALE",
+                "power": 11,
+                "trophies": 697
+              }
+            },
+            {
+              "tag": "#LJCG0LLLP",
+              "name": "\u20a9\u0124\u00c4\u00a5\u0136\u016e\u20a9",
+              "brawler": {
+                "id": 16000039,
+                "name": "COLETTE",
+                "power": 11,
+                "trophies": 731
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T041441.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 91,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#8GPG8QGVY",
+          "name": "adden3690",
+          "brawler": {
+            "id": 16000041,
+            "name": "LOU",
+            "power": 9,
+            "trophies": 714
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#R8VU8UL0Y",
+              "name": "LL |roky 379",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 734
+              }
+            },
+            {
+              "tag": "#8GPG8QGVY",
+              "name": "adden3690",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 9,
+                "trophies": 714
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 755
+              }
+            },
+            {
+              "tag": "#28LR2G099L",
+              "name": "jorjaisXDJLAO",
+              "brawler": {
+                "id": 16000035,
+                "name": "GALE",
+                "power": 11,
+                "trophies": 763
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T041242.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 125,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 747
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 747
+              }
+            },
+            {
+              "tag": "#2LVU9G9U0U",
+              "name": "son goku",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 791
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#P2GQPP2RC",
+              "name": "que miras",
+              "brawler": {
+                "id": 16000042,
+                "name": "BYRON",
+                "power": 11,
+                "trophies": 729
+              }
+            },
+            {
+              "tag": "#8LV9QQVVG",
+              "name": "el mira r34\u2014\u2014->",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 743
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T041009.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 99,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#22VU8P992C",
+          "name": "\ud81a\udcc2|wymperk",
+          "brawler": {
+            "id": 16000011,
+            "name": "MORTIS",
+            "power": 11,
+            "trophies": 722
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 752
+              }
+            },
+            {
+              "tag": "#2R0GPY8GV9",
+              "name": "Pablo",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 11,
+                "trophies": 755
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#9RY9GV0V",
+              "name": "Drunken Knuckle",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 11,
+                "trophies": 754
+              }
+            },
+            {
+              "tag": "#22VU8P992C",
+              "name": "\ud81a\udcc2|wymperk",
+              "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 11,
+                "trophies": 722
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T040754.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 97,
+        "trophyChange": 9,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 743
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#GP99VU09L",
+              "name": "Levi2acc",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 11,
+                "trophies": 724
+              }
+            },
+            {
+              "tag": "#P9YU2J0J0",
+              "name": "JUDA",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 11,
+                "trophies": 429
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 743
+              }
+            },
+            {
+              "tag": "#VU0229GC",
+              "name": "caracolillo",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 8,
+                "trophies": 794
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T040546.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 38,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 735
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 735
+              }
+            },
+            {
+              "tag": "#G8LU0LJ28",
+              "name": "\u041a\u0420\u0423\u0422\u042f\u041a\u0410",
+              "brawler": {
+                "id": 16000012,
+                "name": "CROW",
+                "power": 11,
+                "trophies": 674
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#C2LUP2RUY",
+              "name": "\ud835\udc32\ud835\udc1a\ud835\udc1e\ud835\udc25\ud83c\udf3a\ud83c\udf37",
+              "brawler": {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 10,
+                "trophies": 710
+              }
+            },
+            {
+              "tag": "#C20C02LJV",
+              "name": "\u0441\u0435\u043d\u044f52",
+              "brawler": {
+                "id": 16000008,
+                "name": "NITA",
+                "power": 11,
+                "trophies": 694
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T040438.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 150,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#8Y9LJ9Y8",
+          "name": "Joseph :)",
+          "brawler": {
+            "id": 16000070,
+            "name": "CORDELIUS",
+            "power": 11,
+            "trophies": 674
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LY9J220U",
+              "name": "HaHaSoFunny",
+              "brawler": {
+                "id": 16000066,
+                "name": "R-T",
+                "power": 10,
+                "trophies": 706
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 740
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2QQCQ8CQYR",
+              "name": "LILZEST22",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 672
+              }
+            },
+            {
+              "tag": "#8Y9LJ9Y8",
+              "name": "Joseph :)",
+              "brawler": {
+                "id": 16000070,
+                "name": "CORDELIUS",
+                "power": 11,
+                "trophies": 674
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T040116.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 150,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#9VUGYVJPY",
+          "name": "ishowedbonniemy",
+          "brawler": {
+            "id": 16000020,
+            "name": "FRANK",
+            "power": 11,
+            "trophies": 691
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#YULUU99",
+              "name": "papotico",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 9,
+                "trophies": 687
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 745
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2G929C880G",
+              "name": "JTC/URI",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 9,
+                "trophies": 687
+              }
+            },
+            {
+              "tag": "#9VUGYVJPY",
+              "name": "ishowedbonniemy",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 691
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T035815.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 60,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#LURCQ82R8",
+          "name": "xdnt",
+          "brawler": {
+            "id": 16000020,
+            "name": "FRANK",
+            "power": 11,
+            "trophies": 733
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LURCQ82R8",
+              "name": "xdnt",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 733
+              }
+            },
+            {
+              "tag": "#RLP0GGCV",
+              "name": "jackmack",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 768
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 750
+              }
+            },
+            {
+              "tag": "#2Q8UYCURG8",
+              "name": "Amoaminovia",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 748
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T035647.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 45,
+        "trophyChange": 10,
+        "starPlayer": {
+          "tag": "#2Q8UYCURG8",
+          "name": "Amoaminovia",
+          "brawler": {
+            "id": 16000026,
+            "name": "BIBI",
+            "power": 11,
+            "trophies": 735
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2Q8UYCURG8",
+              "name": "Amoaminovia",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 735
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 740
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2QQVG0UURR",
+              "name": "weluvcheyenne",
+              "brawler": {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 11,
+                "trophies": 764
+              }
+            },
+            {
+              "tag": "#9JU9RCR2V",
+              "name": "lxrry",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 738
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250224T035537.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 63,
+        "trophyChange": 9,
+        "starPlayer": {
+          "tag": "#2Q8UYCURG8",
+          "name": "Amoaminovia",
+          "brawler": {
+            "id": 16000026,
+            "name": "BIBI",
+            "power": 11,
+            "trophies": 722
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 731
+              }
+            },
+            {
+              "tag": "#2Q8UYCURG8",
+              "name": "Amoaminovia",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 722
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2Q90RC9UCL",
+              "name": "eazy_$lick",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 9,
+                "trophies": 713
+              }
+            },
+            {
+              "tag": "#2Q8GLVLGJ0",
+              "name": "momasos jirafa",
+              "brawler": {
+                "id": 16000013,
+                "name": "POCO",
+                "power": 11,
+                "trophies": 548
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T055932.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 57,
+        "trophyChange": 8,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 723
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 723
+              }
+            },
+            {
+              "tag": "#922UC20QU",
+              "name": "Filipstonker",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 741
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#90Q2920RQ",
+              "name": "SDWMG\u2763\ufe0f",
+              "brawler": {
+                "id": 16000035,
+                "name": "GALE",
+                "power": 11,
+                "trophies": 747
+              }
+            },
+            {
+              "tag": "#GQVVCRPV",
+              "name": "Alex",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 743
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T055813.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 53,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#2YQLCPC0YV",
+          "name": "uruebdbr",
+          "brawler": {
+            "id": 16000023,
+            "name": "LEON",
+            "power": 11,
+            "trophies": 722
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 728
+              }
+            },
+            {
+              "tag": "#PGQUQRY20",
+              "name": "Mexicano \ud83d\udd25",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 9,
+                "trophies": 751
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2YQLCPC0YV",
+              "name": "uruebdbr",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 722
+              }
+            },
+            {
+              "tag": "#8UV20R0",
+              "name": "AQM | Towers \u4e97",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 11,
+                "trophies": 759
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T055649.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 87,
+        "trophyChange": -5,
+        "starPlayer": {
+          "tag": "#28VJLP8JGJ",
+          "name": "marcos\u2606\u2667",
+          "brawler": {
+            "id": 16000026,
+            "name": "BIBI",
+            "power": 11,
+            "trophies": 460
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 733
+              }
+            },
+            {
+              "tag": "#YLJGPJLRL",
+              "name": "BINGO3.77",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 11,
+                "trophies": 701
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#28VJLP8JGJ",
+              "name": "marcos\u2606\u2667",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 460
+              }
+            },
+            {
+              "tag": "#GVL00UYC",
+              "name": "crdavid",
+              "brawler": {
+                "id": 16000008,
+                "name": "NITA",
+                "power": 11,
+                "trophies": 763
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T055349.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 150,
+        "trophyChange": 13,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 720
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#22P8RCYGJ",
+              "name": "Mora",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 776
+              }
+            },
+            {
+              "tag": "#2V29J9QJP",
+              "name": "kevin558",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 11,
+                "trophies": 793
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#20QG8QRY0",
+              "name": "ultramurzik",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 11,
+                "trophies": 804
+              }
+            },
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 720
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T055044.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 54,
+        "trophyChange": 12,
+        "starPlayer": {
+          "tag": "#20QG8QRY0",
+          "name": "ultramurzik",
+          "brawler": {
+            "id": 16000050,
+            "name": "GRIFF",
+            "power": 11,
+            "trophies": 791
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 708
+              }
+            },
+            {
+              "tag": "#20QG8QRY0",
+              "name": "ultramurzik",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 11,
+                "trophies": 791
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8CP9LU2R",
+              "name": "Danger",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 740
+              }
+            },
+            {
+              "tag": "#80JR2808L",
+              "name": "Tradesman",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 764
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250223T054918.000Z",
+      "event": {
+        "id": 15000894,
+        "mode": "unknown",
+        "map": "Buzzer Beater"
+      },
+      "battle": {
+        "mode": "basketBrawl",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 126,
+        "trophyChange": 11,
+        "starPlayer": {
+          "tag": "#8LQCJPGR",
+          "name": "KingKuang",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 697
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#GGGY9G898",
+              "name": "josh",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 799
+              }
+            },
+            {
+              "tag": "#GYLLU0Y9V",
+              "name": "\ud0c0\uc77c\uc2a4",
+              "brawler": {
+                "id": 16000035,
+                "name": "GALE",
+                "power": 10,
+                "trophies": 799
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LQCJPGR",
+              "name": "KingKuang",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 697
+              }
+            },
+            {
+              "tag": "#20QG8QRY0",
+              "name": "ultramurzik",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 11,
+                "trophies": 779
+              }
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
