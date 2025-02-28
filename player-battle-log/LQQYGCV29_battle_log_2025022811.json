@@ -1,0 +1,2257 @@
+{
+  "items": [
+    {
+      "battleTime": "20250228T063907.000Z",
+      "event": {
+        "id": 15000306,
+        "mode": "hotZone",
+        "map": "Dueling Beetles"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 115,
+        "starPlayer": {
+          "tag": "#R09P02CCJ",
+          "name": "Im OJ",
+          "brawler": {
+            "id": 16000019,
+            "name": "PENNY",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#R02PJP8Y",
+              "name": "Nathoa \ud83c\uddea\ud83c\udde8",
+              "brawler": {
+                "id": 16000046,
+                "name": "BELLE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2YJJGQGYR2",
+              "name": "mario",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#28L0Y2G220",
+              "name": "carlos",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#R09P02CCJ",
+              "name": "Im OJ",
+              "brawler": {
+                "id": 16000019,
+                "name": "PENNY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#GV2P9RYYQ",
+              "name": "Truquerito",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T063559.000Z",
+      "event": {
+        "id": 15000050,
+        "mode": "brawlBall",
+        "map": "Sneaky Fields"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 124,
+        "starPlayer": {
+          "tag": "#2QCCY92VC2",
+          "name": "emi",
+          "brawler": {
+            "id": 16000043,
+            "name": "EDGAR",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2GQ9GRRUCC",
+              "name": "Dance+devil",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2QCCY92VC2",
+              "name": "emi",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2PRG8UY9G",
+              "name": "SYNDICATE",
+              "brawler": {
+                "id": 16000081,
+                "name": "LILY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#JJ9YLCCP2",
+              "name": "\u043f\u0430\u043c\u043f\u0435\u0440\u0441",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 10,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#8LGUJ8UPJ",
+              "name": "PRG|Taburett \ud83e\uddab",
+              "brawler": {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 10,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T063232.000Z",
+      "event": {
+        "id": 15000440,
+        "mode": "knockout",
+        "map": "Flaring Phoenix"
+      },
+      "battle": {
+        "mode": "knockout",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 96,
+        "starPlayer": {
+          "tag": "#LQQYGCV29",
+          "name": "colin",
+          "brawler": {
+            "id": 16000048,
+            "name": "GROM",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2QRYL8UU28",
+              "name": "\ud83c\uddf2\ud83c\uddfd\ud83d\udc79",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2GC90YYGVV",
+              "name": "TM|DERWIM",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#GLC2YCJJY",
+              "name": "bobmi",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#R28VVC29U",
+              "name": "Depay_98",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 10,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2GRLJCUQCG",
+              "name": "\u2122 Andrade",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T063002.000Z",
+      "event": {
+        "id": 15000854,
+        "mode": "unknown",
+        "map": "Cool Box"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 104,
+        "starPlayer": {
+          "tag": "#292Q99C2LC",
+          "name": "Kayden84",
+          "brawler": {
+            "id": 16000034,
+            "name": "JACKY",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#JLUC0G88G",
+              "name": "inb\u00fbz\u00ff",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2QR08QGRVL",
+              "name": "sigma69",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#P2V02Y0UC",
+              "name": "\u26a1Harel |Colt \ud83e\udd75",
+              "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#LRUQRUU0G",
+              "name": "I'm atomic",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#292Q99C2LC",
+              "name": "Kayden84",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T062724.000Z",
+      "event": {
+        "id": 15000132,
+        "mode": "brawlBall",
+        "map": "Center Stage"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 48,
+        "starPlayer": {
+          "tag": "#L9U9JCPLR",
+          "name": "BarleyOn\ud83d\udd1d",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#L9U9JCPLR",
+              "name": "BarleyOn\ud83d\udd1d",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#GC9YVGLPU",
+              "name": "toronjas",
+              "brawler": {
+                "id": 16000012,
+                "name": "CROW",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2RYPGY89R",
+              "name": "Rectil66",
+              "brawler": {
+                "id": 16000002,
+                "name": "BULL",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#L8JRJ9JP8",
+              "name": "\u2664\u2667\u2661DNH\u2661\u2667\u2664",
+              "brawler": {
+                "id": 16000052,
+                "name": "MEG",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LV8PC8RR8",
+              "name": "\u03a3\u0391 joey bob",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T062540.000Z",
+      "event": {
+        "id": 15000292,
+        "mode": "hotZone",
+        "map": "Open Business"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 95,
+        "starPlayer": {
+          "tag": "#8LLYR99P",
+          "name": "_IsRexis_",
+          "brawler": {
+            "id": 16000019,
+            "name": "PENNY",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#YJJ2Y829R",
+              "name": "jxsmxnn",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#298LGY0UU",
+              "name": "ItzAngelW:v",
+              "brawler": {
+                "id": 16000014,
+                "name": "BO",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 10,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8LLYR99P",
+              "name": "_IsRexis_",
+              "brawler": {
+                "id": 16000019,
+                "name": "PENNY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#L09CYY89Q",
+              "name": "whoisyovaa",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 11,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#8R8YQUGV",
+              "name": "starman",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T062006.000Z",
+      "event": {
+        "id": 15000854,
+        "mode": "unknown",
+        "map": "Cool Box"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 150,
+        "starPlayer": {
+          "tag": "#8R0QYRJ0U",
+          "name": "DonPapu",
+          "brawler": {
+            "id": 16000080,
+            "name": "DRACO",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#9PUG98988",
+              "name": "Erick el pro",
+              "brawler": {
+                "id": 16000045,
+                "name": "STU",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#GY9CVQG9U",
+              "name": "FNAFfan666",
+              "brawler": {
+                "id": 16000076,
+                "name": "KIT",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#8R0QYRJ0U",
+              "name": "DonPapu",
+              "brawler": {
+                "id": 16000080,
+                "name": "DRACO",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2R2PY2VQQR",
+              "name": "duris",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#P299QRRLU",
+              "name": "KingKenny",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T061236.000Z",
+      "event": {
+        "id": 15000854,
+        "mode": "unknown",
+        "map": "Cool Box"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 112,
+        "starPlayer": {
+          "tag": "#P2JRC92JY",
+          "name": "\u2022.",
+          "brawler": {
+            "id": 16000001,
+            "name": "COLT",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#P2JRC92JY",
+              "name": "\u2022.",
+              "brawler": {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LLPPURRGR",
+              "name": "Mayhem B",
+              "brawler": {
+                "id": 16000040,
+                "name": "AMBER",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#YYY8YL8LC",
+              "name": "tacotorros",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#QQ0GYPGY0",
+              "name": "thy brisky",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2GJCLU2PGV",
+              "name": "@is.silva33",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T060952.000Z",
+      "event": {
+        "id": 15000853,
+        "mode": "unknown",
+        "map": "Below Zero"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 95,
+        "starPlayer": {
+          "tag": "#98VGRC0Q0",
+          "name": "gato",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#9JQY0PR80",
+              "name": "LeMeat",
+              "brawler": {
+                "id": 16000085,
+                "name": "KENJI",
+                "power": 11,
+                "trophies": 3
+              }
+            },
+            {
+              "tag": "#UJ9CG0V",
+              "name": "Mattorious",
+              "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#YJ9LPCJPY",
+              "name": "samuug",
+              "brawler": {
+                "id": 16000078,
+                "name": "MELODIE",
+                "power": 9,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#RYRYU9QUJ",
+              "name": "kaukura",
+              "brawler": {
+                "id": 16000085,
+                "name": "KENJI",
+                "power": 10,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#98VGRC0Q0",
+              "name": "gato",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T060704.000Z",
+      "event": {
+        "id": 15000853,
+        "mode": "unknown",
+        "map": "Below Zero"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 188,
+        "starPlayer": {
+          "tag": "#QJVRPC9QC",
+          "name": "kmcrac3",
+          "brawler": {
+            "id": 16000008,
+            "name": "NITA",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#GCC9CV8C2",
+              "name": "gxrardo6",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#8JQ8C9PCC",
+              "name": "pedropitertex",
+              "brawler": {
+                "id": 16000068,
+                "name": "MAISIE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#QJVRPC9QC",
+              "name": "kmcrac3",
+              "brawler": {
+                "id": 16000008,
+                "name": "NITA",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2YVCYPCVLV",
+              "name": "truenacuca$",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#YGP9U2Y8J",
+              "name": "DizzyKhan452300",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T060303.000Z",
+      "event": {
+        "id": 15000292,
+        "mode": "hotZone",
+        "map": "Open Business"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 87,
+        "starPlayer": {
+          "tag": "#2Q2LU0QVRC",
+          "name": "imNuts",
+          "brawler": {
+            "id": 16000019,
+            "name": "PENNY",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#9P9GUCQPG",
+              "name": "MojNoMneXa4a",
+              "brawler": {
+                "id": 16000036,
+                "name": "NANI",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2Q2LU0QVRC",
+              "name": "imNuts",
+              "brawler": {
+                "id": 16000019,
+                "name": "PENNY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000014,
+                "name": "BO",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2QVJ0UGRUR",
+              "name": "sophia",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LUL88LGPP",
+              "name": "hi",
+              "brawler": {
+                "id": 16000013,
+                "name": "POCO",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2Y8YUV0VR8",
+              "name": "leon",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T034618.000Z",
+      "event": {
+        "id": 15000850,
+        "mode": "unknown",
+        "map": "Super Center"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 73,
+        "starPlayer": {
+          "tag": "#800YGGYJL",
+          "name": "PeppaMomera",
+          "brawler": {
+            "id": 16000035,
+            "name": "GALE",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2RPQPGJVQ",
+              "name": "AN| T4T4N\ud83d\udc9a\ud83c\uddf3\ud83c\uddec",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#800YGGYJL",
+              "name": "PeppaMomera",
+              "brawler": {
+                "id": 16000035,
+                "name": "GALE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#RP0UGLJ8Q",
+              "name": "moodie",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#Y98Q8J9L9",
+              "name": "lil noushy vert",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#U8U8LCP8",
+              "name": "\ud835\ude34\uaa91\uaaae\uaaae\ud835\ude2c\uaa97 \u26e9\ufe0f",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T034403.000Z",
+      "event": {
+        "id": 15000050,
+        "mode": "brawlBall",
+        "map": "Sneaky Fields"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 57,
+        "starPlayer": {
+          "tag": "#P8P2U9902",
+          "name": ";)",
+          "brawler": {
+            "id": 16000034,
+            "name": "JACKY",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2LU0VVR98J",
+              "name": "Yeah",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#P8P2U9902",
+              "name": ";)",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#UYQ8GG209",
+              "name": "002",
+              "brawler": {
+                "id": 16000063,
+                "name": "CHESTER",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#R9UYYJL2P",
+              "name": "Floyd",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2RLG9VQUGP",
+              "name": "shiftymcgee",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 9,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T034210.000Z",
+      "event": {
+        "id": 15000050,
+        "mode": "brawlBall",
+        "map": "Sneaky Fields"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 143,
+        "starPlayer": {
+          "tag": "#U20U2LVY",
+          "name": "TRUEN\u00d8",
+          "brawler": {
+            "id": 16000004,
+            "name": "RICO",
+            "power": 10,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#JRRU2PY20",
+              "name": "ilovebig\ud83d\udc13",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#VP00YJYJ",
+              "name": "bot 6",
+              "brawler": {
+                "id": 16000076,
+                "name": "KIT",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#U20U2LVY",
+              "name": "TRUEN\u00d8",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2QG0Y88YPY",
+              "name": "fartfartfart",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#22PGLCRL0R",
+              "name": "MvpEduard",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T033757.000Z",
+      "event": {
+        "id": 15000007,
+        "mode": "gemGrab",
+        "map": "Hard Rock Mine"
+      },
+      "battle": {
+        "mode": "gemGrab",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 79,
+        "starPlayer": {
+          "tag": "#8RQ9QCLPP",
+          "name": "Nuggiez :p",
+          "brawler": {
+            "id": 16000047,
+            "name": "SQUEAK",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2YU99VLGGJ",
+              "name": "isabel:)",
+              "brawler": {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#8VRLR2CYJ",
+              "name": "demonking",
+              "brawler": {
+                "id": 16000040,
+                "name": "AMBER",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2YQQLP8UUV",
+              "name": "Hyper",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LCPJQPC0V",
+              "name": "Vortex",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#8RQ9QCLPP",
+              "name": "Nuggiez :p",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T033518.000Z",
+      "event": {
+        "id": 15000132,
+        "mode": "brawlBall",
+        "map": "Center Stage"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 56,
+        "starPlayer": {
+          "tag": "#LQQYGCV29",
+          "name": "colin",
+          "brawler": {
+            "id": 16000034,
+            "name": "JACKY",
+            "power": 9,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2GRY9UULVY",
+              "name": "jostin",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2L8RJCLR8Y",
+              "name": "your mom",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2GPV0RVQJ0",
+              "name": "bluslushie44",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#9QG8VG2GP",
+              "name": "Joshue007",
+              "brawler": {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2GJU9V228P",
+              "name": "\u4e48\u2020\u01a7H\u0196\u01a6\u01a0\u2605\u00d7\u035c\u00d7\u250a\u2075\u2070\u00b3",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T033325.000Z",
+      "event": {
+        "id": 15000292,
+        "mode": "hotZone",
+        "map": "Open Business"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 116,
+        "starPlayer": {
+          "tag": "#GQC9L2LRG",
+          "name": "\u2606Luis\u2606",
+          "brawler": {
+            "id": 16000054,
+            "name": "FANG",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2QYC2QVRPJ",
+              "name": "randomguy",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LLP2P2JJY",
+              "name": "JUSTKILLME",
+              "brawler": {
+                "id": 16000061,
+                "name": "GUS",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#GQC9L2LRG",
+              "name": "\u2606Luis\u2606",
+              "brawler": {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#28CRVGJ92",
+              "name": "K\u00f8\u00df\u00eb",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#RLYQ88P0P",
+              "name": "angel",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T033037.000Z",
+      "event": {
+        "id": 15000548,
+        "mode": "knockout",
+        "map": "Out in the Open"
+      },
+      "battle": {
+        "mode": "knockout",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 170,
+        "starPlayer": {
+          "tag": "#2QQUVU8R8U",
+          "name": "Cmoffitt7",
+          "brawler": {
+            "id": 16000043,
+            "name": "EDGAR",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#282C802VQY",
+              "name": "nave",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2QPVJV822L",
+              "name": "isaiah",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2R9GU98GPU",
+              "name": "clix",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#PPG0GQVJY",
+              "name": "simpll_/",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2QQUVU8R8U",
+              "name": "Cmoffitt7",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T032648.000Z",
+      "event": {
+        "id": 15000292,
+        "mode": "hotZone",
+        "map": "Open Business"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 134,
+        "starPlayer": {
+          "tag": "#2LG9JLLQJP",
+          "name": "KungsArmony",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#CPU8VUG8",
+              "name": "Brawler",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#YPY0C9QJY",
+              "name": "nicolas",
+              "brawler": {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 11,
+                "trophies": 3
+              }
+            },
+            {
+              "tag": "#LY20YP2LC",
+              "name": "NoSkill",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#GR0JRVGVL",
+              "name": "el chido",
+              "brawler": {
+                "id": 16000008,
+                "name": "NITA",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2LG9JLLQJP",
+              "name": "KungsArmony",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T032342.000Z",
+      "event": {
+        "id": 15000548,
+        "mode": "knockout",
+        "map": "Out in the Open"
+      },
+      "battle": {
+        "mode": "knockout",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 95,
+        "starPlayer": {
+          "tag": "#RGULYUQGY",
+          "name": "porcupinethe2nd",
+          "brawler": {
+            "id": 16000031,
+            "name": "MR. P",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#9JUGR0PGC",
+              "name": "Geb",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#22CPGQ89R",
+              "name": "BIGDAWG28",
+              "brawler": {
+                "id": 16000014,
+                "name": "BO",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#PC99CC9",
+              "name": "M3",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#RGULYUQGY",
+              "name": "porcupinethe2nd",
+              "brawler": {
+                "id": 16000031,
+                "name": "MR. P",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#GYR89U0V9",
+              "name": "Kirito",
+              "brawler": {
+                "id": 16000076,
+                "name": "KIT",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T032114.000Z",
+      "event": {
+        "id": 15000132,
+        "mode": "brawlBall",
+        "map": "Center Stage"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 150,
+        "starPlayer": {
+          "tag": "#89PLYV0U2",
+          "name": "\u00d7MANUEL\u00d7",
+          "brawler": {
+            "id": 16000034,
+            "name": "JACKY",
+            "power": 11,
+            "trophies": 6
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#89PLYV0U2",
+              "name": "\u00d7MANUEL\u00d7",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 11,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#QLG2VGRC",
+              "name": "\u00d7AGUIRRE\u00d7",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2QRLL9VU2G",
+              "name": "El killer\ud83c\udded\ud83c\uddf3\ud83e\udd11",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2L89VVY99G",
+              "name": "reegz",
+              "brawler": {
+                "id": 16000039,
+                "name": "COLETTE",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#GJ09G9J8V",
+              "name": "Dodobird",
+              "brawler": {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T031752.000Z",
+      "event": {
+        "id": 15000050,
+        "mode": "brawlBall",
+        "map": "Sneaky Fields"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "draw",
+        "duration": 210,
+        "starPlayer": {
+          "tag": "#2GLG0YPLYP",
+          "name": "joao",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 11,
+            "trophies": 7
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2QVQP2PPPJ",
+              "name": "messi",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#Q2JVJ0LR2",
+              "name": "TheDarkHawk",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#JPGVLJR9U",
+              "name": "Emmanuel",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2LC8JPVUGU",
+              "name": "Eeeee",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2GLG0YPLYP",
+              "name": "joao",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T031320.000Z",
+      "event": {
+        "id": 15000050,
+        "mode": "brawlBall",
+        "map": "Sneaky Fields"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 173,
+        "starPlayer": {
+          "tag": "#LQQYGCV29",
+          "name": "colin",
+          "brawler": {
+            "id": 16000047,
+            "name": "SQUEAK",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LCY90LYGU",
+              "name": "Diego_goat",
+              "brawler": {
+                "id": 16000045,
+                "name": "STU",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#92GLJGY8Y",
+              "name": "liltax",
+              "brawler": {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#GQ0R88QVU",
+              "name": "japa782",
+              "brawler": {
+                "id": 16000020,
+                "name": "FRANK",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2Q2YGCJUPQ",
+              "name": "otis",
+              "brawler": {
+                "id": 16000059,
+                "name": "OTIS",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2Y80RLQGUU",
+              "name": "Im-Him",
+              "brawler": {
+                "id": 16000026,
+                "name": "BIBI",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T030908.000Z",
+      "event": {
+        "id": 15000306,
+        "mode": "hotZone",
+        "map": "Dueling Beetles"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 97,
+        "starPlayer": {
+          "tag": "#2LCQJJ0C28",
+          "name": "C4TANA:)",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 11,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2QVRUCJLYQ",
+              "name": "Edgar2031",
+              "brawler": {
+                "id": 16000021,
+                "name": "GENE",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#QJGGVLR00",
+              "name": "Erkinkiller",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#289U2CGU20",
+              "name": "dani666",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 9,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#2LCQJJ0C28",
+              "name": "C4TANA:)",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#28JL9Q8R88",
+              "name": "Thomaster",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 9,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20250228T030557.000Z",
+      "event": {
+        "id": 15000850,
+        "mode": "unknown",
+        "map": "Super Center"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 150,
+        "starPlayer": {
+          "tag": "#LQQYGCV29",
+          "name": "colin",
+          "brawler": {
+            "id": 16000050,
+            "name": "GRIFF",
+            "power": 10,
+            "trophies": 8
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQQYGCV29",
+              "name": "colin",
+              "brawler": {
+                "id": 16000050,
+                "name": "GRIFF",
+                "power": 10,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#829CQY8CP",
+              "name": "Quiq",
+              "brawler": {
+                "id": 16000064,
+                "name": "GRAY",
+                "power": 11,
+                "trophies": 8
+              }
+            },
+            {
+              "tag": "#R90CCRPU",
+              "name": "\u2606PABLO247\u2606",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#2RCGQRGV9",
+              "name": "maiky536",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 11,
+                "trophies": 2
+              }
+            },
+            {
+              "tag": "#RGCYC9V80",
+              "name": "Arq.Dereck",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 2
+              }
+            },
+            {
+              "tag": "#G9VVVCRLR",
+              "name": "Marl\u00f3n",
+              "brawler": {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 11,
+                "trophies": 8
+              }
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
