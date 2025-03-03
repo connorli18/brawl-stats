@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000584
   },
-  "trophies": 43973,
-  "highestTrophies": 43973,
+  "trophies": 44023,
+  "highestTrophies": 44023,
   "expLevel": 176,
-  "expPoints": 160568,
+  "expPoints": 160738,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 8458,
+  "3vs3Victories": 8469,
   "soloVictories": 452,
-  "duoVictories": 965,
+  "duoVictories": 967,
   "bestRoboRumbleTime": 7,
   "bestTimeAsBigBrawler": 0,
   "club": {
@@ -385,8 +385,8 @@
       "name": "EL PRIMO",
       "power": 11,
       "rank": 31,
-      "trophies": 599,
-      "highestTrophies": 600,
+      "trophies": 616,
+      "highestTrophies": 616,
       "gears": [],
       "starPowers": [
         {
@@ -1532,6 +1532,10 @@
         {
           "id": 23000390,
           "name": "TOUGHER TORPEDO"
+        },
+        {
+          "id": 23000391,
+          "name": "EYES SHARP"
         }
       ],
       "gadgets": [
@@ -2422,12 +2426,17 @@
       "id": 16000089,
       "name": "MEEPLE",
       "power": 7,
-      "rank": 8,
-      "trophies": 144,
-      "highestTrophies": 144,
+      "rank": 9,
+      "trophies": 177,
+      "highestTrophies": 177,
       "gears": [],
       "starPowers": [],
-      "gadgets": []
+      "gadgets": [
+        {
+          "id": 23000877,
+          "name": "MANSIONS OF MEEPLE"
+        }
+      ]
     },
     {
       "id": 16000090,

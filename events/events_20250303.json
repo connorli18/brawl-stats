@@ -1,22 +1,22 @@
 [
   {
-    "startTime": "20250302T080000.000Z",
-    "endTime": "20250303T080000.000Z",
+    "startTime": "20250303T080000.000Z",
+    "endTime": "20250304T080000.000Z",
     "slotId": 1,
     "event": {
-      "id": 15000928,
+      "id": 15000929,
       "mode": "brawlBall",
-      "map": "Priceless Cactus"
+      "map": "Rooftop Runners"
     }
   },
   {
-    "startTime": "20250302T200000.000Z",
-    "endTime": "20250303T200000.000Z",
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
     "slotId": 2,
     "event": {
-      "id": 15000950,
+      "id": 15000959,
       "mode": "soloShowdown",
-      "map": "Feast or Famine"
+      "map": "Flying Fantasies"
     }
   },
   {
@@ -30,33 +30,43 @@
     }
   },
   {
-    "startTime": "20250302T140000.000Z",
-    "endTime": "20250303T140000.000Z",
+    "startTime": "20250303T140000.000Z",
+    "endTime": "20250304T140000.000Z",
     "slotId": 4,
     "event": {
-      "id": 15000018,
-      "mode": "heist",
-      "map": "Kaboom Canyon"
+      "id": 15000927,
+      "mode": "hotZone",
+      "map": "Fishing Bed"
     }
   },
   {
-    "startTime": "20250302T200000.000Z",
-    "endTime": "20250303T200000.000Z",
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
     "slotId": 5,
     "event": {
-      "id": 15000951,
+      "id": 15000960,
       "mode": "duoShowdown",
-      "map": "Feast or Famine"
+      "map": "Flying Fantasies"
     }
   },
   {
-    "startTime": "20250302T140000.000Z",
-    "endTime": "20250303T140000.000Z",
+    "startTime": "20250303T140000.000Z",
+    "endTime": "20250304T140000.000Z",
     "slotId": 6,
     "event": {
-      "id": 15000468,
-      "mode": "duels",
-      "map": "Monkey Maze"
+      "id": 15000471,
+      "mode": "wipeout",
+      "map": "Infinite Doom"
+    }
+  },
+  {
+    "startTime": "20250303T080000.000Z",
+    "endTime": "20250304T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000850,
+      "mode": "unknown",
+      "map": "Super Center"
     }
   },
   {
@@ -70,23 +80,23 @@
     }
   },
   {
-    "startTime": "20250302T080000.000Z",
-    "endTime": "20250303T080000.000Z",
+    "startTime": "20250303T080000.000Z",
+    "endTime": "20250304T080000.000Z",
     "slotId": 33,
     "event": {
-      "id": 15000971,
-      "mode": "brawlBall5V5",
-      "map": "Siberian Stand Off"
+      "id": 15000978,
+      "mode": "gemGrab5V5",
+      "map": "Shimmering Forest"
     }
   },
   {
-    "startTime": "20250302T200000.000Z",
-    "endTime": "20250303T200000.000Z",
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
     "slotId": 39,
     "event": {
-      "id": 15000952,
+      "id": 15000961,
       "mode": "trioShowdown",
-      "map": "Feast or Famine"
+      "map": "Flying Fantasies"
     }
   }
 ]
