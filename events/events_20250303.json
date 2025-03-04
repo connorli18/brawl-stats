@@ -20,13 +20,13 @@
     }
   },
   {
-    "startTime": "20250303T020000.000Z",
-    "endTime": "20250304T020000.000Z",
+    "startTime": "20250304T020000.000Z",
+    "endTime": "20250305T020000.000Z",
     "slotId": 3,
     "event": {
-      "id": 15000010,
+      "id": 15000007,
       "mode": "gemGrab",
-      "map": "Gem Fort"
+      "map": "Hard Rock Mine"
     }
   },
   {
@@ -70,13 +70,13 @@
     }
   },
   {
-    "startTime": "20250303T020000.000Z",
-    "endTime": "20250304T020000.000Z",
+    "startTime": "20250304T020000.000Z",
+    "endTime": "20250305T020000.000Z",
     "slotId": 15,
     "event": {
-      "id": 15000734,
+      "id": 15000367,
       "mode": "knockout",
-      "map": "Four Levels"
+      "map": "Goldarm Gulch"
     }
   },
   {
