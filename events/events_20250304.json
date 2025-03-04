@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250304T080000.000Z",
+    "endTime": "20250305T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000884,
+      "mode": "brawlBall",
+      "map": "Second Try"
+    }
+  },
+  {
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000959,
+      "mode": "soloShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20250304T020000.000Z",
+    "endTime": "20250305T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250304T140000.000Z",
+    "endTime": "20250305T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000137,
+      "mode": "heist",
+      "map": "Pit Stop"
+    }
+  },
+  {
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000960,
+      "mode": "duoShowdown",
+      "map": "Flying Fantasies"
+    }
+  },
+  {
+    "startTime": "20250304T140000.000Z",
+    "endTime": "20250305T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000022,
+      "mode": "bounty",
+      "map": "Hideout"
+    }
+  },
+  {
+    "startTime": "20250304T080000.000Z",
+    "endTime": "20250305T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000853,
+      "mode": "unknown",
+      "map": "Below Zero"
+    }
+  },
+  {
+    "startTime": "20250304T020000.000Z",
+    "endTime": "20250305T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250304T080000.000Z",
+    "endTime": "20250305T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000975,
+      "mode": "knockout5V5",
+      "map": "Survival of the Meanest"
+    }
+  },
+  {
+    "startTime": "20250303T200000.000Z",
+    "endTime": "20250304T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000961,
+      "mode": "trioShowdown",
+      "map": "Flying Fantasies"
+    }
+  }
+]
