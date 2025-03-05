@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250305T080000.000Z",
+    "endTime": "20250306T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20250304T200000.000Z",
+    "endTime": "20250305T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000990,
+      "mode": "soloShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250305T020000.000Z",
+    "endTime": "20250306T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20250305T140000.000Z",
+    "endTime": "20250306T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250304T200000.000Z",
+    "endTime": "20250305T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000991,
+      "mode": "duoShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250305T140000.000Z",
+    "endTime": "20250306T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000460,
+      "mode": "duels",
+      "map": "No Surrender"
+    }
+  },
+  {
+    "startTime": "20250305T080000.000Z",
+    "endTime": "20250306T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000854,
+      "mode": "unknown",
+      "map": "Cool Box"
+    }
+  },
+  {
+    "startTime": "20250305T020000.000Z",
+    "endTime": "20250306T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000882,
+      "mode": "knockout",
+      "map": "H for..."
+    }
+  },
+  {
+    "startTime": "20250305T080000.000Z",
+    "endTime": "20250306T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000973,
+      "mode": "wipeout5V5",
+      "map": "Mirages of Madness"
+    }
+  },
+  {
+    "startTime": "20250304T200000.000Z",
+    "endTime": "20250305T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000992,
+      "mode": "trioShowdown",
+      "map": "Lilypond Grove"
+    }
+  }
+]
