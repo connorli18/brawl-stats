@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250307T080000.000Z",
+    "endTime": "20250308T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000051,
+      "mode": "brawlBall",
+      "map": "Super Beach"
+    }
+  },
+  {
+    "startTime": "20250306T200000.000Z",
+    "endTime": "20250307T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000947,
+      "mode": "soloShowdown",
+      "map": "Rockwall Brawl"
+    }
+  },
+  {
+    "startTime": "20250307T020000.000Z",
+    "endTime": "20250308T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000932,
+      "mode": "gemGrab",
+      "map": "Local Restaurants"
+    }
+  },
+  {
+    "startTime": "20250307T140000.000Z",
+    "endTime": "20250308T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250306T200000.000Z",
+    "endTime": "20250307T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000948,
+      "mode": "duoShowdown",
+      "map": "Rockwall Brawl"
+    }
+  },
+  {
+    "startTime": "20250307T140000.000Z",
+    "endTime": "20250308T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000082,
+      "mode": "bounty",
+      "map": "Layer Cake"
+    }
+  },
+  {
+    "startTime": "20250307T080000.000Z",
+    "endTime": "20250308T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000850,
+      "mode": "unknown",
+      "map": "Super Center"
+    }
+  },
+  {
+    "startTime": "20250307T080000.000Z",
+    "endTime": "20250308T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000914,
+      "mode": "unknown",
+      "map": "Middle Management"
+    }
+  },
+  {
+    "startTime": "20250307T020000.000Z",
+    "endTime": "20250308T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000930,
+      "mode": "knockout",
+      "map": "Mossy Crossing"
+    }
+  },
+  {
+    "startTime": "20250307T080000.000Z",
+    "endTime": "20250308T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000980,
+      "mode": "gemGrab5V5",
+      "map": "Treasure Island"
+    }
+  },
+  {
+    "startTime": "20250306T200000.000Z",
+    "endTime": "20250307T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000949,
+      "mode": "trioShowdown",
+      "map": "Rockwall Brawl"
+    }
+  }
+]
