@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250309T080000.000Z",
+    "endTime": "20250310T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250309T200000.000Z",
+    "endTime": "20250310T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000984,
+      "mode": "soloShowdown",
+      "map": "Waveform"
+    }
+  },
+  {
+    "startTime": "20250309T020000.000Z",
+    "endTime": "20250310T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000343,
+      "mode": "gemGrab",
+      "map": "Rustic Arcade"
+    }
+  },
+  {
+    "startTime": "20250309T140000.000Z",
+    "endTime": "20250310T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000300,
+      "mode": "hotZone",
+      "map": "Ring of Fire"
+    }
+  },
+  {
+    "startTime": "20250309T200000.000Z",
+    "endTime": "20250310T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000985,
+      "mode": "duoShowdown",
+      "map": "Waveform"
+    }
+  },
+  {
+    "startTime": "20250309T140000.000Z",
+    "endTime": "20250310T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000479,
+      "mode": "wipeout",
+      "map": "Slayer's Paradise"
+    }
+  },
+  {
+    "startTime": "20250309T080000.000Z",
+    "endTime": "20250310T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000854,
+      "mode": "unknown",
+      "map": "Cool Box"
+    }
+  },
+  {
+    "startTime": "20250309T080000.000Z",
+    "endTime": "20250310T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000916,
+      "mode": "unknown",
+      "map": "Ancient Treasure"
+    }
+  },
+  {
+    "startTime": "20250309T020000.000Z",
+    "endTime": "20250310T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000528,
+      "mode": "knockout",
+      "map": "New Perspective"
+    }
+  },
+  {
+    "startTime": "20250309T080000.000Z",
+    "endTime": "20250310T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  },
+  {
+    "startTime": "20250309T200000.000Z",
+    "endTime": "20250310T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000986,
+      "mode": "trioShowdown",
+      "map": "Waveform"
+    }
+  }
+]
