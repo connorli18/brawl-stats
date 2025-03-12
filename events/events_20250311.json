@@ -10,23 +10,23 @@
     }
   },
   {
-    "startTime": "20250310T200000.000Z",
-    "endTime": "20250311T200000.000Z",
+    "startTime": "20250311T200000.000Z",
+    "endTime": "20250312T200000.000Z",
     "slotId": 2,
     "event": {
-      "id": 15000956,
+      "id": 15000953,
       "mode": "soloShowdown",
-      "map": "Acid Lakes"
+      "map": "Cavern Churn"
     }
   },
   {
-    "startTime": "20250311T020000.000Z",
-    "endTime": "20250312T020000.000Z",
+    "startTime": "20250312T020000.000Z",
+    "endTime": "20250313T020000.000Z",
     "slotId": 3,
     "event": {
-      "id": 15000008,
+      "id": 15000009,
       "mode": "gemGrab",
-      "map": "Crystal Arcade"
+      "map": "Deathcap Trap"
     }
   },
   {
@@ -40,13 +40,13 @@
     }
   },
   {
-    "startTime": "20250310T200000.000Z",
-    "endTime": "20250311T200000.000Z",
+    "startTime": "20250311T200000.000Z",
+    "endTime": "20250312T200000.000Z",
     "slotId": 5,
     "event": {
-      "id": 15000957,
+      "id": 15000954,
       "mode": "duoShowdown",
-      "map": "Acid Lakes"
+      "map": "Cavern Churn"
     }
   },
   {
@@ -70,13 +70,13 @@
     }
   },
   {
-    "startTime": "20250311T020000.000Z",
-    "endTime": "20250312T020000.000Z",
+    "startTime": "20250312T020000.000Z",
+    "endTime": "20250313T020000.000Z",
     "slotId": 15,
     "event": {
-      "id": 15000368,
+      "id": 15000679,
       "mode": "knockout",
-      "map": "Belle's Rock"
+      "map": "Close Quarters"
     }
   },
   {
@@ -90,13 +90,13 @@
     }
   },
   {
-    "startTime": "20250310T200000.000Z",
-    "endTime": "20250311T200000.000Z",
+    "startTime": "20250311T200000.000Z",
+    "endTime": "20250312T200000.000Z",
     "slotId": 39,
     "event": {
-      "id": 15000958,
+      "id": 15000955,
       "mode": "trioShowdown",
-      "map": "Acid Lakes"
+      "map": "Cavern Churn"
     }
   }
 ]
