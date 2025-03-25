@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250325T080000.000Z",
+    "endTime": "20250326T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250324T200000.000Z",
+    "endTime": "20250325T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000987,
+      "mode": "soloShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250325T020000.000Z",
+    "endTime": "20250326T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20250325T140000.000Z",
+    "endTime": "20250326T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250324T200000.000Z",
+    "endTime": "20250325T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000988,
+      "mode": "duoShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250325T140000.000Z",
+    "endTime": "20250326T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000082,
+      "mode": "bounty",
+      "map": "Layer Cake"
+    }
+  },
+  {
+    "startTime": "20250325T080000.000Z",
+    "endTime": "20250326T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000806,
+      "mode": "unknown",
+      "map": "Garbage Yard"
+    }
+  },
+  {
+    "startTime": "20250325T020000.000Z",
+    "endTime": "20250326T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000429,
+      "mode": "knockout",
+      "map": "Deep End"
+    }
+  },
+  {
+    "startTime": "20250325T080000.000Z",
+    "endTime": "20250326T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  },
+  {
+    "startTime": "20250324T200000.000Z",
+    "endTime": "20250325T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000989,
+      "mode": "trioShowdown",
+      "map": "Core of Orbit"
+    }
+  }
+]
