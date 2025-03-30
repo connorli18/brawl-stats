@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250330T080000.000Z",
+    "endTime": "20250331T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000144,
+      "mode": "brawlBall",
+      "map": "Sunny Soccer"
+    }
+  },
+  {
+    "startTime": "20250329T200000.000Z",
+    "endTime": "20250330T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000981,
+      "mode": "soloShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  },
+  {
+    "startTime": "20250330T020000.000Z",
+    "endTime": "20250331T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000931,
+      "mode": "gemGrab",
+      "map": "Lilygear Lake"
+    }
+  },
+  {
+    "startTime": "20250330T140000.000Z",
+    "endTime": "20250331T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000933,
+      "mode": "heist",
+      "map": "Plain Text"
+    }
+  },
+  {
+    "startTime": "20250329T200000.000Z",
+    "endTime": "20250330T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000982,
+      "mode": "duoShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  },
+  {
+    "startTime": "20250330T140000.000Z",
+    "endTime": "20250331T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000778,
+      "mode": "wipeout",
+      "map": "Spice Production"
+    }
+  },
+  {
+    "startTime": "20250330T080000.000Z",
+    "endTime": "20250331T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000804,
+      "mode": "unknown",
+      "map": "Waste Haven"
+    }
+  },
+  {
+    "startTime": "20250330T020000.000Z",
+    "endTime": "20250331T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000581,
+      "mode": "knockout",
+      "map": "Healthy Middle Ground"
+    }
+  },
+  {
+    "startTime": "20250330T080000.000Z",
+    "endTime": "20250331T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000910,
+      "mode": "brawlBall5V5",
+      "map": "Polar Park"
+    }
+  },
+  {
+    "startTime": "20250329T200000.000Z",
+    "endTime": "20250330T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000983,
+      "mode": "trioShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  }
+]
