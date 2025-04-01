@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250401T080000.000Z",
+    "endTime": "20250402T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000885,
+      "mode": "brawlBall",
+      "map": "Trickey"
+    }
+  },
+  {
+    "startTime": "20250331T200000.000Z",
+    "endTime": "20250401T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000968,
+      "mode": "soloShowdown",
+      "map": "Safety Center"
+    }
+  },
+  {
+    "startTime": "20250401T020000.000Z",
+    "endTime": "20250402T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000499,
+      "mode": "gemGrab",
+      "map": "Open Space"
+    }
+  },
+  {
+    "startTime": "20250331T140000.000Z",
+    "endTime": "20250401T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250331T200000.000Z",
+    "endTime": "20250401T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000969,
+      "mode": "duoShowdown",
+      "map": "Safety Center"
+    }
+  },
+  {
+    "startTime": "20250331T140000.000Z",
+    "endTime": "20250401T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000005,
+      "mode": "bounty",
+      "map": "Shooting Star"
+    }
+  },
+  {
+    "startTime": "20250401T080000.000Z",
+    "endTime": "20250402T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000806,
+      "mode": "unknown",
+      "map": "Garbage Yard"
+    }
+  },
+  {
+    "startTime": "20250401T020000.000Z",
+    "endTime": "20250402T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000703,
+      "mode": "knockout",
+      "map": "New Horizons"
+    }
+  },
+  {
+    "startTime": "20250401T080000.000Z",
+    "endTime": "20250402T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000700,
+      "mode": "knockout5V5",
+      "map": "Sizzling Chambers"
+    }
+  },
+  {
+    "startTime": "20250331T200000.000Z",
+    "endTime": "20250401T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000970,
+      "mode": "trioShowdown",
+      "map": "Safety Center"
+    }
+  }
+]
