@@ -1,0 +1,152 @@
+[
+  {
+    "startTime": "20250402T080000.000Z",
+    "endTime": "20250403T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250401T200000.000Z",
+    "endTime": "20250402T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000944,
+      "mode": "soloShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20250402T020000.000Z",
+    "endTime": "20250403T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000343,
+      "mode": "gemGrab",
+      "map": "Rustic Arcade"
+    }
+  },
+  {
+    "startTime": "20250402T140000.000Z",
+    "endTime": "20250403T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000300,
+      "mode": "hotZone",
+      "map": "Ring of Fire"
+    }
+  },
+  {
+    "startTime": "20250401T200000.000Z",
+    "endTime": "20250402T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000945,
+      "mode": "duoShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20250402T140000.000Z",
+    "endTime": "20250403T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000682,
+      "mode": "wipeout",
+      "map": "The Great Open"
+    }
+  },
+  {
+    "startTime": "20250402T080000.000Z",
+    "endTime": "20250403T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000807,
+      "mode": "unknown",
+      "map": "Litterbug Lane"
+    }
+  },
+  {
+    "startTime": "20250402T020000.000Z",
+    "endTime": "20250403T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000528,
+      "mode": "knockout",
+      "map": "New Perspective"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000022,
+      "mode": "bounty",
+      "map": "Hideout"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 24,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250402T080000.000Z",
+    "endTime": "20250403T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000974,
+      "mode": "wipeout5V5",
+      "map": "Courtyard Clashers"
+    }
+  },
+  {
+    "startTime": "20250401T200000.000Z",
+    "endTime": "20250402T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000946,
+      "mode": "trioShowdown",
+      "map": "Skull Creek"
+    }
+  }
+]
