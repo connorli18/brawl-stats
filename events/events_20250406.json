@@ -1,0 +1,152 @@
+[
+  {
+    "startTime": "20250406T080000.000Z",
+    "endTime": "20250407T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000965,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250406T020000.000Z",
+    "endTime": "20250407T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20250406T140000.000Z",
+    "endTime": "20250407T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000966,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250406T140000.000Z",
+    "endTime": "20250407T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000083,
+      "mode": "bounty",
+      "map": "Dry Season"
+    }
+  },
+  {
+    "startTime": "20250406T080000.000Z",
+    "endTime": "20250407T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000804,
+      "mode": "unknown",
+      "map": "Waste Haven"
+    }
+  },
+  {
+    "startTime": "20250406T020000.000Z",
+    "endTime": "20250407T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000429,
+      "mode": "knockout",
+      "map": "Deep End"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000022,
+      "mode": "bounty",
+      "map": "Hideout"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000007,
+      "mode": "gemGrab",
+      "map": "Hard Rock Mine"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 23,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250404T070000.000Z",
+    "endTime": "20250407T070000.000Z",
+    "slotId": 24,
+    "event": {
+      "id": 15000367,
+      "mode": "knockout",
+      "map": "Goldarm Gulch"
+    }
+  },
+  {
+    "startTime": "20250406T080000.000Z",
+    "endTime": "20250407T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000973,
+      "mode": "wipeout5V5",
+      "map": "Mirages of Madness"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000967,
+      "mode": "trioShowdown",
+      "map": "Double Trouble"
+    }
+  }
+]
