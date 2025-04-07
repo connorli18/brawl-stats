@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250407T080000.000Z",
+    "endTime": "20250408T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000928,
+      "mode": "brawlBall",
+      "map": "Priceless Cactus"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000965,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250407T020000.000Z",
+    "endTime": "20250408T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000880,
+      "mode": "gemGrab",
+      "map": "Forest Clearing"
+    }
+  },
+  {
+    "startTime": "20250407T140000.000Z",
+    "endTime": "20250408T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000018,
+      "mode": "heist",
+      "map": "Kaboom Canyon"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000966,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250407T140000.000Z",
+    "endTime": "20250408T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000468,
+      "mode": "duels",
+      "map": "Monkey Maze"
+    }
+  },
+  {
+    "startTime": "20250407T080000.000Z",
+    "endTime": "20250408T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000805,
+      "mode": "unknown",
+      "map": "In The Bins"
+    }
+  },
+  {
+    "startTime": "20250407T020000.000Z",
+    "endTime": "20250408T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000502,
+      "mode": "knockout",
+      "map": "Flowing Springs"
+    }
+  },
+  {
+    "startTime": "20250407T080000.000Z",
+    "endTime": "20250408T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000919,
+      "mode": "brawlBall5V5",
+      "map": "Stockpile Stadium"
+    }
+  },
+  {
+    "startTime": "20250406T200000.000Z",
+    "endTime": "20250407T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000967,
+      "mode": "trioShowdown",
+      "map": "Double Trouble"
+    }
+  }
+]

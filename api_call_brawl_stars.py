@@ -102,6 +102,7 @@ def get_public_ip_to_config() -> str:
         "128.59.176.253": "bway4",
         "128.59.179.121": "new_ip_colum",
         "108.27.227.239": "coffee",
+        "128.59.177.14": "bway411"
     }
 
     try:
