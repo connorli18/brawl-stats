@@ -1,0 +1,102 @@
+[
+  {
+    "startTime": "20250408T080000.000Z",
+    "endTime": "20250409T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000929,
+      "mode": "brawlBall",
+      "map": "Rooftop Runners"
+    }
+  },
+  {
+    "startTime": "20250407T200000.000Z",
+    "endTime": "20250408T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000950,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250408T020000.000Z",
+    "endTime": "20250409T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250408T140000.000Z",
+    "endTime": "20250409T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000927,
+      "mode": "hotZone",
+      "map": "Fishing Bed"
+    }
+  },
+  {
+    "startTime": "20250407T200000.000Z",
+    "endTime": "20250408T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000951,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250408T140000.000Z",
+    "endTime": "20250409T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000471,
+      "mode": "wipeout",
+      "map": "Infinite Doom"
+    }
+  },
+  {
+    "startTime": "20250408T080000.000Z",
+    "endTime": "20250409T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000806,
+      "mode": "unknown",
+      "map": "Garbage Yard"
+    }
+  },
+  {
+    "startTime": "20250408T020000.000Z",
+    "endTime": "20250409T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20250408T080000.000Z",
+    "endTime": "20250409T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000980,
+      "mode": "gemGrab5V5",
+      "map": "Treasure Island"
+    }
+  },
+  {
+    "startTime": "20250407T200000.000Z",
+    "endTime": "20250408T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000952,
+      "mode": "trioShowdown",
+      "map": "Feast or Famine"
+    }
+  }
+]
