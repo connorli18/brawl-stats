@@ -1,0 +1,132 @@
+[
+  {
+    "startTime": "20250410T080000.000Z",
+    "endTime": "20250411T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20250409T200000.000Z",
+    "endTime": "20250410T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000990,
+      "mode": "soloShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250410T020000.000Z",
+    "endTime": "20250411T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20250410T140000.000Z",
+    "endTime": "20250411T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20250409T200000.000Z",
+    "endTime": "20250410T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000991,
+      "mode": "duoShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250410T140000.000Z",
+    "endTime": "20250411T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000460,
+      "mode": "duels",
+      "map": "No Surrender"
+    }
+  },
+  {
+    "startTime": "20250410T080000.000Z",
+    "endTime": "20250411T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250410T020000.000Z",
+    "endTime": "20250411T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000882,
+      "mode": "knockout",
+      "map": "H for..."
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000912,
+      "mode": "unknown",
+      "map": "Reverse Crossing"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250410T080000.000Z",
+    "endTime": "20250411T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  },
+  {
+    "startTime": "20250409T200000.000Z",
+    "endTime": "20250410T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000992,
+      "mode": "trioShowdown",
+      "map": "Lilypond Grove"
+    }
+  }
+]
