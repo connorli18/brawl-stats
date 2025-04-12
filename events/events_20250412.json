@@ -1,0 +1,132 @@
+[
+  {
+    "startTime": "20250412T080000.000Z",
+    "endTime": "20250413T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000051,
+      "mode": "brawlBall",
+      "map": "Super Beach"
+    }
+  },
+  {
+    "startTime": "20250411T200000.000Z",
+    "endTime": "20250412T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000947,
+      "mode": "soloShowdown",
+      "map": "Rockwall Brawl"
+    }
+  },
+  {
+    "startTime": "20250412T020000.000Z",
+    "endTime": "20250413T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000932,
+      "mode": "gemGrab",
+      "map": "Local Restaurants"
+    }
+  },
+  {
+    "startTime": "20250412T140000.000Z",
+    "endTime": "20250413T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250411T200000.000Z",
+    "endTime": "20250412T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000948,
+      "mode": "duoShowdown",
+      "map": "Rockwall Brawl"
+    }
+  },
+  {
+    "startTime": "20250412T140000.000Z",
+    "endTime": "20250413T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000082,
+      "mode": "bounty",
+      "map": "Layer Cake"
+    }
+  },
+  {
+    "startTime": "20250412T080000.000Z",
+    "endTime": "20250413T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250412T020000.000Z",
+    "endTime": "20250413T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000930,
+      "mode": "knockout",
+      "map": "Mossy Crossing"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000912,
+      "mode": "unknown",
+      "map": "Reverse Crossing"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250412T080000.000Z",
+    "endTime": "20250413T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000979,
+      "mode": "gemGrab5V5",
+      "map": "Arctic Ambush"
+    }
+  },
+  {
+    "startTime": "20250411T200000.000Z",
+    "endTime": "20250412T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000949,
+      "mode": "trioShowdown",
+      "map": "Rockwall Brawl"
+    }
+  }
+]
