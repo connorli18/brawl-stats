@@ -1,0 +1,132 @@
+[
+  {
+    "startTime": "20250415T080000.000Z",
+    "endTime": "20250416T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000024,
+      "mode": "brawlBall",
+      "map": "Backyard Bowl"
+    }
+  },
+  {
+    "startTime": "20250414T200000.000Z",
+    "endTime": "20250415T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000984,
+      "mode": "soloShowdown",
+      "map": "Waveform"
+    }
+  },
+  {
+    "startTime": "20250415T020000.000Z",
+    "endTime": "20250416T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000011,
+      "mode": "gemGrab",
+      "map": "Undermine"
+    }
+  },
+  {
+    "startTime": "20250415T140000.000Z",
+    "endTime": "20250416T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000072,
+      "mode": "heist",
+      "map": "Bridge Too Far"
+    }
+  },
+  {
+    "startTime": "20250414T200000.000Z",
+    "endTime": "20250415T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000985,
+      "mode": "duoShowdown",
+      "map": "Waveform"
+    }
+  },
+  {
+    "startTime": "20250415T140000.000Z",
+    "endTime": "20250416T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000295,
+      "mode": "bounty",
+      "map": "No Excuses"
+    }
+  },
+  {
+    "startTime": "20250415T080000.000Z",
+    "endTime": "20250416T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250415T020000.000Z",
+    "endTime": "20250416T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000548,
+      "mode": "knockout",
+      "map": "Out in the Open"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000912,
+      "mode": "unknown",
+      "map": "Reverse Crossing"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250415T080000.000Z",
+    "endTime": "20250416T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000910,
+      "mode": "brawlBall5V5",
+      "map": "Polar Park"
+    }
+  },
+  {
+    "startTime": "20250414T200000.000Z",
+    "endTime": "20250415T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000986,
+      "mode": "trioShowdown",
+      "map": "Waveform"
+    }
+  }
+]
