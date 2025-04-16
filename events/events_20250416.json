@@ -1,0 +1,132 @@
+[
+  {
+    "startTime": "20250416T080000.000Z",
+    "endTime": "20250417T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000143,
+      "mode": "brawlBall",
+      "map": "Beach Ball"
+    }
+  },
+  {
+    "startTime": "20250415T200000.000Z",
+    "endTime": "20250416T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000956,
+      "mode": "soloShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20250416T020000.000Z",
+    "endTime": "20250417T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000008,
+      "mode": "gemGrab",
+      "map": "Crystal Arcade"
+    }
+  },
+  {
+    "startTime": "20250416T140000.000Z",
+    "endTime": "20250417T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000926,
+      "mode": "hotZone",
+      "map": "Bejeweled"
+    }
+  },
+  {
+    "startTime": "20250415T200000.000Z",
+    "endTime": "20250416T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000957,
+      "mode": "duoShowdown",
+      "map": "Acid Lakes"
+    }
+  },
+  {
+    "startTime": "20250416T140000.000Z",
+    "endTime": "20250417T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000463,
+      "mode": "duels",
+      "map": "Warrior's Way"
+    }
+  },
+  {
+    "startTime": "20250416T080000.000Z",
+    "endTime": "20250417T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250416T020000.000Z",
+    "endTime": "20250417T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000368,
+      "mode": "knockout",
+      "map": "Belle's Rock"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 20,
+    "event": {
+      "id": 15000909,
+      "mode": "unknown",
+      "map": "Wild Greens"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 21,
+    "event": {
+      "id": 15000912,
+      "mode": "unknown",
+      "map": "Reverse Crossing"
+    }
+  },
+  {
+    "startTime": "20250410T090000.000Z",
+    "endTime": "20250417T090000.000Z",
+    "slotId": 22,
+    "event": {
+      "id": 15000913,
+      "mode": "unknown",
+      "map": "Skipyard"
+    }
+  },
+  {
+    "startTime": "20250416T080000.000Z",
+    "endTime": "20250417T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000641,
+      "mode": "gemGrab5V5",
+      "map": "Arctic extraction"
+    }
+  },
+  {
+    "startTime": "20250415T200000.000Z",
+    "endTime": "20250416T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000958,
+      "mode": "trioShowdown",
+      "map": "Acid Lakes"
+    }
+  }
+]
