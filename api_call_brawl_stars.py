@@ -103,7 +103,8 @@ def get_public_ip_to_config() -> str:
         "128.59.179.121": "new_ip_colum",
         "108.27.227.239": "coffee",
         "128.59.177.14": "bway411",
-        "128.59.177.152": "poop"
+        "128.59.177.152": "poop",
+        "128.59.178.41": "dawg",
     }
 
     try:
@@ -140,7 +141,7 @@ def main_player_test():
         'bolu': 'JJVGPCLP',
         'aaron': 'QJ092J8CU',
         'jackson': '8JYJY298', 
-        'rishi': 'V2LLC89Q'
+        'rishi': 'V2LLC89Q',
     }
 
     for player_tag in player_tag.values(): 

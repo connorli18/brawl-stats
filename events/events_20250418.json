@@ -1,0 +1,92 @@
+[
+  {
+    "startTime": "20250418T080000.000Z",
+    "endTime": "20250419T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250417T200000.000Z",
+    "endTime": "20250418T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000987,
+      "mode": "soloShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250418T020000.000Z",
+    "endTime": "20250419T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000115,
+      "mode": "gemGrab",
+      "map": "Double Swoosh"
+    }
+  },
+  {
+    "startTime": "20250418T140000.000Z",
+    "endTime": "20250419T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250417T200000.000Z",
+    "endTime": "20250418T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000988,
+      "mode": "duoShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250418T140000.000Z",
+    "endTime": "20250419T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000005,
+      "mode": "bounty",
+      "map": "Shooting Star"
+    }
+  },
+  {
+    "startTime": "20250418T020000.000Z",
+    "endTime": "20250419T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000429,
+      "mode": "knockout",
+      "map": "Deep End"
+    }
+  },
+  {
+    "startTime": "20250418T080000.000Z",
+    "endTime": "20250419T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000974,
+      "mode": "wipeout5V5",
+      "map": "Courtyard Clashers"
+    }
+  },
+  {
+    "startTime": "20250417T200000.000Z",
+    "endTime": "20250418T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000989,
+      "mode": "trioShowdown",
+      "map": "Core of Orbit"
+    }
+  }
+]
