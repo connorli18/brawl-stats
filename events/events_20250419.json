@@ -1,0 +1,92 @@
+[
+  {
+    "startTime": "20250419T080000.000Z",
+    "endTime": "20250420T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000928,
+      "mode": "brawlBall",
+      "map": "Priceless Cactus"
+    }
+  },
+  {
+    "startTime": "20250418T200000.000Z",
+    "endTime": "20250419T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000965,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250419T020000.000Z",
+    "endTime": "20250420T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000880,
+      "mode": "gemGrab",
+      "map": "Forest Clearing"
+    }
+  },
+  {
+    "startTime": "20250419T140000.000Z",
+    "endTime": "20250420T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000018,
+      "mode": "heist",
+      "map": "Kaboom Canyon"
+    }
+  },
+  {
+    "startTime": "20250418T200000.000Z",
+    "endTime": "20250419T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000966,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250419T140000.000Z",
+    "endTime": "20250420T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
+    }
+  },
+  {
+    "startTime": "20250419T020000.000Z",
+    "endTime": "20250420T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000502,
+      "mode": "knockout",
+      "map": "Flowing Springs"
+    }
+  },
+  {
+    "startTime": "20250419T080000.000Z",
+    "endTime": "20250420T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000971,
+      "mode": "brawlBall5V5",
+      "map": "Siberian Stand Off"
+    }
+  },
+  {
+    "startTime": "20250418T200000.000Z",
+    "endTime": "20250419T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000967,
+      "mode": "trioShowdown",
+      "map": "Double Trouble"
+    }
+  }
+]
