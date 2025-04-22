@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000248
   },
-  "trophies": 19440,
-  "highestTrophies": 19442,
-  "expLevel": 88,
-  "expPoints": 41787,
+  "trophies": 19469,
+  "highestTrophies": 19504,
+  "expLevel": 89,
+  "expPoints": 41943,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 2420,
-  "soloVictories": 140,
+  "3vs3Victories": 2422,
+  "soloVictories": 143,
   "duoVictories": 304,
   "bestRoboRumbleTime": 0,
   "bestTimeAsBigBrawler": 0,
@@ -100,7 +100,7 @@
       "name": "BROCK",
       "power": 11,
       "rank": 45,
-      "trophies": 887,
+      "trophies": 852,
       "highestTrophies": 895,
       "gears": [
         {
@@ -311,8 +311,8 @@
       "name": "DYNAMIKE",
       "power": 9,
       "rank": 32,
-      "trophies": 616,
-      "highestTrophies": 620,
+      "trophies": 629,
+      "highestTrophies": 637,
       "gears": [],
       "starPowers": [
         {
@@ -711,8 +711,8 @@
       "name": "GALE",
       "power": 10,
       "rank": 30,
-      "trophies": 584,
-      "highestTrophies": 584,
+      "trophies": 585,
+      "highestTrophies": 585,
       "gears": [
         {
           "id": 62000002,
@@ -738,8 +738,8 @@
       "name": "NANI",
       "power": 11,
       "rank": 33,
-      "trophies": 646,
-      "highestTrophies": 654,
+      "trophies": 656,
+      "highestTrophies": 656,
       "gears": [
         {
           "id": 62000002,
@@ -777,9 +777,9 @@
       "id": 16000038,
       "name": "SURGE",
       "power": 7,
-      "rank": 15,
-      "trophies": 287,
-      "highestTrophies": 287,
+      "rank": 16,
+      "trophies": 319,
+      "highestTrophies": 319,
       "gears": [],
       "starPowers": [],
       "gadgets": [
@@ -809,6 +809,10 @@
       "highestTrophies": 626,
       "gears": [],
       "starPowers": [
+        {
+          "id": 23000331,
+          "name": "MALAISE"
+        },
         {
           "id": 23000332,
           "name": "INJECTION"
@@ -895,8 +899,8 @@
       "name": "GRIFF",
       "power": 6,
       "rank": 11,
-      "trophies": 204,
-      "highestTrophies": 206,
+      "trophies": 212,
+      "highestTrophies": 212,
       "gears": [],
       "starPowers": [],
       "gadgets": []

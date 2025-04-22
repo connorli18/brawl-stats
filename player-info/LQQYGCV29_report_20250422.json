@@ -4,14 +4,14 @@
   "icon": {
     "id": 28000399
   },
-  "trophies": 37007,
-  "highestTrophies": 37007,
-  "expLevel": 166,
-  "expPoints": 143577,
+  "trophies": 37024,
+  "highestTrophies": 37024,
+  "expLevel": 167,
+  "expPoints": 143689,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 7430,
+  "3vs3Victories": 7436,
   "soloVictories": 489,
-  "duoVictories": 782,
+  "duoVictories": 783,
   "bestRoboRumbleTime": 5,
   "bestTimeAsBigBrawler": 0,
   "club": {
@@ -491,8 +491,8 @@
       "name": "TARA",
       "power": 9,
       "rank": 30,
-      "trophies": 578,
-      "highestTrophies": 587,
+      "trophies": 595,
+      "highestTrophies": 595,
       "gears": [
         {
           "id": 62000014,
@@ -946,6 +946,10 @@
         }
       ],
       "gadgets": [
+        {
+          "id": 23000254,
+          "name": "PHASE SHIFTER"
+        },
         {
           "id": 23000311,
           "name": "SNEAKY SNEAKERS"
