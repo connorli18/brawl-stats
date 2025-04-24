@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250424T080000.000Z",
+    "endTime": "20250425T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000026,
+      "mode": "brawlBall",
+      "map": "Pinhole Punt"
+    }
+  },
+  {
+    "startTime": "20250423T200000.000Z",
+    "endTime": "20250424T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000987,
+      "mode": "soloShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250424T020000.000Z",
+    "endTime": "20250425T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15001027,
+      "mode": "gemGrab",
+      "map": "Storage Sector"
+    }
+  },
+  {
+    "startTime": "20250424T140000.000Z",
+    "endTime": "20250425T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000527,
+      "mode": "hotZone",
+      "map": "Open Zone"
+    }
+  },
+  {
+    "startTime": "20250423T200000.000Z",
+    "endTime": "20250424T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000988,
+      "mode": "duoShowdown",
+      "map": "Core of Orbit"
+    }
+  },
+  {
+    "startTime": "20250424T140000.000Z",
+    "endTime": "20250425T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000463,
+      "mode": "duels",
+      "map": "Warrior's Way"
+    }
+  },
+  {
+    "startTime": "20250424T080000.000Z",
+    "endTime": "20250425T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000914,
+      "mode": "unknown",
+      "map": "Middle Management"
+    }
+  },
+  {
+    "startTime": "20250424T080000.000Z",
+    "endTime": "20250425T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000852,
+      "mode": "unknown",
+      "map": "Bouncy Bowl"
+    }
+  },
+  {
+    "startTime": "20250424T020000.000Z",
+    "endTime": "20250425T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15001019,
+      "mode": "knockout",
+      "map": "Streets with no Name"
+    }
+  },
+  {
+    "startTime": "20250424T080000.000Z",
+    "endTime": "20250425T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000980,
+      "mode": "gemGrab5V5",
+      "map": "Treasure Island"
+    }
+  },
+  {
+    "startTime": "20250423T200000.000Z",
+    "endTime": "20250424T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000989,
+      "mode": "trioShowdown",
+      "map": "Core of Orbit"
+    }
+  }
+]
