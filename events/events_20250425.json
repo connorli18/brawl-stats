@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250425T080000.000Z",
+    "endTime": "20250426T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000928,
+      "mode": "brawlBall",
+      "map": "Priceless Cactus"
+    }
+  },
+  {
+    "startTime": "20250424T200000.000Z",
+    "endTime": "20250425T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000965,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250425T020000.000Z",
+    "endTime": "20250426T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000880,
+      "mode": "gemGrab",
+      "map": "Forest Clearing"
+    }
+  },
+  {
+    "startTime": "20250425T140000.000Z",
+    "endTime": "20250426T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000019,
+      "mode": "heist",
+      "map": "Safe Zone"
+    }
+  },
+  {
+    "startTime": "20250424T200000.000Z",
+    "endTime": "20250425T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000966,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20250425T140000.000Z",
+    "endTime": "20250426T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000005,
+      "mode": "bounty",
+      "map": "Shooting Star"
+    }
+  },
+  {
+    "startTime": "20250425T080000.000Z",
+    "endTime": "20250426T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000915,
+      "mode": "unknown",
+      "map": "Treasure Marks the Spot"
+    }
+  },
+  {
+    "startTime": "20250425T080000.000Z",
+    "endTime": "20250426T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000853,
+      "mode": "unknown",
+      "map": "Below Zero"
+    }
+  },
+  {
+    "startTime": "20250425T020000.000Z",
+    "endTime": "20250426T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000502,
+      "mode": "knockout",
+      "map": "Flowing Springs"
+    }
+  },
+  {
+    "startTime": "20250425T080000.000Z",
+    "endTime": "20250426T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000923,
+      "mode": "knockout5V5",
+      "map": "Unhappy Arena"
+    }
+  },
+  {
+    "startTime": "20250424T200000.000Z",
+    "endTime": "20250425T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000967,
+      "mode": "trioShowdown",
+      "map": "Double Trouble"
+    }
+  }
+]
