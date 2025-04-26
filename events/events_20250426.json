@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250426T080000.000Z",
+    "endTime": "20250427T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000929,
+      "mode": "brawlBall",
+      "map": "Rooftop Runners"
+    }
+  },
+  {
+    "startTime": "20250425T200000.000Z",
+    "endTime": "20250426T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000950,
+      "mode": "soloShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250426T020000.000Z",
+    "endTime": "20250427T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000010,
+      "mode": "gemGrab",
+      "map": "Gem Fort"
+    }
+  },
+  {
+    "startTime": "20250426T140000.000Z",
+    "endTime": "20250427T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000300,
+      "mode": "hotZone",
+      "map": "Ring of Fire"
+    }
+  },
+  {
+    "startTime": "20250425T200000.000Z",
+    "endTime": "20250426T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000951,
+      "mode": "duoShowdown",
+      "map": "Feast or Famine"
+    }
+  },
+  {
+    "startTime": "20250426T140000.000Z",
+    "endTime": "20250427T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000832,
+      "mode": "duels",
+      "map": "Zen Garden"
+    }
+  },
+  {
+    "startTime": "20250426T080000.000Z",
+    "endTime": "20250427T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000916,
+      "mode": "unknown",
+      "map": "Ancient Treasure"
+    }
+  },
+  {
+    "startTime": "20250426T080000.000Z",
+    "endTime": "20250427T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000854,
+      "mode": "unknown",
+      "map": "Cool Box"
+    }
+  },
+  {
+    "startTime": "20250426T020000.000Z",
+    "endTime": "20250427T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000734,
+      "mode": "knockout",
+      "map": "Four Levels"
+    }
+  },
+  {
+    "startTime": "20250426T080000.000Z",
+    "endTime": "20250427T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000720,
+      "mode": "wipeout5V5",
+      "map": "Riverbank Crossing"
+    }
+  },
+  {
+    "startTime": "20250425T200000.000Z",
+    "endTime": "20250426T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000952,
+      "mode": "trioShowdown",
+      "map": "Feast or Famine"
+    }
+  }
+]
