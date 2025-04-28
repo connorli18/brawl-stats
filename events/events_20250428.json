@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250428T080000.000Z",
+    "endTime": "20250429T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000050,
+      "mode": "brawlBall",
+      "map": "Sneaky Fields"
+    }
+  },
+  {
+    "startTime": "20250427T200000.000Z",
+    "endTime": "20250428T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000990,
+      "mode": "soloShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250428T020000.000Z",
+    "endTime": "20250429T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000636,
+      "mode": "gemGrab",
+      "map": "Last Stop"
+    }
+  },
+  {
+    "startTime": "20250428T140000.000Z",
+    "endTime": "20250429T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000926,
+      "mode": "hotZone",
+      "map": "Bejeweled"
+    }
+  },
+  {
+    "startTime": "20250427T200000.000Z",
+    "endTime": "20250428T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000991,
+      "mode": "duoShowdown",
+      "map": "Lilypond Grove"
+    }
+  },
+  {
+    "startTime": "20250428T140000.000Z",
+    "endTime": "20250429T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000934,
+      "mode": "duels",
+      "map": "Hurricane"
+    }
+  },
+  {
+    "startTime": "20250428T080000.000Z",
+    "endTime": "20250429T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000918,
+      "mode": "unknown",
+      "map": "Can You Dig It"
+    }
+  },
+  {
+    "startTime": "20250428T080000.000Z",
+    "endTime": "20250429T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000850,
+      "mode": "unknown",
+      "map": "Super Center"
+    }
+  },
+  {
+    "startTime": "20250428T020000.000Z",
+    "endTime": "20250429T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000882,
+      "mode": "knockout",
+      "map": "H for..."
+    }
+  },
+  {
+    "startTime": "20250428T080000.000Z",
+    "endTime": "20250429T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000979,
+      "mode": "gemGrab5V5",
+      "map": "Arctic Ambush"
+    }
+  },
+  {
+    "startTime": "20250427T200000.000Z",
+    "endTime": "20250428T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000992,
+      "mode": "trioShowdown",
+      "map": "Lilypond Grove"
+    }
+  }
+]
