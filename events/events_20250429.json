@@ -1,0 +1,112 @@
+[
+  {
+    "startTime": "20250429T080000.000Z",
+    "endTime": "20250430T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000144,
+      "mode": "brawlBall",
+      "map": "Sunny Soccer"
+    }
+  },
+  {
+    "startTime": "20250428T200000.000Z",
+    "endTime": "20250429T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000981,
+      "mode": "soloShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  },
+  {
+    "startTime": "20250429T020000.000Z",
+    "endTime": "20250430T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000931,
+      "mode": "gemGrab",
+      "map": "Lilygear Lake"
+    }
+  },
+  {
+    "startTime": "20250428T140000.000Z",
+    "endTime": "20250429T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000926,
+      "mode": "hotZone",
+      "map": "Bejeweled"
+    }
+  },
+  {
+    "startTime": "20250428T200000.000Z",
+    "endTime": "20250429T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000982,
+      "mode": "duoShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  },
+  {
+    "startTime": "20250428T140000.000Z",
+    "endTime": "20250429T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000934,
+      "mode": "duels",
+      "map": "Hurricane"
+    }
+  },
+  {
+    "startTime": "20250429T080000.000Z",
+    "endTime": "20250430T080000.000Z",
+    "slotId": 8,
+    "event": {
+      "id": 15000924,
+      "mode": "unknown",
+      "map": "Brawl Starrgate"
+    }
+  },
+  {
+    "startTime": "20250429T080000.000Z",
+    "endTime": "20250430T080000.000Z",
+    "slotId": 10,
+    "event": {
+      "id": 15000851,
+      "mode": "unknown",
+      "map": "Slippery Slap"
+    }
+  },
+  {
+    "startTime": "20250429T020000.000Z",
+    "endTime": "20250430T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000581,
+      "mode": "knockout",
+      "map": "Healthy Middle Ground"
+    }
+  },
+  {
+    "startTime": "20250429T080000.000Z",
+    "endTime": "20250430T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000728,
+      "mode": "knockout5V5",
+      "map": "Crispy Crypt"
+    }
+  },
+  {
+    "startTime": "20250428T200000.000Z",
+    "endTime": "20250429T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000983,
+      "mode": "trioShowdown",
+      "map": "Mystical Thirty Three"
+    }
+  }
+]
