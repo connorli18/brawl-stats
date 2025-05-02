@@ -1,0 +1,92 @@
+[
+  {
+    "startTime": "20250502T080000.000Z",
+    "endTime": "20250503T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000025,
+      "mode": "brawlBall",
+      "map": "Triple Dribble"
+    }
+  },
+  {
+    "startTime": "20250501T200000.000Z",
+    "endTime": "20250502T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15000944,
+      "mode": "soloShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20250502T020000.000Z",
+    "endTime": "20250503T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000343,
+      "mode": "gemGrab",
+      "map": "Rustic Arcade"
+    }
+  },
+  {
+    "startTime": "20250502T140000.000Z",
+    "endTime": "20250503T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000306,
+      "mode": "hotZone",
+      "map": "Dueling Beetles"
+    }
+  },
+  {
+    "startTime": "20250501T200000.000Z",
+    "endTime": "20250502T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15000945,
+      "mode": "duoShowdown",
+      "map": "Skull Creek"
+    }
+  },
+  {
+    "startTime": "20250502T140000.000Z",
+    "endTime": "20250503T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000460,
+      "mode": "duels",
+      "map": "No Surrender"
+    }
+  },
+  {
+    "startTime": "20250502T020000.000Z",
+    "endTime": "20250503T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000528,
+      "mode": "knockout",
+      "map": "New Perspective"
+    }
+  },
+  {
+    "startTime": "20250502T080000.000Z",
+    "endTime": "20250503T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000641,
+      "mode": "gemGrab5V5",
+      "map": "Arctic extraction"
+    }
+  },
+  {
+    "startTime": "20250501T200000.000Z",
+    "endTime": "20250502T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15000946,
+      "mode": "trioShowdown",
+      "map": "Skull Creek"
+    }
+  }
+]

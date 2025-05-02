@@ -105,6 +105,7 @@ def get_public_ip_to_config() -> str:
         "128.59.177.14": "bway411",
         "128.59.177.152": "poop",
         "128.59.178.41": "dawg",
+        "128.59.176.98": "history-lab"
     }
 
     try:
