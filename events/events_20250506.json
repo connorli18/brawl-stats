@@ -1,0 +1,92 @@
+[
+  {
+    "startTime": "20250506T080000.000Z",
+    "endTime": "20250507T080000.000Z",
+    "slotId": 1,
+    "event": {
+      "id": 15000143,
+      "mode": "brawlBall",
+      "map": "Beach Ball"
+    }
+  },
+  {
+    "startTime": "20250505T200000.000Z",
+    "endTime": "20250506T200000.000Z",
+    "slotId": 2,
+    "event": {
+      "id": 15001015,
+      "mode": "soloShowdown",
+      "map": "Seeker"
+    }
+  },
+  {
+    "startTime": "20250506T020000.000Z",
+    "endTime": "20250507T020000.000Z",
+    "slotId": 3,
+    "event": {
+      "id": 15000009,
+      "mode": "gemGrab",
+      "map": "Deathcap Trap"
+    }
+  },
+  {
+    "startTime": "20250506T140000.000Z",
+    "endTime": "20250507T140000.000Z",
+    "slotId": 4,
+    "event": {
+      "id": 15000927,
+      "mode": "hotZone",
+      "map": "Fishing Bed"
+    }
+  },
+  {
+    "startTime": "20250505T200000.000Z",
+    "endTime": "20250506T200000.000Z",
+    "slotId": 5,
+    "event": {
+      "id": 15001016,
+      "mode": "duoShowdown",
+      "map": "Seeker"
+    }
+  },
+  {
+    "startTime": "20250506T140000.000Z",
+    "endTime": "20250507T140000.000Z",
+    "slotId": 6,
+    "event": {
+      "id": 15000463,
+      "mode": "duels",
+      "map": "Warrior's Way"
+    }
+  },
+  {
+    "startTime": "20250506T020000.000Z",
+    "endTime": "20250507T020000.000Z",
+    "slotId": 15,
+    "event": {
+      "id": 15000679,
+      "mode": "knockout",
+      "map": "Close Quarters"
+    }
+  },
+  {
+    "startTime": "20250506T080000.000Z",
+    "endTime": "20250507T080000.000Z",
+    "slotId": 33,
+    "event": {
+      "id": 15000978,
+      "mode": "gemGrab5V5",
+      "map": "Shimmering Forest"
+    }
+  },
+  {
+    "startTime": "20250505T200000.000Z",
+    "endTime": "20250506T200000.000Z",
+    "slotId": 39,
+    "event": {
+      "id": 15001017,
+      "mode": "trioShowdown",
+      "map": "Seeker"
+    }
+  }
+]
